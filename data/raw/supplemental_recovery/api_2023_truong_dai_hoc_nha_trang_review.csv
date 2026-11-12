@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Nha Trang,7340101 A,Quản trị kinh doanh (Chương trình song ngữ Anh - Việt),2023,THPT,A01;D01;D07;D96,20.5,Historical API 2023; THPT; Điểm tiếng Anh: 6.0,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=386&method_id=1&year=2023
+Trường ĐH Nha Trang,7340301 PHE,Kế toán (Chương trình song ngữ Anh - Việt),2023,THPT,A01;D01;D07;D96,20.0,Historical API 2023; THPT; Điểm tiếng Anh: 5.5,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=386&method_id=1&year=2023
+Trường ĐH Nha Trang,7480201 PHE,Công nghệ thông tin (Chương trình song ngữ Anh - Việt),2023,THPT,A01;D01;D07;D90,20.0,Historical API 2023; THPT; Điểm tiếng Anh: 5.5,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=386&method_id=1&year=2023
+Trường ĐH Nha Trang,7810201 PHE,Quản trị khách sạn (Chương trình song ngữ Anh - Việt),2023,THPT,A01;D01;D07;D96,22.0,Historical API 2023; THPT; Điểm tiếng Anh: 6.0,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=386&method_id=1&year=2023

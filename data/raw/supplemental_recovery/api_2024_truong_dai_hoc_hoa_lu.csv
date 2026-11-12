@@ -1,0 +1,8 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Hoa Lư,7140201,Giáo dục Mầm non,2024,THPT,D01;C00;A00;C14,26.62,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2024
+Trường ĐH Hoa Lư,7140202,Giáo dục Tiểu học,2024,THPT,M01;M07;M08;M05,27.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2024
+Trường ĐH Hoa Lư,7140209,Sư phạm Toán học,2024,THPT,A00;A01;D07;B08,26.03,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2024
+Trường ĐH Hoa Lư,7340101,Quản trị kinh doanh,2024,THPT,A00;A01;D01;A10,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2024
+Trường ĐH Hoa Lư,7340301,Kế toán,2024,THPT,A00;A01;D01;A10,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2024
+Trường ĐH Hoa Lư,7480201,Công nghệ thông tin,2024,THPT,A00;A01;D07;B08,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2024
+Trường ĐH Hoa Lư,7810101,Du lịch,2024,THPT,C00;D14;D66;D15,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2024

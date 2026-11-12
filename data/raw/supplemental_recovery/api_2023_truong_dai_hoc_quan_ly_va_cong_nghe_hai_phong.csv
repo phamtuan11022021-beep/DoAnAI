@@ -1,0 +1,7 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại học Quản lý và Công nghệ Hải Phòng,7220201,Ngôn ngữ Anh,2023,THPT,D01;D66;D14;D15,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=321&method_id=1&year=2023
+Trường Đại học Quản lý và Công nghệ Hải Phòng,7310630,Việt Nam học,2023,THPT,D01;D66;D14;C00,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=321&method_id=1&year=2023
+Trường Đại học Quản lý và Công nghệ Hải Phòng,7340101,Quản trị kinh doanh,2023,THPT,A01;A00;C14;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=321&method_id=1&year=2023
+Trường Đại học Quản lý và Công nghệ Hải Phòng,7480201,Công nghệ thông tin,2023,THPT,A00;A01;A10;D84,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=321&method_id=1&year=2023
+Trường Đại học Quản lý và Công nghệ Hải Phòng,7510301,Kĩ thuật điện – Điện tử,2023,THPT,A00;A02;A10;D84,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=321&method_id=1&year=2023
+Trường Đại học Quản lý và Công nghệ Hải Phòng,7520320,Kĩ thuật môi trường,2023,THPT,A00;D84;A02;C14,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=321&method_id=1&year=2023

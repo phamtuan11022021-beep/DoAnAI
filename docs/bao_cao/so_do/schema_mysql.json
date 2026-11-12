@@ -1,0 +1,2408 @@
+{
+  "captured_on": "2026-11-09",
+  "vendor": "mysql",
+  "table_count": 27,
+  "tables": [
+    {
+      "name": "accounts_profile",
+      "label": "profile",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "role",
+          "type": "varchar(20)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "expected_score",
+          "type": "decimal(4,2)",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "target_combination",
+          "type": "varchar(10)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "target_major",
+          "type": "varchar(200)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "city",
+          "type": "varchar(120)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "bio",
+          "type": "varchar(300)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "updated_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "avatar",
+          "type": "varchar(100)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "accounts_profile_user_id_49a85d32_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": []
+        }
+      }
+    },
+    {
+      "name": "ai_chat_aichatmessage",
+      "label": "ai chat message",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "role",
+          "type": "varchar(20)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "content",
+          "type": "longtext",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "intent",
+          "type": "varchar(50)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "payload",
+          "type": "json",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "conversation_id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "ai_chat_aichatmessag_conversation_id_b7c58ead_fk_ai_chat_a": {
+          "columns": [
+            "conversation_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "ai_chat_aichatsession",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "ai_chat_aichatsession",
+      "label": "ai chat session",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "session_key",
+          "type": "varchar(64)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "title",
+          "type": "varchar(180)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "context",
+          "type": "json",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "updated_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "ai_chat_aichatsession_user_id_6cf8b691_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "ai_chat_aichatsession_session_key_022ced32": {
+          "columns": [
+            "session_key"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "index": true,
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "auth_group",
+      "label": "Nhóm",
+      "columns": [
+        {
+          "name": "id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "name",
+          "type": "varchar(150)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "name": {
+          "columns": [
+            "name"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "auth_group_permissions",
+      "label": "group-permission relationship",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "group_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "permission_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_group_permissions_group_id_permission_id_0cd325b0_uniq": {
+          "columns": [
+            "group_id",
+            "permission_id"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_group_permissions_group_id_b120cbf9_fk_auth_group_id": {
+          "columns": [
+            "group_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "auth_group",
+            "id"
+          ],
+          "orders": []
+        },
+        "auth_group_permissio_permission_id_84c5c92e_fk_auth_perm": {
+          "columns": [
+            "permission_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_permission",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "auth_permission",
+      "label": "cho phép",
+      "columns": [
+        {
+          "name": "id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "name",
+          "type": "varchar(255)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "content_type_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "codename",
+          "type": "varchar(100)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_permission_content_type_id_codename_01ab375a_uniq": {
+          "columns": [
+            "content_type_id",
+            "codename"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_permission_content_type_id_2f476e4b_fk_django_co": {
+          "columns": [
+            "content_type_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "django_content_type",
+            "id"
+          ],
+          "orders": []
+        }
+      }
+    },
+    {
+      "name": "auth_user",
+      "label": "người dùng",
+      "columns": [
+        {
+          "name": "id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "password",
+          "type": "varchar(128)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "last_login",
+          "type": "datetime(6)",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "is_superuser",
+          "type": "tinyint(1)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "username",
+          "type": "varchar(150)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "first_name",
+          "type": "varchar(150)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "last_name",
+          "type": "varchar(150)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "email",
+          "type": "varchar(254)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "is_staff",
+          "type": "tinyint(1)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "is_active",
+          "type": "tinyint(1)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "date_joined",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "username": {
+          "columns": [
+            "username"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "auth_user_groups",
+      "label": "user-group relationship",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "group_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_user_groups_user_id_group_id_94350c0c_uniq": {
+          "columns": [
+            "user_id",
+            "group_id"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_user_groups_group_id_97559544_fk_auth_group_id": {
+          "columns": [
+            "group_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_group",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_user_groups_user_id_6a12ed8b_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": []
+        }
+      }
+    },
+    {
+      "name": "auth_user_user_permissions",
+      "label": "user-permission relationship",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "permission_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_user_user_permissions_user_id_permission_id_14a6b632_uniq": {
+          "columns": [
+            "user_id",
+            "permission_id"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "auth_user_user_permissions_user_id_a95ead1b_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": []
+        },
+        "auth_user_user_permi_permission_id_1fbb5f2c_fk_auth_perm": {
+          "columns": [
+            "permission_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_permission",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "career_careerassessment",
+      "label": "career assessment",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "framework",
+          "type": "varchar(30)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "answers",
+          "type": "json",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "scores",
+          "type": "json",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "holland_code",
+          "type": "varchar(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "suggested_majors",
+          "type": "json",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "career_careerassessment_user_id_50420b7d_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "catalog_admissionrelease",
+      "label": "Đợt dữ liệu tuyển sinh",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "title",
+          "type": "varchar(160)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "rows",
+          "type": "json",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "status",
+          "type": "varchar(12)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "reviewed_at",
+          "type": "datetime(6)",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "source_sha256",
+          "type": "varchar(64)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_by_id",
+          "type": "int",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "reviewed_by_id",
+          "type": "int",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "catalog_admissionrelease_created_by_id_3167988a_fk_auth_user_id": {
+          "columns": [
+            "created_by_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "catalog_admissionrelease_reviewed_by_id_2d62fa7f_fk_auth_user_id": {
+          "columns": [
+            "reviewed_by_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "catalog_admissionreleaselock",
+      "label": "admission release lock",
+      "columns": [
+        {
+          "name": "id",
+          "type": "smallint unsigned",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "catalog_admissionreleaselock_chk_1": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": true,
+          "foreign_key": null
+        }
+      }
+    },
+    {
+      "name": "catalog_saveduniversity",
+      "label": "saved university",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "university_key",
+          "type": "varchar(220)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "unique_saved_university_per_user": {
+          "columns": [
+            "user_id",
+            "university_key"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "catalog_saveduniversity_user_id_a696b7b8_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": []
+        }
+      }
+    },
+    {
+      "name": "config_requestbucket",
+      "label": "Giới hạn yêu cầu",
+      "columns": [
+        {
+          "name": "key",
+          "type": "varchar(64)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "count",
+          "type": "int unsigned",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "expires_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "key"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "config_requestbucket_chk_1": {
+          "columns": [
+            "count"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": true,
+          "foreign_key": null
+        },
+        "config_requestbucket_expires_at_f5c0cefb": {
+          "columns": [
+            "expires_at"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "index": true,
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "connections_userfollow",
+      "label": "user follow",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "follower_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "following_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "unique_uniconnect_follow": {
+          "columns": [
+            "follower_id",
+            "following_id"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "connections_userfollow_follower_id_21b32ece_fk_auth_user_id": {
+          "columns": [
+            "follower_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": []
+        },
+        "connections_userfollow_following_id_44b00f1e_fk_auth_user_id": {
+          "columns": [
+            "following_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "prevent_uniconnect_self_follow": {
+          "columns": [
+            "follower_id",
+            "following_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": true,
+          "foreign_key": null
+        }
+      }
+    },
+    {
+      "name": "django_admin_log",
+      "label": "đăng nhập",
+      "columns": [
+        {
+          "name": "id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "action_time",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "object_id",
+          "type": "longtext",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "object_repr",
+          "type": "varchar(200)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "action_flag",
+          "type": "smallint unsigned",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "change_message",
+          "type": "longtext",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "content_type_id",
+          "type": "int",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "django_admin_log_content_type_id_c4bce8eb_fk_django_co": {
+          "columns": [
+            "content_type_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "django_content_type",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "django_admin_log_user_id_c564eba6_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "django_admin_log_chk_1": {
+          "columns": [
+            "action_flag"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": true,
+          "foreign_key": null
+        }
+      }
+    },
+    {
+      "name": "django_content_type",
+      "label": "kiểu nội dung",
+      "columns": [
+        {
+          "name": "id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "app_label",
+          "type": "varchar(100)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "model",
+          "type": "varchar(100)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "django_content_type_app_label_model_76bd3d3b_uniq": {
+          "columns": [
+            "app_label",
+            "model"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "django_migrations",
+      "label": "django_migrations",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "app",
+          "type": "varchar(255)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "name",
+          "type": "varchar(255)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "applied",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "django_session",
+      "label": "Phiên",
+      "columns": [
+        {
+          "name": "session_key",
+          "type": "varchar(40)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "session_data",
+          "type": "longtext",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "expire_date",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "session_key"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "django_session_expire_date_a5c62663": {
+          "columns": [
+            "expire_date"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "index": true,
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "social_comment",
+      "label": "comment",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "content",
+          "type": "longtext",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "updated_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "author_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "post_id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_comment_author_id_efe921df_fk_auth_user_id": {
+          "columns": [
+            "author_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_comment_post_id_c5f61de0_fk_social_post_id": {
+          "columns": [
+            "post_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "social_post",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "social_directmessage",
+      "label": "direct message",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "content",
+          "type": "longtext",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "read",
+          "type": "tinyint(1)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "recipient_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "sender_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_directmessage_recipient_id_fa9d3a7f_fk_auth_user_id": {
+          "columns": [
+            "recipient_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_directmessage_sender_id_fa5c51ff_fk_auth_user_id": {
+          "columns": [
+            "sender_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "social_notification",
+      "label": "notification",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "kind",
+          "type": "varchar(20)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "read",
+          "type": "tinyint(1)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "actor_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "post_id",
+          "type": "bigint",
+          "nullable": "YES",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "recipient_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_notification_actor_id_78e4b611_fk_auth_user_id": {
+          "columns": [
+            "actor_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_notification_post_id_b9ab7062_fk_social_post_id": {
+          "columns": [
+            "post_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "social_post",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_notification_recipient_id_392d8c89_fk_auth_user_id": {
+          "columns": [
+            "recipient_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "social_pollvote",
+      "label": "poll vote",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "option",
+          "type": "smallint unsigned",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "post_id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "one_poll_vote_per_user": {
+          "columns": [
+            "post_id",
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_pollvote_post_id_a960c11a_fk_social_post_id": {
+          "columns": [
+            "post_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "social_post",
+            "id"
+          ],
+          "orders": []
+        },
+        "social_pollvote_user_id_458719f1_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_pollvote_chk_1": {
+          "columns": [
+            "option"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": true,
+          "foreign_key": null
+        }
+      }
+    },
+    {
+      "name": "social_post",
+      "label": "post",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "content",
+          "type": "longtext",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "category",
+          "type": "varchar(30)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "tag",
+          "type": "varchar(80)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "updated_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "author_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "poll_options",
+          "type": "json",
+          "nullable": "NO",
+          "default": "_utf8mb4\\'[]\\'",
+          "extra": "DEFAULT_GENERATED"
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_post_author_id_db6459ee_fk_auth_user_id": {
+          "columns": [
+            "author_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "social_postimage",
+      "label": "post image",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "image",
+          "type": "varchar(100)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "post_id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_postimage_post_id_9712fec4_fk_social_post_id": {
+          "columns": [
+            "post_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "social_post",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "social_postlike",
+      "label": "post like",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "post_id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "unique_uniconnect_post_like": {
+          "columns": [
+            "post_id",
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_postlike_post_id_2e49b122_fk_social_post_id": {
+          "columns": [
+            "post_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "social_post",
+            "id"
+          ],
+          "orders": []
+        },
+        "social_postlike_user_id_5b69509e_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    },
+    {
+      "name": "social_savedpost",
+      "label": "saved post",
+      "columns": [
+        {
+          "name": "id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": "auto_increment"
+        },
+        {
+          "name": "created_at",
+          "type": "datetime(6)",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "post_id",
+          "type": "bigint",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        },
+        {
+          "name": "user_id",
+          "type": "int",
+          "nullable": "NO",
+          "default": null,
+          "extra": ""
+        }
+      ],
+      "constraints": {
+        "PRIMARY": {
+          "columns": [
+            "id"
+          ],
+          "primary_key": true,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "unique_uniconnect_saved_post": {
+          "columns": [
+            "post_id",
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": true,
+          "index": true,
+          "check": false,
+          "foreign_key": null,
+          "orders": [
+            "ASC",
+            "ASC"
+          ],
+          "type": "idx"
+        },
+        "social_savedpost_post_id_9b499101_fk_social_post_id": {
+          "columns": [
+            "post_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": false,
+          "check": false,
+          "foreign_key": [
+            "social_post",
+            "id"
+          ],
+          "orders": []
+        },
+        "social_savedpost_user_id_ecf5fc13_fk_auth_user_id": {
+          "columns": [
+            "user_id"
+          ],
+          "primary_key": false,
+          "unique": false,
+          "index": true,
+          "check": false,
+          "foreign_key": [
+            "auth_user",
+            "id"
+          ],
+          "orders": [
+            "ASC"
+          ],
+          "type": "idx"
+        }
+      }
+    }
+  ],
+  "note": "Metadata only. No business rows. Django on_delete behavior and physical SQL FK actions must be distinguished."
+}

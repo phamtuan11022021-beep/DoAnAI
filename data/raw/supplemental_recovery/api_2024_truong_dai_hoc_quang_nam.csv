@@ -1,0 +1,14 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Quảng Nam,7140201,Giáo dục Mầm non,2024,THPT,M00;M01;M02;M03,24.26,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7140202,Giáo dục Tiểu học,2024,THPT,A00;C00;C14;D01,25.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7140209,Sư phạm Toán,2024,THPT,A00;A01;C14;D01,24.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7140211,Sư phạm Vật lý,2024,THPT,A00;A01;A02;D11,23.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7140213,Sư phạm Sinh,2024,THPT,A02;B00;D08;D13,21.75,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7140217,Sư phạm Ngữ văn,2024,THPT,C00;C19;C20;D14,25.74,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7140231,Sư phạm Tiếng Anh,2024,THPT,A01;D01;D14;D15,23.94,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7220201,Ngôn ngữ Anh,2024,THPT,A01;D01;D11;D66,14.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7229010,Lịch sử,2024,THPT,A08;C00;C19;D14,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7310630,Việt Nam học (Văn hóa - Du lịch),2024,THPT,A09;C00;C20;D01,14.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7340101,Quản trị Kinh doanh,2024,THPT,D01;A00;D84;D96,14.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7480201,Công nghệ Thông tin,2024,THPT,A00;A01;C14;D01,14.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024
+Trường ĐH Quảng Nam,7620112,Bảo vệ thực vật,2024,THPT,A02;B00;D08;D13,14.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=401&method_id=1&year=2024

@@ -1,0 +1,50 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại Học Vinh,7140114,Quản lý giáo dục,2023,THPT,A00;A01;C00;D01,23.25,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140201,Giáo dục Mầm non,2023,THPT,M00;M01;M10;M13,21.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140202,Giáo dục Tiểu học,2023,THPT,A00;A01;C00;D01,25.65,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140205,Giáo dục Chính trị,2023,THPT,C00;C19;C20;D66,26.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140206,Giáo dục Thể chất,2023,THPT,T00;T01;T02;T05,24.75,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140208,Giáo dục Quốc phòng - An ninh,2023,THPT,A00;C00;C19;D01,25.7,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140209,Sư phạm Toán học,2023,THPT,A00;A01;B00;D01,25.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140209C,Sư phạm Toán học chất lượng cao,2023,THPT,A00;A01;B00;D01,25.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140210,Sư phạm Tin học,2023,THPT,A00;A01;D01;D07,22.25,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140211,Sư phạm Vật lý,2023,THPT,A00;A01;B00;D07,24.4,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140212,Sư phạm Hóa học,2023,THPT,A00;B00;D07;C02,24.8,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140213,Sư phạm Sinh học,2023,THPT,A02;B00;B03;B08,23.55,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140217,Sư phạm Ngữ văn,2023,THPT,C00;C20;D01;D15,26.7,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140218,Sư phạm Lịch sử,2023,THPT,C00;C19;C20;D14,28.12,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140219,Sư phạm Địa lý,2023,THPT,C00;C04;C20;D15,26.55,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140231,Sư phạm Tiếng Anh,2023,THPT,A01;D01;D14;D15,25.3,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7140231C,Sư phạm Tiếng Anh (lớp tài năng),2023,THPT,A01;D01;D14;D15,27.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7220201,Ngôn ngữ Anh,2023,THPT,A01;D01;D14;D15,23.75,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7229042,Quản lý văn hóa,2023,THPT,A00;A01;C00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7310101,Kinh tế,2023,THPT,A00;A01;B00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7310201,Chính trị học,2023,THPT,A01;C00;C19;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7310205,Quản lý nhà nước,2023,THPT,A00;A01;C00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7310630,Việt Nam học (Chuyên ngành Du lịch),2023,THPT,A00;A01;C00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;D01;D07,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7340101C,Quản trị kinh doanh chất lượng cao,2023,THPT,A00;A01;D01;D07,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7340201,Tài chính - Ngân hàng,2023,THPT,A00;A01;D01;D07,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7340301,Kế toán,2023,THPT,A00;A01;D01;D07,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7380101,Luật,2023,THPT,A00;A01;C00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7380107,Luật kinh tế,2023,THPT,A00;A01;C00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7420201,Công nghệ sinh học,2023,THPT,A00;A01;A02;B08,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7480101,Khoa học máy tính,2023,THPT,A00;A01;D01;D07,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7480201,Công nghệ thông tin,2023,THPT,A00;A01;D01;D07,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7480201C,Công nghệ thông tin chất lượng cao,2023,THPT,A00;A01;D01;D07,21.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7510205,Công nghệ kỹ thuật ô tô,2023,THPT,A00;A01;B00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7510206,Công nghệ kỹ thuật nhiệt,2023,THPT,A00;A01;B00;D01,26.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7510301,"Công nghệ kỹ thuật điện, điện tử",2023,THPT,A00;A01;B00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7520207,Kỹ thuật điện tử - viễn thông,2023,THPT,A00;A01;B00;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7520216,Kỹ thuật điều khiển và tự động hóa,2023,THPT,A00;A01;B00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7540101,Công nghệ thực phẩm,2023,THPT,A00;A01;B00;D07,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7580201,Kỹ thuật xây dựng,2023,THPT,A00;A01;B00;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7580205,Kỹ thuật xây dựng công trình giao thông,2023,THPT,A00;A01;B00;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7580301,Kinh tế xây dựng,2023,THPT,A00;A01;B00;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7620105,Chăn nuôi,2023,THPT,A00;B00;B08;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7620109,Nông học,2023,THPT,A00;B00;B08;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7620301,Nuôi trồng thủy sản,2023,THPT,A00;B00;B08;D01,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7720301,Điều dưỡng,2023,THPT,B00;C08;D08;D13,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7760101,Công tác xã hội,2023,THPT,A00;A01;C00;D01,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7850101,Quản lý tài nguyên và môi trường,2023,THPT,A00;B00;B08;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023
+Trường Đại Học Vinh,7850103,Quản lý đất đai (chuyên ngành Quân lý đất đai; chuyên ngành Quản lý phát triển đô thị và bất động sản),2023,THPT,A00;B00;B08;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=435&method_id=1&year=2023

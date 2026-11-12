@@ -1,0 +1,25 @@
+UNICONNECT AI - FINAL DATASET PREP 2023-2026
+================================================================================
+INPUT MERGED ROWS                : 20480
+EXACT DUPLICATES REMOVED         : 0
+INVALID-CODE ROWS QUARANTINED    : 328
+INVALID-CODE PROGRAMS            : 265
+AMBIGUOUS ROWS QUARANTINED       : 660
+AMBIGUOUS PROGRAM-YEARS          : 234
+CLEAN PROGRAM-YEAR ROWS          : 18746
+CLEAN PROGRAMS                    : 7517
+PROGRAMS >=2 YEARS               : 5161
+PROGRAMS >=3 YEARS               : 3662
+PROGRAMS FULL 4 YEARS            : 2406
+
+SUPERVISED FEATURE ROWS          : 11229
+TRAIN TARGET 2024-2025           : 7453
+TEST HOLDOUT 2026                : 3776
+PREDICTABLE PROGRAMS FOR 2027    : 7517
+
+RULES:
+- program_key = normalized school + major_code.
+- combination is eligibility metadata, not longitudinal series identity.
+- no averaging of conflicting cutoff scores in same program-year.
+- 2026 is holdout only; no 2026 target row appears in training.
+- prediction target after evaluation is 2027.

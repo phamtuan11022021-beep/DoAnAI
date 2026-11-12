@@ -1,0 +1,14 @@
+[
+  {
+    "id": "hict_2025",
+    "url": "https://hict.edu.vn/thong-bao-diem-trung-tuyen-nam-2025.htm",
+    "sha256": "915535ad64a80b9a2a7cbdbfd2d9f5c1abb663be343c7862edac91d552a7a2bb",
+    "title": "\r\n\tThông báo điểm trúng tuyển năm 2025\r\n",
+    "images": []
+  },
+  {
+    "id": "dntu_2025",
+    "url": "https://dntu.edu.vn/thong-tin-tuyen-sinh/truong-dai-hoc-cong-nghe-dong-nai-cong-bo-diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2025-dntu",
+    "error": "HTTPError"
+  }
+]

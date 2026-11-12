@@ -1,0 +1,4 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại Học Thể Dục Thể Thao Bắc Ninh,7729001,Y sinh học TDTT,2024,THPT,T00;T01;T02;T05,18.35,Historical API 2024; THPT; Điểm thi tốt nghiệp THPT kết hợp năng khiếu,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=427&method_id=1&year=2024
+Trường Đại Học Thể Dục Thể Thao Bắc Ninh,7810301,Quản lý TDTT,2024,THPT,T00;T01;T02;T05,18.35,Historical API 2024; THPT; Điểm thi tốt nghiệp THPT kết hợp năng khiếu,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=427&method_id=1&year=2024
+Trường Đại Học Thể Dục Thể Thao Bắc Ninh,7810302,Huấn luyện thể thao,2024,THPT,T00;T01;T02;T05,18.35,Historical API 2024; THPT; Điểm thi tốt nghiệp THPT kết hợp năng khiếu,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=427&method_id=1&year=2024

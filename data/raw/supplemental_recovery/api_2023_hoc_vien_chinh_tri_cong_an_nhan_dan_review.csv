@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Học Viện Chính Trị Công An Nhân Dân,7310202,Xây dựng Đảng và chính quyền nhà nước,2023,THPT,A01;C00;C03;D01,23.41,"Historical API 2023; THPT; Nam, phía Bắc",https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=555&method_id=1&year=2023
+Học Viện Chính Trị Công An Nhân Dân,7310202,Xây dựng Đảng và chính quyền nhà nước,2023,THPT,A01;C00;C03;D01,24.94,"Historical API 2023; THPT; Nữ, phía Bắc",https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=555&method_id=1&year=2023
+Học Viện Chính Trị Công An Nhân Dân,7310202,Xây dựng Đảng và chính quyền nhà nước,2023,THPT,A01;C00;C03;D01,22.24,"Historical API 2023; THPT; Nam, phía Nam",https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=555&method_id=1&year=2023
+Học Viện Chính Trị Công An Nhân Dân,7310202,Xây dựng Đảng và chính quyền nhà nước,2023,THPT,A01;C00;C03;D01,23.21,"Historical API 2023; THPT; Nữ, phía Nam",https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=555&method_id=1&year=2023

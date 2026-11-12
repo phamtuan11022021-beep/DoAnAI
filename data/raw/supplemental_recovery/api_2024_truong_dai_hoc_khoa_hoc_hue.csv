@@ -1,0 +1,25 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại Học Khoa Học Huế,7220104,Hán Nôm,2024,THPT,C00;C19;D14,16.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7229001,Triết học,2024,THPT,A00;C19;D01;D66,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7229010,Lịch sử,2024,THPT,C00;C19;D01;D14,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7229030,Văn học,2024,THPT,C00;C19;D14,16.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7229042,Quản lý văn hóa,2024,THPT,C00;C19;D01;D14,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7310205,Quản lý nhà nước,2024,THPT,C14;C19;D01;D66,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7310301,Xã hội học,2024,THPT,C00;C19;D01;D14,16.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7320101,Báo chí,2024,THPT,C00;D01;D15,18.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7320115,Truyền thông số,2024,THPT,C00;D01;D15,17.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7420201,Công nghệ sinh học,2024,THPT,A00;B00;D01;D08,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7440102,Vật lý học,2024,THPT,A00;A01;A10;D01,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7440112,Hóa học,2024,THPT,A00;B00;D01;D07,15.75,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7440301,Khoa học môi trường,2024,THPT,A00;B00;D07;D15,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7480103,Kỹ thuật phần mềm,2024,THPT,A00;A01;D01;D07,17.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7480107D,Quản trị và phân tích dữ liệu (thí điểm),2024,THPT,A00;A01;D01,16.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7480201,Công nghệ thông tin,2024,THPT,A00;A01;D01;D07,17.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7510302,Công nghệ kỹ thuật điện tử - Viễn thông,2024,THPT,A00;A01;D01;D07,16.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7510401,Công nghệ kỹ thuật hóa học,2024,THPT,A00;B00;D01;D07,15.75,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7520503,Kỹ thuật trắc địa - bản đồ,2024,THPT,A00;B00;D01;D10,15.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7580101,Kiến trúc,2024,THPT,V00;V01;V02,16.75,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7580211,Địa kỹ thuật xây dựng,2024,THPT,A00;B00;D01;D10,15.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7760101,Công tác xã hội,2024,THPT,C00;C19;D01;D14,16.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7850101,Quản lý tài nguyên và môi trường,2024,THPT,B00;C04;D01;D10,15.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024
+Trường Đại Học Khoa Học Huế,7850105,"Quản lý an toàn, sức khỏe và môi trường",2024,THPT,A00;B00;D07;D15,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=344&method_id=1&year=2024

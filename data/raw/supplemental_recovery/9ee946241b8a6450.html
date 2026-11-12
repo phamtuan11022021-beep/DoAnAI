@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta property="article:author" content="Trường đại học Hạ Long" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Đại Học - Hạ Long</title>
+    <!-- Icon title -->
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/assets/images/header/fav.svg" />
+    <!-- fontAwesome Css -->
+    <link rel="stylesheet" href="/Content/assets/css/Library/fontawesome.min.css" />
+    <!-- Swiper Css -->
+    <link rel="stylesheet" href="/Content/assets/css/Library/swiper-bundle.min.css" />
+    <!-- Bootstrap Css -->
+    <link rel="stylesheet" type="text/css" href="/Content/assets/css/Library/bootstrap.min.css" />
+    <link rel="stylesheet" href="/Content/assets/css/Library/toast.css" />
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="/Content/assets/css/Library/jquery.fancybox.min.css" />
+    <!-- Font family -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <!-- Include Select2 CSS -->
+    <link href="/Content/assets/css/Library/select2.css" rel="stylesheet" />
+    <!-- Style Css -->
+    <link rel="stylesheet" href="/Content/assets/css/index.css" />
+
+    <link href="/Content/assets/css/style.css" rel="stylesheet" />
+    <link href="/Content/styleCustom.css" rel="stylesheet" />
+    
+    <meta property="og:title" content="Trường Đại học Hạ Long c&#244;ng bố điểm tr&#250;ng tuyển Đại học ch&#237;nh quy đợt 1 năm 2026" />
+    <meta property="og:description" />
+    <meta property="og:image" content="https://uhl.edu.vn/FileUploaded/Upload/Images/cd342436-c274-4c5e-be8b-0e7c077c1192Th&#244;ng b&#225;o.png" />
+    <meta property="og:url" content="https://uhl.edu.vn/TruongDaihocHaLongcongbodiemtrungtuyenDaihocchinhquydotnam_11929.htm" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Trường Đại học Hạ Long" />
+    <meta property="og:locale" content="vi_VN" />
+
+</head>
+
+<body>
+    <!-- Begin Header -->
+    <header class="header">
+        <div class="stuck">
+            <div class="header-top">
+                <div class="container-xl">
+                    <div class="flex-left">
+                        <div class="text-link">
+
+                                <a href="/TuyensinhHeDaihoc_8699.htm">
+                                    Thông báo 26 ngành tuyển sinh 2026 cập nhật liên tục TẠI ĐÂY !
+                                </a>
+
+                        </div>
+                    </div>
+                        <div class="flex-right">
+                            <div class="text-link">
+                                <a href="/don-vi/tap-chi-khoa-hoc-459.htm">Tạp chí khoa học</a>
+                            </div>
+                            <div class="line"></div>
+                            <div class="text-link" style="margin-right:10px">
+                                <a href="/dau_an.htm">Dấu ấn 10 năm HALOU</a>
+                            </div>
+                            <div class="img-language">
+                                <a href="/Trang-chu.htm"><img src="/Content/assets/images/header/header1.svg" alt="" /></a>
+                                <a href="/home.htm"><img src="/Content/assets/images/header/header2.svg" alt="" /></a>
+                            </div>
+                            <div class="icon-search" onclick="timkiem()">
+                                <img src="/Content/assets/images/header/header3.svg" alt="Search Icon" />
+                                <div class="nav-dropdown" style="display: none;width:400px" id="tk">
+                                    <form action="/Tin-tuc.htm">
+                                        <input type="text" placeholder="Tìm kiếm..." name="Title" style="width:100%;font-size:25px"/>
+                                        <button><img src="/Content/assets/images/header/header3.svg" alt="Search" /></button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+
+                </div>
+            </div>
+            <div class="header-main">
+                <div class="container-xl">
+                    <div class="icon-mobile" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
+                        <img src="/Content/assets/images/header/icon-mobile.png" alt="" />
+                    </div>
+                    <div class="logo">
+                        <a href="/Trang-chu.htm">
+                                <img src="/Content/assets/images/header/logo_halong.jpg" alt="" />
+                        </a>
+                    </div>
+                    <div class="icon-search mobile" onclick="timkiem1()">
+                        <img src="/Content/assets/images/header/header3.svg" alt="" onclick="timkiem1()" />
+                    </div>
+                    <div class="main-menu" id="DataMenu">
+
+                    </div>
+                    <div class="nav-dropdown mobile" style="display: none;width:400px" id="tk1">
+                        <form action="/Tin-tuc.htm">
+                            <input type="text" placeholder="Tìm kiếm..." name="Title" style="width:100%"/>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- End Header -->
+    <!-- Begin Content -->
+    <main class="home">
+            <style>
+        .section-news {
+            background: #fff !important;
+        }
+
+        body .container {
+            max-width: 100% !important;
+        }
+    </style>
+    <link href="/Content/assets/css/details.css" rel="stylesheet" />
+
+
+<input type="hidden" value="11929" id="IdBaiViet" />
+<section class="banner" style="background-image: url('../../content/assets/images/banner-nav.png'); ">
+    <div class="banner-wrapper">
+        <a href="#" style="color:white;">Trường Đại học Hạ Long c&#244;ng bố điểm tr&#250;ng tuyển Đại học ch&#237;nh quy đợt 1 năm 2026</a>
+    </div>
+</section>
+<!-- End Section path -->
+<section class="section section-details">
+    <div class="container-xl">
+        <div class="post-details">
+                <div class="details-wrapper">
+                    <h2 class="text-title"></h2>
+                    <div style="display:flex;justify-content:space-between;align-items:center">
+                        <div style="display:flex;align-items:center;justify-content:end">
+                            <a href="javascript:void(0);"
+                               target="_blank"
+                               rel="facebook"
+                               data-href="https://uhl.edu.vn/TruongDaihocHaLongcongbodiemtrungtuyenDaihocchinhquydotnam_11929.htm"
+                               data-title="Trường Đại học Hạ Long c&#244;ng bố điểm tr&#250;ng tuyển Đại học ch&#237;nh quy đợt 1 năm 2026"
+                               style="padding: 7px 14px; border: 1px solid; border-radius: 5px; margin-right: 10px;"
+                               onclick="shareOnFacebook(this)">
+                                <i class="fab fa-facebook-f"></i> Share
+                            </a>
+
+                            <!-- Nút share Zalo -->
+                            <div class="zalo-share-button"
+                                 data-href="https://uhl.edu.vn/TruongDaihocHaLongcongbodiemtrungtuyenDaihocchinhquydotnam_11929.htm"
+                                 data-oaid="3853923512874994474"
+                                 data-layout="1"
+                                 data-color="blue"
+                                 data-customize="false"></div>
+                        </div>
+                        <div class="icon-wrapper">
+                            <div class="icon-box">
+                                <div class="inner-img"><img src="/Content/assets/images/section-details/section-details3.svg" alt="" /></div>
+                                <div class="box-text">
+                                    <p class="text-content">Thứ Hai, 10-08-2026   08:08 GMT +7</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="line"></div>
+                    <div class="nen">
+                        <p class="text-content">
+                            <p>Mức điểm tr&uacute;ng tuyển theo từng phương thức x&eacute;t tuyển:</p>
+
+<p>1. SP To&aacute;n học: 25,30 (PT100); 19,57 (PT402); 25,50 (PT409)</p>
+
+<p>2. SP Tin học: 22,76 (PT100); 16,44 (PT402); 22,99 (PT409)</p>
+
+<p>3. SP &Acirc;m nhạc: 19,00 (PT405)</p>
+
+<p>4. SP Khoa học tự nhi&ecirc;n: 24,00 (PT100); 18,18 (PT402); 23,42 (PT409)</p>
+
+<p>5. Thiết kế đồ họa: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>6. Ng&ocirc;n ngữ Anh: 16,00 (PT100); 20,00 (PT200); 18,00 (PT409)</p>
+
+<p>7. Ng&ocirc;n ngữ Trung Quốc: 20,00 (PT100); 22,00 (PT200); 21,00 (PT409)</p>
+
+<p>8. Ng&ocirc;n ngữ Nhật: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>9. Ng&ocirc;n ngữ H&agrave;n Quốc: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>10. Văn học (Văn b&aacute;o ch&iacute; truyền th&ocirc;ng): 18,00 (PT100); 21,50 (PT200); 19,00 (PT409)</p>
+
+<p>11. Quản l&yacute; văn h&oacute;a: 17,00 (PT100); 20,50 (PT200); 18,00 (PT409)</p>
+
+<p>12. Quản trị kinh doanh: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>13. Kế to&aacute;n: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>14. Marketing: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>15. Khoa học m&aacute;y t&iacute;nh: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>16. C&ocirc;ng nghệ th&ocirc;ng tin: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>17. Nu&ocirc;i trồng thủy sản: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>18. Du lịch (Du lịch v&agrave; dịch vụ h&agrave;ng kh&ocirc;ng): 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>19. Quản trị dịch vụ du lịch v&agrave; lữ h&agrave;nh: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>20. Quản trị kh&aacute;ch sạn: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>21. Quản trị nh&agrave; h&agrave;ng v&agrave; dịch vụ ăn uống: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>22. Quản l&yacute; t&agrave;i nguy&ecirc;n v&agrave; m&ocirc;i trường: 15,00 (PT100); 18,00 (PT200); 17,75 (PT409)</p>
+
+<p>Ghi ch&uacute;:</p>
+
+<p>&bull; PT100: X&eacute;t điểm thi tốt nghiệp THPT năm 2026.</p>
+
+<p>&bull; PT200: X&eacute;t học bạ THPT.</p>
+
+<p>&bull; PT402: X&eacute;t điểm thi đ&aacute;nh gi&aacute; năng lực của Trường ĐHSP H&agrave; Nội (SPT).</p>
+
+<p>&bull; PT405: X&eacute;t điểm thi tốt nghiệp THPT với điểm thi năng khiếu.</p>
+
+<p>&bull; PT409: X&eacute;t kết hợp điểm thi tốt nghiệp THPT năm 2026 với chứng chỉ ngoại ngữ quốc tế.</p>
+
+<p>Điểm tr&uacute;ng tuyển đ&atilde; bao gồm điểm ưu ti&ecirc;n khu vực v&agrave; điểm ưu ti&ecirc;n đối tượng, theo thang điểm 30.</p>
+
+                        </p>
+                    </div>
+
+
+                </div>
+                <div class="related-news">
+                    <h2 class="text-title">Tin liên quan</h2>
+                    <div class="list-related">
+                                    <div class="item-related">
+                                        <div class="inner-img"><img src="/FileUploaded/Upload/Images/6542e578-b0c6-4a99-a5d4-252fe2cd74f2TH&#212;NG B&#193;O.png" alt="" /></div>
+                                        <div class="box-text">
+
+                                            <h6 class="text-title" style="line-height:25px">
+                                                <a href="ThongbaoveviectochucthivacapchungchiUngdungCongnghethongtincobanNamtaitruongDaihocHaLong_10672.htm">Th&#244;ng b&#225;o về việc tổ chức thi v&#224; cấp chứng chỉ Ứng dụng C&#244;ng nghệ th&#244;ng tin cơ bản Năm 2026 tại trường Đại học Hạ Long </a>
+                                            </h6>
+                                            <span class="text-date">30-12-2025</span>
+                                        </div>
+                                    </div>
+                                    <div class="item-related">
+                                        <div class="inner-img"><img src="/FileUploaded/Upload/Images/d5840248-f924-44f9-9b69-9f2be9e7082eTh&#244;ng b&#225;o.png" alt="" /></div>
+                                        <div class="box-text">
+
+                                            <h6 class="text-title" style="line-height:25px">
+                                                <a href="KehoachTrienkhaihoatdonghuongungNgaythegioiphongchongmuabannguoivaNgaytoandanphongchongmuabannguoitrendiabantinhnam_11749.htm">Kế hoạch Triển khai hoạt động hưởng ứng “Ng&#224;y thế giới ph&#242;ng, chống mua b&#225;n người” v&#224; “Ng&#224;y to&#224;n d&#226;n ph&#242;ng, chống mua b&#225;n người 30/7” tr&#234;n địa b&#224;n tỉnh năm 2026</a>
+                                            </h6>
+                                            <span class="text-date">07-07-2026</span>
+                                        </div>
+                                    </div>
+                                    <div class="item-related">
+                                        <div class="inner-img"><img src="/FileUploaded/Upload/Images/f323ed0a-ba85-4d69-a73c-7a433cc1fc6125122025 sv ptrien toan dien 1.jpg" alt="" /></div>
+                                        <div class="box-text">
+
+                                            <h6 class="text-title" style="line-height:25px">
+                                                <a href="Taomoitruongphattrientoandienchosinhvien_10634.htm">Tạo m&#244;i trường ph&#225;t triển to&#224;n diện cho sinh vi&#234;n</a>
+                                            </h6>
+                                            <span class="text-date">29-12-2025</span>
+                                        </div>
+                                    </div>
+                    </div>
+
+
+                </div>
+                <div class="details-comment related-news">
+                    <h2 class="text-title">Bình luận</h2>
+
+                    <form method="post" id="form">
+                        <textarea name="NoiDung" id="query" placeholder="Nhập nội dung..."
+                                  required=""></textarea>
+
+                        <div class="input-wrapper">
+                            <input type="text" name="HoTen" id="Name" placeholder="Họ tên"
+                                   required="">
+                            <input type="email" name="Email" id="Email" placeholder="Địa chỉ email" required="">
+                        </div>
+
+                        <a onclick="ThemMoiLuu(11929)" class="submit">Gửi Bình luận</a>
+                    </form>
+
+                </div>
+                <div class="question-detail section-news" style="background-color:#fff!important" id="question-detail">
+
+                </div>
+        </div>
+    </div>
+</section>
+
+
+    </main>
+    <!-- End Content -->
+    <!-- Begin Footer -->
+        <footer class="footer">
+            <div class="container-xl">
+                <div class="footer-wrapper">
+                    <div class="footer-logo "><img src="/Content/assets/images/footer/footer1.svg" alt=""></div>
+
+                    <div class="list-base">
+                        <div class="item-base">
+                            <h5 class="text-title ">Cơ sở chính</h5>
+
+                            <div class="icon-box ">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box1.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">Số 258 Bạch Đằng, phường Vàng Danh, thành phố Quảng Ninh</p>
+                                </div>
+                            </div>
+
+                            <div class="icon-box ">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box2.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">(84 - 0203).3850304</p>
+                                </div>
+                            </div>
+
+                            <div class="icon-box ">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box3.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">(84 - 0203).3852174</p>
+                                </div>
+                            </div>
+
+                            <div class="icon-box ">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box4.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">tonghop@daihochalong.edu.vn</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="item-base">
+                            <h5 class="text-title ">Cơ sở Bãi Cháy</h5>
+
+                            <div class="icon-box ">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box1.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">Tổ 7, Khu 3, đường Cái Lân, phường Bãi Cháy, thành phố Quảng Ninh</p>
+                                </div>
+                            </div>
+
+                            <div class="icon-box ">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box2.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">(84 - 0203).3850304</p>
+                                </div>
+                            </div>
+
+                            <div class="icon-box ">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box3.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">(84 - 0203).3852174</p>
+                                </div>
+                            </div>
+
+                            <div class="icon-box ">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box4.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">tonghop@daihochalong.edu.vn</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="social-network">
+                        <h5 class="text-title ">Mạng xã hội</h5>
+
+                        <div class="icon-box ">
+                            <a href="https://www.facebook.com/halonguniversity/?ref=embed_page">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box5.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">Facebook</p>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="icon-box ">
+                            <a href="https://youtube.com/@halong_university">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box6.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">Youtube</p>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="icon-box ">
+                            <a href="">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box7.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">Instagram</p>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="icon-box ">
+                            <a href="">
+                                <div class="inner-img"><img src="/Content/assets/images/footer/footer-icon-box8.svg" alt=""></div>
+                                <div class="text-box">
+                                    <p class="text-content">Tiktok</p>
+                                </div>
+                            </a>
+                        </div>
+
+
+                    </div>
+
+                    <div class="footer-fanpage">
+                        <h5 class="text-title ">Fanpage</h5>
+                        <span class="">
+                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fhalonguniversity%2F%3Flocale%3Dvi_VN&tabs=timeline&width=312&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+                                    width="160" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                            <a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/uhleduvn-
+1637165756" title="Chung nhan Tin Nhiem Mang"
+                               target="_blank">
+                                <img src="https://tinnhiemmang.vn/handle_cert?id=uhl.edu.vn"
+                                     width="75px" height="auto" alt="Chung nhan Tin Nhiem Mang">
+                            </a>
+                        </span>
+                        
+                    </div>
+
+                </div>
+
+                <div class="footer-coppy">
+                    <span>Copyright 2024 © UHL. All Rights Reserved</span>
+                </div>
+            </div>
+        </footer>
+
+
+    <!-- End Footer -->
+    <!-- Offcanvas mobile -->
+
+    <div id="DataMenuMobile">
+
+
+    </div>
+    <script type="text/javascript" src="/Content/assets/js/Library/jquery.min.js"></script>
+    <!-- Script Bootstrap -->
+    <script type="text/javascript" src="/Content/assets/js/Library/bootstrap.bundle.min.js"></script>
+    <!-- Fancybox JS -->
+    <script type="text/javascript" src="/Content/assets/js/Library/fancybox.js"></script>
+    <!-- select2 custom JS -->
+    <script type="text/javascript" src="/Content/assets/js/select2-custom.js"></script>
+    <!-- Include Select2 JS -->
+    <script type="text/javascript" src="/Content/assets/js/Library/select2.full.min.js"></script>
+    <!-- Scroll Header Fixed -->
+    <script>
+        window.addEventListener("scroll", function () {
+            var header = document.querySelector(".header .stuck")
+            var scrollPosition = window.scrollY
+            var scrollThreshold = 300
+
+            if (scrollPosition > scrollThreshold) {
+                header.classList.add("position-fixed")
+            } else {
+                header.classList.remove("position-fixed")
+            }
+        })
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#DataMenu").load("/Home/Menu", {}, function (data) { })
+            $("#DataMenuMobile").load("/Home/MenuMobile", {}, function (data) { })
+            loai = localStorage.getItem("language");
+            if (loai == "tv") {
+                $("#header-lang-img").attr("src", "../Content/CMSContent/assets/images/flags/vietnamflag.png");
+            } else if (loai == "ta") {
+                $("#header-lang-img").attr("src", "../Content/CMSContent/assets/images/flags/us.svg");
+            } else if (loai == "jp") {
+                $("#header-lang-img").attr("src", "../Content/CMSContent/assets/images/flags/japanflag.png");
+            }
+            var lang = localStorage.getItem("language");;
+            $(".lang").each(function (index, element) {
+                $(this).text(arrLang[lang][$(this).attr("key")]);
+            });
+
+            $(document).keydown(function (event) {
+                if (event.keyCode == 123) { // Prevent F12
+                    return false;
+                } else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) { // Prevent Ctrl+Shift+I
+                    return false;
+                }
+            });
+        });
+        function timkiem() {
+            $("#tk").css("display", "block");
+        }
+        $(document).ready(function () {
+            $('[data-fancybox]').fancybox({
+                afterShow: function (instance, current) {
+                    var overlayText = $(current.opts.$orig).find('.overlay-text').text();
+                    if ($(current.$content).find('.content-img').length === 0) {
+                        var textImg = $('<div class="content-img">').text(overlayText);
+                        if (overlayText.trim()) {
+                            textImg.css('padding', '8px');
+                        } else {
+                            textImg.css('padding', '0px');
+                        }
+                        $(current.$content).append(textImg);
+                    }
+                }
+            });
+        });
+
+
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="/Scripts/js/extensions/sweetalert.js"></script>
+    <script src="https://sp.zalo.me/plugins/sdk.js"></script>
+    
+    
+    <script>
+        // Share Facebook
+        function shareOnFacebook(element) {
+            var url = element.getAttribute("data-href");
+            var facebookUrl = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(url);
+            window.open(facebookUrl, "_blank", "width=600,height=400");
+        }
+    </script>
+    <script>
+
+   $("#question-detail").load("/Home/dsBinhLuan", { start: 1, IdTin:11929 }, function (data) {
+    // xử lý dữ liệu nếu cần
+});
+    function ThemMoiLuu(ID) {
+        if ($("#query").val() == "") {
+            ToastMessage("Lỗi", "Không được để trống nội dung", "error");
+            return;
+        }
+        if ($("#Name").val() == "") {
+            ToastMessage("Lỗi", "Không được để trống họ tên", "error");
+            return;
+
+        }
+        if ($("#Email").val() == "") {
+            ToastMessage("Lỗi", "Không được để trống email", "error");
+            return;
+
+        }
+        var requestModel = {
+            NoiDung: $("#query").val(),
+            HoTen: $("#Name").val(),
+            Email: $("#Email").val(),
+            IdTin: ID
+        }
+
+        $.post("/Home/BinhLuan", { "requestModel": requestModel }, function (data) {
+            if (data.icon == "success") {
+                location.reload();
+            }
+        });
+        }
+        function LoadPage1(start, IdTin) {
+            $("#question-detail").load("/Home/dsBinhLuan", { start: start, IdTin: IdTin }, function (data) {
+                window.location.hash = "question-detail";
+            })
+        }
+        window.onpopstate = function (event) {
+            window.location.href = "/Tin-tuc.htm";
+        };
+    </script>
+
+</body>
+</html>

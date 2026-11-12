@@ -1,0 +1,12 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Phú Yên,7140201,Giáo dục Mầm non,2025,THPT,M03; M09,24.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7140202,Giáo dục Tiểu học,2025,THPT,A00; C00; C03; C04; D01,26.03,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7140209,Sư phạm Toán học,2025,THPT,A00; A01; A04; B00; D01; X26,23.96,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7140231,Sư phạm Tiếng Anh,2025,THPT,A01; D01; D10; D14,22.75,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7140247,SP Khoa học tự nhiên,2025,THPT,A00; A02; B00; C05; C06; C08,23.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7220201,Ngôn ngữ Anh,2025,THPT,A01; D01; D10; D14,17.85,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7310630,Việt Nam học,2025,THPT,C00; C03; C04; D01; D14; D15,15.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7340101,Quản trị kinh doanh,2025,THPT,A00; C03; C04; D01; X01; X25,15.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7480201,Công nghệ thông tin,2025,THPT,A00; A01; D01; X26,15.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7620101,Nông nghiệp,2025,THPT,B00; B03; C02; C08; D01,15.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025
+Trường ĐH Phú Yên,7810101,Du lịch,2025,THPT,C00; C03; C04; D01; D14; D15,15.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2025

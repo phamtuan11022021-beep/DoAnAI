@@ -1,0 +1,21 @@
+{
+  "before": 18718,
+  "after": 18720,
+  "added": [
+    {
+      "university_name": "Trường ĐH Công nghệ - ĐHQGHN",
+      "major_code": "CN3",
+      "year": 2026,
+      "cutoff_score": 25.41
+    },
+    {
+      "university_name": "Trường ĐH Công nghệ - ĐHQGHN",
+      "major_code": "CN4",
+      "year": 2026,
+      "cutoff_score": 26.13
+    }
+  ],
+  "changed_existing_cutoffs": 0,
+  "official_methods_before": 238,
+  "official_methods_after": 259
+}

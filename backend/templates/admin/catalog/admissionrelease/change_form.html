@@ -1,0 +1,16 @@
+{% extends "admin/change_form.html" %}
+{% block form_top %}
+<div class="help"><p><strong>1. Nhập tệp → 2. Đối chiếu nguồn → 3. Công bố</strong></p>
+<p>Điểm được hiển thị riêng theo năm và phương thức. Chưa tự đưa vào huấn luyện hoặc gán mức an toàn.</p>
+<p><a href="{% url 'admin:catalog_admissionrelease_template' %}">Tải tệp CSV mẫu</a> · Điền đúng khóa trường trong danh mục, năm, tên ngành, điểm, phương thức và URL nguồn chính thức. Không lấy điểm sàn thay điểm chuẩn.</p></div>
+{% endblock %}
+{% block submit_buttons_bottom %}
+{{ block.super }}
+{% if original and can_publish and has_change_permission %}
+<div class="submit-row">
+<label><input type="checkbox" name="source_checked" value="1"> Tôi đã đối chiếu nguồn, năm, ngành, phương thức và thang điểm.</label>
+{% if original.status == 'draft' %}<input type="submit" name="_publish" value="Công bố dữ liệu đã kiểm tra">{% endif %}
+{% if original.status == 'published' %}<input type="submit" name="_withdraw" value="Thu hồi đợt dữ liệu này">{% endif %}
+</div>
+{% endif %}
+{% endblock %}

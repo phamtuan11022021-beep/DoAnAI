@@ -1,0 +1,14 @@
+{
+  "program_year_rows": 18746,
+  "schools": 266,
+  "programs": 7517,
+  "programs_all_4_years": 2406,
+  "programs_at_least_2_years": 5161,
+  "rows_by_year": {
+    "2023": 4551,
+    "2024": 4841,
+    "2025": 4460,
+    "2026": 4894
+  },
+  "note": "No observations means missing evidence, not zero cutoff or no admission."
+}

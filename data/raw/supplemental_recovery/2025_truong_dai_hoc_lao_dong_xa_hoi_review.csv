@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Lao động xã hội,7310401,Tâm lý học,2025,THPT,C00,24.3,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=366&method_id=1&year=2025
+Trường ĐH Lao động xã hội,7310401,Tâm lý học,2025,THPT,A00;A01;D01,22.8,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=366&method_id=1&year=2025
+Trường ĐH Lao động xã hội,7760101,Công tác xã hội,2025,THPT,A00;A01;D01,22.1,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=366&method_id=1&year=2025
+Trường ĐH Lao động xã hội,7760101,Công tác xã hội,2025,THPT,C00,23.6,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=366&method_id=1&year=2025

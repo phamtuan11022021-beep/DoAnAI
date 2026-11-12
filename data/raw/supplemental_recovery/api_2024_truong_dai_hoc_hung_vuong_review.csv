@@ -1,0 +1,4 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Hùng Vương,7140201,Giáo dục Mầm non,2024,THPT,M00;M01;M07;M09,33.47,"Historical API 2024; THPT; Học lực lớp 12 đạt Giỏi, x2 năng khiếu",https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2024
+Trường ĐH Hùng Vương,7140206,Giáo dục Thể chất,2024,THPT,T00;T02;T05;T07,34.0,"Historical API 2024; THPT; Học lực lớp 12 đạt khá trở lên, x2 năng khiếu",https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2024
+Trường ĐH Hùng Vương,7140221,Sư phạm Âm nhạc,2024,THPT,N00;N01,33.0,"Historical API 2024; THPT; Học lực lớp 12 đạt khá trở lên, x2 năng khiếu",https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2024

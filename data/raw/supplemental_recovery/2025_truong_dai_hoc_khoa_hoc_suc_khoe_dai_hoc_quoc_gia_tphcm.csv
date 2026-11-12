@@ -1,0 +1,6 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH KH Sức khỏe - ĐHQGHCM,Dược học,7720201,2025,THPT,B00; A00,21.5,Historical API 2025; THPT; Thang điểm 30,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=462&method_id=1&year=2025
+Trường ĐH KH Sức khỏe - ĐHQGHCM,Điều dưỡng,7720301,2025,THPT,B00; A02,18.0,Historical API 2025; THPT; Thang điểm 30,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=462&method_id=1&year=2025
+Trường ĐH KH Sức khỏe - ĐHQGHCM,Răng - Hàm - Mặt,7720501,2025,THPT,B00; A02,25.0,Historical API 2025; THPT; Thang điểm 30,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=462&method_id=1&year=2025
+Trường ĐH KH Sức khỏe - ĐHQGHCM,Y học cổ truyền,7720115,2025,THPT,B00; A02,20.1,Historical API 2025; THPT; Thang điểm 30,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=462&method_id=1&year=2025
+Trường ĐH KH Sức khỏe - ĐHQGHCM,Y khoa,7720101,2025,THPT,B00; A02,25.6,Historical API 2025; THPT; Thang điểm 30,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=462&method_id=1&year=2025

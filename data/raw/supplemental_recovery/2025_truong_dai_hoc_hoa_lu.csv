@@ -1,0 +1,10 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Hoa Lư,7140201,Giáo dục Mầm non,2025,THPT,M00; M11; M05; M07,22.88,"Historical API 2025; THPT; Tổng điểm 2 môn thi tốt nghiệp THPT trong THXT + 2/3 (điểm ưu tiên đối tượng, khu vực) (nếu có) phải lớn hơn hoặc bằng 12,67",https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025
+Trường ĐH Hoa Lư,7140202,Giáo dục Tiểu học,2025,THPT,D01; C03; C04; C01,23.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025
+Trường ĐH Hoa Lư,7140209,Sư phạm Toán học,2025,THPT,A00; A01; A02; X06,24.02,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025
+Trường ĐH Hoa Lư,7140247,Sư phạm Khoa học tự nhiên,2025,THPT,A00; A01; A02; X06,20.1,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025
+Trường ĐH Hoa Lư,7140249,Sư phạm Lịch sử - Địa lý,2025,THPT,D14; C00; C03; X70,27.07,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025
+Trường ĐH Hoa Lư,7340101,Quản trị kinh doanh,2025,THPT,D01; C01; C04; C03,16.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025
+Trường ĐH Hoa Lư,7340301,Kế toán,2025,THPT,D01; C01; C04; C03,16.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025
+Trường ĐH Hoa Lư,7480201,Công nghệ thông tin,2025,THPT,A00; A01; D01; X02,16.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025
+Trường ĐH Hoa Lư,7810101,Du lịch,2025,THPT,D01; C01; C04; C03; X01,18.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2025

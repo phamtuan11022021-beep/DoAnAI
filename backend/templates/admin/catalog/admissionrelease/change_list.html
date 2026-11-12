@@ -1,0 +1,2 @@
+{% extends 'admin/change_list.html' %}
+{% block content %}<div class="help"><p><a href="{% url 'admin:catalog_admissionrelease_coverage' %}">Xem trường còn thiếu dữ liệu →</a> · <a href="{% url 'admin:catalog_admissionrelease_schools' %}">Tải danh mục tên và khóa trường</a></p><p>Nhập CSV để xem trước. Chỉ sau khi đối chiếu nguồn và công bố, dữ liệu mới xuất hiện khi tra cứu.</p></div>{{ block.super }}{% endblock %}

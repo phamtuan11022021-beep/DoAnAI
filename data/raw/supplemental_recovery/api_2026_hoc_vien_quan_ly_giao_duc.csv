@@ -1,0 +1,8 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Quản lý giáo dục,7140101,Giáo dục học (Giáo dục trẻ rối loạn phát triển),2026,THPT,A00; B00; C00; D01,23.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2026
+HV Quản lý giáo dục,7140114,Quản lý giáo dục,2026,THPT,A00; A01; C00; D01,23.45,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2026
+HV Quản lý giáo dục,7220201,Ngôn ngữ Anh,2026,THPT,A00; D01; D10; D14,24.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2026
+HV Quản lý giáo dục,7310101,Kinh tế,2026,THPT,A00; A01; D01; D10,20.35,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2026
+HV Quản lý giáo dục,7310403,Tâm lý học giáo dục,2026,THPT,A00; B00; C00; D01,23.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2026
+HV Quản lý giáo dục,7340406,Quản trị văn phòng,2026,THPT,A00; A01; C00; D01,22.75,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2026
+HV Quản lý giáo dục,7480201,Công nghệ thông tin,2026,THPT,A00; A01; D01; A02,16.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2026

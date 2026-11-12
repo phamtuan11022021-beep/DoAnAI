@@ -1,0 +1,308 @@
+﻿university_name,year,program_year_rows,api_fetched,raw_added,reason,status
+Học Viện Biên Phòng,2023,0,12,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Chính Trị Công An Nhân Dân,2023,0,4,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Cảnh Sát Nhân Dân,2023,0,8,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hành Chính Và Quản Trị Công (phía Nam),2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hải Quân,2023,0,2,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hậu Cần - Hệ Quân sự,2023,0,4,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Khoa Học Quân Sự - Hệ Quân sự,2023,0,10,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2023,0,4,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngoại Giao,2023,0,29,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngân Hàng (Phân Viện Phú Yên),2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Phòng Không – Không Quân,2023,0,2,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Quân Y - Hệ Quân sự,2023,0,9,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Âm Nhạc Huế,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Âm Nhạc Quốc Gia Việt Nam,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Công giáo Việt Nam,2023,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Học viện Hành chính QG - PH TPHCM,2023,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2023,0,4,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2023,0,4,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Phòng cháy chữa cháy và Cứu nạn cứu hộ,2023,0,4,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Phòng cháy chữa cháy và cứu nạn cứu hộ (phía Nam),2023,0,4,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Thiết kế và Thời trang London Hà Nội,2023,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Học viện Tòa án,2023,0,16,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Y Hà Nội tại Thanh Hóa,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2023,0,6,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền,2023,0,2,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Kĩ Thuật Quân Sự - Hệ Quân sự - Đại Học Trần Đại Nghĩa,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2023,0,4,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2023,0,2,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Công nghiệp và Thương mại,2023,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Kinh tế - ĐHQGHN,2023,0,6,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+"Trường ĐH Kinh tế và QTKD, ĐHTN",2023,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+"Trường ĐH Kỹ thuật công nghiệp, ĐHTN",2023,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Sư phạm Kỹ thuật Vinh,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Tài chính - Kế toán,2023,0,0,0,title/H1 không khớp trường index; parsed='Trường Đại học Tài Chính - Marketing - Phân hiệu Quảng Ngãi',MISSING_DATASET_ROWS
+Trường ĐH Tài chính - QTKD,2023,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Tài nguyên và Môi trường,2023,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường Đại Học An Ninh Nhân Dân,2023,0,10,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Anh Quốc Việt Nam,2023,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Bách Khoa HCM,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công Nghệ Vạn Xuân,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Cảnh Sát Nhân Dân,2023,0,10,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học FPT,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Hà Hoa Tiên,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,2023,0,111,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Lương Thế Vinh,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Mỹ Thuật TPHCM,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Mỹ Thuật Việt Nam,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Quốc Tế RMIT Việt Nam,2023,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Răng – Hàm – Mặt,2023,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Thể Dục Thể Thao Đà Nẵng,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Thủy Lợi (Cơ sở 2),2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Văn Hóa Hà Nội,2023,0,34,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Kiểm Sát,2023,0,16,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Ngoại thương (Cơ sở II),2023,0,6,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Nguyễn Huệ,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Nội vụ Hà Nội,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Văn hóa Nghệ thuật Quân đội,2023,0,0,0,"Public historical endpoint; explicit year=2023, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+HV Hành chính Quốc gia,2024,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+HV Thanh Thiếu niên VN,2024,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Học Viện Biên Phòng,2024,0,12,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Chính Trị Công An Nhân Dân,2024,0,8,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Cảnh Sát Nhân Dân,2024,0,15,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hành Chính và Quản trị công,2024,0,38,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hải Quân,2024,0,4,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hậu Cần - Hệ Quân sự,2024,0,8,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Khoa Học Quân Sự - Hệ Quân sự,2024,0,10,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2024,0,4,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngoại Giao,2024,0,29,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngân Hàng (Phân Viện Phú Yên),2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Phòng Không – Không Quân,2024,0,2,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Quân Y - Hệ Quân sự,2024,0,10,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Âm Nhạc Huế,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Âm Nhạc Quốc Gia Việt Nam,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Công giáo Việt Nam,2024,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2024,0,4,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2024,0,4,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Phòng cháy chữa cháy và Cứu nạn cứu hộ,2024,0,4,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Phòng cháy chữa cháy và cứu nạn cứu hộ (phía Nam),2024,0,4,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Thiết kế và Thời trang London Hà Nội,2024,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Học viện Tòa án,2024,0,16,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Y Hà Nội tại Thanh Hóa,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2024,0,6,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền,2024,0,2,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Không Quân - Hệ Đại học,2024,0,5,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Kĩ Thuật Quân Sự - Hệ Quân sự - Đại Học Trần Đại Nghĩa,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2024,0,4,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2024,0,2,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Công nghiệp và Thương mại,2024,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Công nghệ GTVT,2024,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH KH XH & NV - ĐHQG.HCM,2024,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH KH XH và NV - ĐHQGHN,2024,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Kinh tế - ĐHQGHN,2024,0,6,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Ngoại thương,2024,0,0,0,School requires manual campus/score-scale review,MISSING_DATASET_ROWS
+Trường ĐH Tài chính - Kế toán,2024,0,0,0,title/H1 không khớp trường index; parsed='Trường Đại học Tài Chính - Marketing - Phân hiệu Quảng Ngãi',MISSING_DATASET_ROWS
+Trường ĐH Tài nguyên và Môi trường,2024,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Tôn Đức Thắng,2024,0,0,0,School requires manual campus/score-scale review,MISSING_DATASET_ROWS
+Trường ĐH Y Dược TPHCM,2024,0,15,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học An Ninh Nhân Dân,2024,0,19,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Anh Quốc Việt Nam,2024,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Bách Khoa HCM,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công Nghệ Vạn Xuân,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Cảnh Sát Nhân Dân,2024,0,19,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Hà Hoa Tiên,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,2024,0,119,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Mỹ Thuật TPHCM,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Mỹ Thuật Việt Nam,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Quốc Tế RMIT Việt Nam,2024,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Răng – Hàm – Mặt,2024,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội,2024,0,1,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Văn Hóa Hà Nội,2024,0,36,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Ngoại thương (Cơ sở II),2024,0,4,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Nguyễn Huệ,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Nội vụ Hà Nội,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Văn hóa Nghệ thuật Quân đội,2024,0,0,0,"Public historical endpoint; explicit year=2024, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+HV Hành chính Quốc gia,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+HV Thanh Thiếu niên VN,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Học Viện An Ninh Nhân Dân,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Biên Phòng,2025,0,26,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Chính Trị Công An Nhân Dân,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Cảnh Sát Nhân Dân,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hành Chính Và Quản Trị Công (phía Nam),2025,0,22,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hành Chính và Quản trị công,2025,0,52,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hải Quân,2025,0,6,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hậu Cần - Hệ Quân sự,2025,0,16,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Khoa Học Quân Sự - Hệ Quân sự,2025,0,2,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2025,0,4,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngân Hàng (Phân Viện Phú Yên),2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Phòng Không – Không Quân,2025,0,6,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Quân Y - Hệ Quân sự,2025,0,8,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Âm Nhạc Huế,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Âm Nhạc Quốc Gia Việt Nam,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Báo chí và Tuyên truyền,2025,0,100,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Công giáo Việt Nam,2025,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Học viện Hành chính QG - PH TPHCM,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Phòng cháy chữa cháy và Cứu nạn cứu hộ,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Phòng cháy chữa cháy và cứu nạn cứu hộ (phía Nam),2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Thiết kế và Thời trang London Hà Nội,2025,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Học viện Tòa án,2025,0,4,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Lâm nghiệp tỉnh Gia Lai,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Quốc gia TPHCM tại Bến Tre,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Y Hà Nội tại Thanh Hóa,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2025,0,10,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Không Quân - Hệ Đại học,2025,0,3,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Kĩ Thuật Quân Sự - Hệ Quân sự - Đại Học Trần Đại Nghĩa,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2025,0,4,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2025,0,2,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH CMC,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH CN Thông tin - ĐHQG.HCM,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Công nghiệp và Thương mại,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Giao thông vận tải TPHCM,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Hà Nội,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH KH XH & NV - ĐHQG.HCM,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH KH XH và NV - ĐHQGHN,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH KH tự nhiên - ĐHQG.HCM,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Kinh tế - Luật - ĐHQG.HCM,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+"Trường ĐH Kinh tế và QTKD, ĐHTN",2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+"Trường ĐH Kỹ thuật công nghiệp, ĐHTN",2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Luật Hà Nội,2025,0,16,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Luật TPHCM,2025,0,40,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Mỹ thuật Công nghiệp,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Ngoại thương,2025,0,0,0,School requires manual campus/score-scale review,MISSING_DATASET_ROWS
+Trường ĐH Ngoại thương – Cơ sở 2,2025,0,14,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Tài chính - Kế toán,2025,0,0,0,title/H1 không khớp trường index; parsed='Trường Đại học Tài Chính - Marketing - Phân hiệu Quảng Ngãi',MISSING_DATASET_ROWS
+Trường ĐH Tôn Đức Thắng,2025,0,0,0,School requires manual campus/score-scale review,MISSING_DATASET_ROWS
+Trường ĐH VHTT và Du lịch Thanh Hóa,2025,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường Đại Học An Ninh Nhân Dân,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Anh Quốc Việt Nam,2025,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Bách Khoa HCM,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công Nghệ Vạn Xuân,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công Nghệ Đông Á,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công Nghệ Đồng Nai,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công nghệ Kỹ thuật TP HCM,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Cảnh Sát Nhân Dân,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học FPT,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Hà Hoa Tiên,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Khoa Học Tự Nhiên TPHCM,2025,0,123,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Kinh Bắc,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Mỹ Thuật Việt Nam,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Quốc Tế Bắc Hà,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Quốc Tế RMIT Việt Nam,2025,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Răng – Hàm – Mặt,2025,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội,2025,0,1,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Thành Đông,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Võ Trường Toản,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Intracom,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Kinh Tế Luật TPHCM,2025,0,70,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Kiểm Sát,2025,0,30,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Ngoại thương (Cơ sở II),2025,0,8,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Nguyễn Huệ,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Nội vụ Hà Nội,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Văn hóa Nghệ thuật Quân đội,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+HV Hành chính Quốc gia,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+HV Phụ nữ Việt Nam,2026,0,46,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+HV Thanh Thiếu niên VN,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Học Viện An Ninh Nhân Dân,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Biên Phòng,2026,0,15,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Chính Trị Công An Nhân Dân,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Cảnh Sát Nhân Dân,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hành Chính Và Quản Trị Công (phía Nam),2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hải Quân,2026,0,2,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Hậu Cần - Hệ Quân sự,2026,0,2,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Khoa Học Quân Sự - Hệ Quân sự,2026,0,6,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2026,0,4,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2026,0,8,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Ngân Hàng (Phân Viện Phú Yên),2026,0,10,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Phòng Không – Không Quân,2026,0,2,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Quân Y - Hệ Quân sự,2026,0,4,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Âm Nhạc Huế,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học Viện Âm Nhạc Quốc Gia Việt Nam,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Báo chí và Tuyên truyền,2026,0,66,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Công giáo Việt Nam,2026,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Học viện Hành chính QG - PH TPHCM,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Phòng cháy chữa cháy và Cứu nạn cứu hộ,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Phòng cháy chữa cháy và cứu nạn cứu hộ (phía Nam),2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Học viện Thiết kế và Thời trang London Hà Nội,2026,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Học viện Tòa án,2026,0,8,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân Hiệu Đại Học Huế tại Quảng Trị,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Lâm nghiệp tỉnh Gia Lai,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Quốc gia TPHCM tại Bến Tre,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Phân hiệu Đại học Y Hà Nội tại Thanh Hóa,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2026,0,11,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Kĩ Thuật Quân Sự - Hệ Quân sự - Đại Học Trần Đại Nghĩa,2026,0,2,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2026,0,4,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2026,0,2,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH An Giang,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH CMC,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH CN Thông tin - ĐHQG.HCM,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Giao thông vận tải TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Hà Nội,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH KH Sức khỏe - ĐHQGHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH KH XH & NV - ĐHQG.HCM,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH KH tự nhiên - ĐHQG.HCM,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Kinh tế - Luật - ĐHQG.HCM,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Kinh tế TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+"Trường ĐH Kinh tế và QTKD, ĐHTN",2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+"Trường ĐH Kỹ thuật công nghiệp, ĐHTN",2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Mỹ thuật Công nghiệp,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Ngoại thương,2026,0,0,0,School requires manual campus/score-scale review,MISSING_DATASET_ROWS
+Trường ĐH Nha Trang,2026,0,269,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Quang Trung,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Quốc tế - ĐHQG.HCM,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Thăng Long,2026,0,56,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường ĐH Tài chính - Kế toán,2026,0,0,0,title/H1 không khớp trường index; parsed='Trường Đại học Tài Chính - Marketing - Phân hiệu Quảng Ngãi',MISSING_DATASET_ROWS
+Trường ĐH Tài chính - QTKD,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Tôn Đức Thắng,2026,0,0,0,School requires manual campus/score-scale review,MISSING_DATASET_ROWS
+Trường ĐH VHTT và Du lịch Thanh Hóa,2026,0,0,0,No verified school identity,MISSING_DATASET_ROWS
+Trường ĐH Văn hóa TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học An Ninh Nhân Dân,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Anh Quốc Việt Nam,2026,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Bách Khoa HCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công Nghệ Vạn Xuân,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Công Nghệ Đông Á,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Cảnh Sát Nhân Dân,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học FPT,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Hà Hoa Tiên,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Khoa Học Tự Nhiên TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Kinh Bắc,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Mỹ Thuật TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Mỹ Thuật Việt Nam,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Nghệ Thuật Huế,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Ngoại Ngữ Đà Nẵng,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Phương Đông,2026,0,35,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Quốc Tế - ĐHQG TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Quốc Tế Bắc Hà,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Quốc Tế RMIT Việt Nam,2026,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Răng – Hàm – Mặt,2026,0,0,0,Ambiguous or absent source school ID,MISSING_DATASET_ROWS
+Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Thể Dục Thể Thao Bắc Ninh,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại Học Thể Dục Thể Thao TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+"Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Công nghệ Miền Đông,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Kinh Tế Luật TPHCM,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Kiểm Sát,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Ngoại thương (Cơ sở II),2026,0,12,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Nguyễn Huệ,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Nội vụ Hà Nội,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Trường Đại học Văn hóa Nghệ thuật Quân đội,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS
+Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,2026,0,0,0,"Public historical endpoint; explicit year=2026, mark_type=1; unconverted scores",MISSING_DATASET_ROWS

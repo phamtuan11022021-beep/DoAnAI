@@ -1,0 +1,32 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Văn Hiến,7210205,Thanh nhạc,2023,THPT,N00,18.25,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7210208,Piano,2023,THPT,N00,17.75,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7220201,Ngôn ngữ Anh,2023,THPT,A01;D01;D10;D15,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7220203,Ngôn ngữ Pháp,2023,THPT,A01;D01;D10;D15,17.25,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7220204,Ngôn ngữ Trung Quốc,2023,THPT,A01;D01;D10;D15,23.51,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7220209,Ngôn ngữ Nhật,2023,THPT,A01;D01;D10;D15,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7229030,Văn học,2023,THPT,C00;D01;D14;D15,16.3,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7229040,Văn hóa học,2023,THPT,C00;D01;D14;D15,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7310101,Kinh tế,2023,THPT,A00;A01;D01;C04,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7310301,Xã hội học,2023,THPT,A00;C00;D01;C04,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7310401,Tâm lý học,2023,THPT,A00;B00;C00;D01,23.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7310630,Việt Nam học,2023,THPT,C00;D01;D14;D15,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7320108,Quan hệ công chúng,2023,THPT,C00;D01;D14;D15,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;D01;C04,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7340115,Marketing,2023,THPT,A00;A01;D01;C04,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7340121,Kinh doanh thương mại,2023,THPT,A00;A01;D01;C04,15.4,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7340122,Thương mại điện tử,2023,THPT,A00;A01;D01;C04,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7340201,Tài chính - Ngân hàng,2023,THPT,A00;A01;D01;C04,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7340205,Công nghệ tài chính,2023,THPT,A00;A01;D01;D07,15.75,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7340301,Kế toán,2023,THPT,A00;A01;D01;C04,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7380101,Luật,2023,THPT,A00;A01;D01;C04,16.05,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7420201,Công nghệ sinh học,2023,THPT,A00;A02;B00;D07,16.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7480101,Khoa học máy tính,2023,THPT,A00;A01;D01;C01,16.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7480201,Công nghệ thông tin,2023,THPT,A00;A01;D01;C01,23.51,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7510605,Logistics và Quản lý chuỗi cung ứng,2023,THPT,A00;A01;D01;C04,23.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7520207,Kỹ thuật điện tử - viễn thông,2023,THPT,A00;A01;D01;C01,15.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7520320,Kỹ thuật môi trường,2023,THPT,A00;A02;B00;D07,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7540101,Công nghệ thực phẩm,2023,THPT,A00;A02;B00;D07,16.4,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7720301,Điều dưỡng,2023,THPT,A00;B00;C08;D07,19.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7810101,Du lịch,2023,THPT,A00;C00;D01;C04,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023
+Trường ĐH Văn Hiến,7810103,Quản trị dịch vụ du lịch và lữ hành,2023,THPT,A00;C00;D01;C04,22.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=438&method_id=1&year=2023

@@ -1,0 +1,228 @@
+erDiagram
+    accounts_profile {
+        bigint id PK
+        varchar_20_ role
+        decimal_4_2_ expected_score
+        varchar_10_ target_combination
+        varchar_200_ target_major
+        varchar_120_ city
+        varchar_300_ bio
+        datetime_6_ created_at
+        datetime_6_ updated_at
+        int user_id FK
+        varchar_100_ avatar
+    }
+    auth_user ||--o| accounts_profile : "user_id"
+    ai_chat_aichatmessage {
+        bigint id PK
+        varchar_20_ role
+        longtext content
+        varchar_50_ intent
+        json payload
+        datetime_6_ created_at
+        bigint conversation_id FK
+    }
+    ai_chat_aichatsession ||--o{ ai_chat_aichatmessage : "conversation_id"
+    ai_chat_aichatsession {
+        bigint id PK
+        varchar_64_ session_key
+        varchar_180_ title
+        json context
+        datetime_6_ created_at
+        datetime_6_ updated_at
+        int user_id FK
+    }
+    auth_user |o--o{ ai_chat_aichatsession : "user_id"
+    auth_group {
+        int id PK
+        varchar_150_ name
+    }
+    auth_group_permissions {
+        bigint id PK
+        int group_id FK
+        int permission_id FK
+    }
+    auth_group ||--o{ auth_group_permissions : "group_id"
+    auth_permission ||--o{ auth_group_permissions : "permission_id"
+    auth_permission {
+        int id PK
+        varchar_255_ name
+        int content_type_id FK
+        varchar_100_ codename
+    }
+    django_content_type ||--o{ auth_permission : "content_type_id"
+    auth_user {
+        int id PK
+        varchar_128_ password
+        datetime_6_ last_login
+        tinyint_1_ is_superuser
+        varchar_150_ username
+        varchar_150_ first_name
+        varchar_150_ last_name
+        varchar_254_ email
+        tinyint_1_ is_staff
+        tinyint_1_ is_active
+        datetime_6_ date_joined
+    }
+    auth_user_groups {
+        bigint id PK
+        int user_id FK
+        int group_id FK
+    }
+    auth_group ||--o{ auth_user_groups : "group_id"
+    auth_user ||--o{ auth_user_groups : "user_id"
+    auth_user_user_permissions {
+        bigint id PK
+        int user_id FK
+        int permission_id FK
+    }
+    auth_user ||--o{ auth_user_user_permissions : "user_id"
+    auth_permission ||--o{ auth_user_user_permissions : "permission_id"
+    career_careerassessment {
+        bigint id PK
+        varchar_30_ framework
+        json answers
+        json scores
+        varchar_6_ holland_code
+        json suggested_majors
+        datetime_6_ created_at
+        int user_id FK
+    }
+    auth_user ||--o{ career_careerassessment : "user_id"
+    catalog_admissionrelease {
+        bigint id PK
+        varchar_160_ title
+        json rows
+        varchar_12_ status
+        datetime_6_ created_at
+        datetime_6_ reviewed_at
+        varchar_64_ source_sha256
+        int created_by_id FK
+        int reviewed_by_id FK
+    }
+    auth_user |o--o{ catalog_admissionrelease : "created_by_id"
+    auth_user |o--o{ catalog_admissionrelease : "reviewed_by_id"
+    catalog_admissionreleaselock {
+        smallint_unsigned id PK
+    }
+    catalog_saveduniversity {
+        bigint id PK
+        varchar_220_ university_key
+        datetime_6_ created_at
+        int user_id FK
+    }
+    auth_user ||--o{ catalog_saveduniversity : "user_id"
+    config_requestbucket {
+        varchar_64_ key PK
+        int_unsigned count
+        datetime_6_ expires_at
+    }
+    connections_userfollow {
+        bigint id PK
+        datetime_6_ created_at
+        int follower_id FK
+        int following_id FK
+    }
+    auth_user ||--o{ connections_userfollow : "follower_id"
+    auth_user ||--o{ connections_userfollow : "following_id"
+    django_admin_log {
+        int id PK
+        datetime_6_ action_time
+        longtext object_id
+        varchar_200_ object_repr
+        smallint_unsigned action_flag
+        longtext change_message
+        int content_type_id FK
+        int user_id FK
+    }
+    django_content_type |o--o{ django_admin_log : "content_type_id"
+    auth_user ||--o{ django_admin_log : "user_id"
+    django_content_type {
+        int id PK
+        varchar_100_ app_label
+        varchar_100_ model
+    }
+    django_migrations {
+        bigint id PK
+        varchar_255_ app
+        varchar_255_ name
+        datetime_6_ applied
+    }
+    django_session {
+        varchar_40_ session_key PK
+        longtext session_data
+        datetime_6_ expire_date
+    }
+    social_comment {
+        bigint id PK
+        longtext content
+        datetime_6_ created_at
+        datetime_6_ updated_at
+        int author_id FK
+        bigint post_id FK
+    }
+    auth_user ||--o{ social_comment : "author_id"
+    social_post ||--o{ social_comment : "post_id"
+    social_directmessage {
+        bigint id PK
+        longtext content
+        tinyint_1_ read
+        datetime_6_ created_at
+        int recipient_id FK
+        int sender_id FK
+    }
+    auth_user ||--o{ social_directmessage : "recipient_id"
+    auth_user ||--o{ social_directmessage : "sender_id"
+    social_notification {
+        bigint id PK
+        varchar_20_ kind
+        tinyint_1_ read
+        datetime_6_ created_at
+        int actor_id FK
+        bigint post_id FK
+        int recipient_id FK
+    }
+    auth_user ||--o{ social_notification : "actor_id"
+    social_post |o--o{ social_notification : "post_id"
+    auth_user ||--o{ social_notification : "recipient_id"
+    social_pollvote {
+        bigint id PK
+        smallint_unsigned option
+        bigint post_id FK
+        int user_id FK
+    }
+    social_post ||--o{ social_pollvote : "post_id"
+    auth_user ||--o{ social_pollvote : "user_id"
+    social_post {
+        bigint id PK
+        longtext content
+        varchar_30_ category
+        varchar_80_ tag
+        datetime_6_ created_at
+        datetime_6_ updated_at
+        int author_id FK
+        json poll_options
+    }
+    auth_user ||--o{ social_post : "author_id"
+    social_postimage {
+        bigint id PK
+        varchar_100_ image
+        bigint post_id FK
+    }
+    social_post ||--o{ social_postimage : "post_id"
+    social_postlike {
+        bigint id PK
+        datetime_6_ created_at
+        bigint post_id FK
+        int user_id FK
+    }
+    social_post ||--o{ social_postlike : "post_id"
+    auth_user ||--o{ social_postlike : "user_id"
+    social_savedpost {
+        bigint id PK
+        datetime_6_ created_at
+        bigint post_id FK
+        int user_id FK
+    }
+    social_post ||--o{ social_savedpost : "post_id"
+    auth_user ||--o{ social_savedpost : "user_id"

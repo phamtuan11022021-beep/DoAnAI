@@ -1,0 +1,26 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Lâm nghiệp,7310101,Kinh tế,2023,THPT,A00;A16;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7340101,Quản trị kinh doanh,2023,THPT,A00;A16;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7340116,Bất động sản,2023,THPT,A00;A16;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7340201,Tài chính – Ngân hàng,2023,THPT,A00;A16;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7340301,Kế toán,2023,THPT,A00;A16;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7420201,Công nghệ sinh học,2023,THPT,A00;A16;B00;B08,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7480104,Hệ thống thông tin,2023,THPT,A00;A01;A16;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7510203,Công nghệ kỹ thuật cơ điện tử,2023,THPT,A00;A01;A16;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7510205,Công nghệ kỹ thuật ô tô,2023,THPT,A00;A01;A16;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7510605,Logistics và Quản lý chuỗi cung ứng,2023,THPT,A00;A16;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7520103,Kỹ thuật cơ khí,2023,THPT,A00;A01;A16;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7549001,Công nghệ chế biến lâm sản,2023,THPT,A00;A16;D01;D07,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7580102,Kiến trúc cảnh quan,2023,THPT,A00;D01;C15;V01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7580108,Thiết kế nội thất,2023,THPT,A00;C15;D01;H00,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7580201,Kỹ thuật xây dựng,2023,THPT,A00;A01;A16;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7620110,Khoa học cây trồng,2023,THPT,A00;A16;Bô;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7620205,Lâm sinh,2023,THPT,A00;A16;B00;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7620211,Quản lý tài nguyên rừng,2023,THPT,A00;B00;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7640101,Thú y,2023,THPT,A00;A16;B00;B08,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7760101,Công tác xã hội,2023,THPT,A00;C00;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7810103,Quản trị dịch vụ du lịch và lữ hành,2023,THPT,A00;C00;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7850101,Quản lý tài nguyên và Môi trường,2023,THPT,A00;A16;B00;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7850103,Quản lý đất đai,2023,THPT,A00;A16;B00;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7850104,Du lịch sinh thái,2023,THPT,B00;C00;C15;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023
+Trường ĐH Lâm nghiệp,7850106,Quản lý tài nguyên thiên nhiên,2023,THPT,B08;D01;D07;D10,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=370&method_id=1&year=2023

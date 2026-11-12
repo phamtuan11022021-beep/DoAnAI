@@ -1,0 +1,6 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Bách khoa Hà Nội,ED2,Công nghệ giáo dục,2025,THPT,D01,23.3,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=302&method_id=1&year=2025
+Trường ĐH Bách khoa Hà Nội,ED2,Công nghệ giáo dục,2025,THPT,A00; A01; B03; C01; C02; X02,23.8,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=302&method_id=1&year=2025
+Trường ĐH Bách khoa Hà Nội,ED3,Quản lý giáo dục,2025,THPT,D01,23.2,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=302&method_id=1&year=2025
+Trường ĐH Bách khoa Hà Nội,TROY-BA,Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ),2025,THPT,D01,19.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=302&method_id=1&year=2025
+Trường ĐH Bách khoa Hà Nội,TROY-IT,Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ),2025,THPT,D01,21.3,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=302&method_id=1&year=2025

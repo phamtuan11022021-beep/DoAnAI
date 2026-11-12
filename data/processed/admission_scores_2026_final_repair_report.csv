@@ -1,0 +1,63 @@
+﻿university_name,priority,status,accepted_rows,ml_ready_rows,strategies,reason,source_urls
+Trường ĐH Đồng Nai,3,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-Truong-DH-Dong-Nai.pdf
+Trường ĐH Tây Nguyên,3,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://tuyensinh.ttn.edu.vn/2026/08/13/diemchuan2026/
+Trường ĐH Tài chính - Marketing,3,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-Truong-DH-Tai-chinh-Marketing.pdf
+Trường ĐH Sư phạm Hà Nội,3,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Su-pham-Ha-Noi_C237_D24355.htm
+Trường ĐH Luật Hà Nội,3,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-dai-hoc-Luat-HN.pdf
+Trường ĐH Kinh tế Kỹ thuật CN,3,RECOVERED,49,0,PDF_TABLE,,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-Truong-DH-Kinh-te-ky-thuat-cong-nghiep.pdf
+Trường ĐH Điện lực,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-truong-DH-Dien-luc.pdf
+Trường ĐH Y khoa Tokyo Việt Nam,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://tokyo-human.edu.vn/wp-content/uploads/2026/08/TB-diem-trung-tuyen-huong-dan-thu-tuc-nhap-hoc-2026.pdf
+Trường ĐH Y Dược Cần Thơ,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://tuyensinh.ctump.edu.vn/thong-bao-diem-trung-tuyen-dai-hoc-chinh-quy-nam-2026.html
+Trường ĐH Y Dược - ĐH Thái Nguyên,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://tuyensinh.tump.edu.vn/uploads/media/TS2026/1266%20Th%C3%B4ng%20b%C3%A1o%20%C4%91i%E1%BB%83m%20tr%C3%BAng%20tuy%E1%BB%83n%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20ch%C3%ADnh%20quy%20n%C4%83m%202026%20v%C3%A0o%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Y%20-%20D%C6%B0%E1%BB%A3c%2C%20%C4%90HTN.pdf
+Trường ĐH Xây dựng Hà Nội,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://drive.google.com/file/d/1tiFgdR0sjQpywEu6lIvFhL4x0zV1XPIb/view
+Trường ĐH VHTT và Du lịch Thanh Hóa,2,EXCLUDED,0,0,,NO_PRIMARY_2026_SOURCE_URL,
+Trường ĐH Sư phạm TPHCM,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://drive.google.com/file/d/1lANt8eWxrU94gXvWcs32j8Jyqy4k40xc/view
+Trường ĐH Sư phạm Kỹ thuật Vinh,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://vuted.edu.vn/Resources/Document/2026/8/2026-skv_d1_qd_diem-chuan-trung-tuyen.pdf
+Trường ĐH Sư phạm - ĐH Thái Nguyên,2,RECOVERED,21,0,HTML,,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-truong-Dai-hoc-Su-pham-DH-Thai-Nguyen_C237_D24311.htm
+Trường ĐH Sao Đỏ,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//diem-chuan-2026-truong-dai-hoc-sao-do.pdf
+Trường ĐH Quốc tế Sài Gòn,2,EXCLUDED,0,0,,NO_PRIMARY_2026_SOURCE_URL,
+Trường ĐH Quảng Bình,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-truong-dh-Quang-Binh.pdf
+Trường ĐH Phạm Văn Đồng,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://drive.google.com/file/d/13gFMNPu1r_w5Vr61eTZm2IdXn4lRCtnk/view
+Trường ĐH Phú Yên,2,EXCLUDED,0,0,,NO_PRIMARY_2026_SOURCE_URL,
+Trường ĐH Ngân hàng TPHCM,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//diem-chuan-2026-dai-hoc-ngan-hang-tphcm.pdf
+Trường ĐH Ngoại ngữ - Tin học TPHCM,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-truong-dh-Ngoai-ngu-tin-hoc-TPHCM.pdf
+Trường ĐH Lâm nghiệp,2,EXCLUDED,0,0,,NO_PRIMARY_2026_SOURCE_URL,
+Trường ĐH Kỹ thuật Y tế Hải Dương,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://tuyensinh.hmtu.edu.vn/?p=14759
+Trường ĐH Kỹ thuật Y Dược Đà Nẵng,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://drive.google.com/file/d/1NZh-eQGDFK2OSo39kI84S0BLno1r17EA/view
+Trường ĐH Kinh tế - Tài chính TPHCM,2,RECOVERED,27,27,OCR,,https://www.uef.edu.vn/tin-tuyen-sinh/uef-cong-bo-diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2026-37621
+Trường ĐH Kinh tế - Luật - ĐHQG.HCM,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-DH-Kinh-te-Luat-DHQGHCM_C237_D24302.htm
+Trường ĐH Khánh Hòa,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://drive.google.com/file/d/1i7QtQbf7UsAVkyVoedKZg4GuG-Xs6ikS/view
+Trường ĐH KH tự nhiên - ĐHQG.HCM,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-truong-DH-khoa-hoc-tu-nhien-TPHCM.pdf
+Trường ĐH KH XH và NV - ĐHQGHN,2,RECOVERED,28,28,HTML,,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-DH-Khoa-hoc-Xa-hoi-Nhan-van-DHQGHN_C237_D24312.htm
+Trường ĐH KH Sức khỏe - ĐHQGHCM,2,EXCLUDED,0,0,,NO_PRIMARY_2026_SOURCE_URL,
+Trường ĐH Hồng Đức,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://hdu.edu.vn/truong-dai-hoc-hong-duc-cong-bo-diem-trung-tuyen
+Trường ĐH Hạ Long,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://uhl.edu.vn/TruongDaihocHaLongcongbodiemtrungtuyenDaihocchinhquydotnam_11929.htm
+Trường ĐH Hùng Vương,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://drive.google.com/file/d/1TZvEf_CuZu1YU5yya5MEsOWjVhwoxFlj/view
+Trường ĐH Hà Tĩnh,2,RECOVERED,15,15,PDF_TABLE,,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-truong-DH-Ha-Tinh.pdf
+Trường ĐH Giáo dục - ĐHQGHN,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Giao-duc-DHQGHN_C237_D24304.htm
+Trường ĐH Cửu Long,2,RECOVERED,81,59,OCR,,https://mku.edu.vn/diem-chuan-trung-tuyen-cac-nganh-he-dai-hoc-chinh-quy-nam-2026-2026081011572.html
+Trường ĐH Công nghiệp Việt Trì,2,RECOVERED,18,18,HTML+SHARED_HTML,,https://vui.edu.vn/thong-tin-tuyen-sinh/truong-dai-hoc-cong-nghiep-viet-tri-thong-bao-diem-trung-tuyen-dai-hoc-chinh-quy-dot-1-nam-2026-3812
+Trường ĐH CN Thông tin - ĐHQG.HCM,2,RECOVERED,19,0,OCR,,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Cong-nghe-thong-tin-DHQGHCM_C237_D24292.htm
+Trường ĐH Bình Dương,2,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://tuyensinh.bdu.edu.vn/dai-hoc-chinh-quy/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29-751.html
+Trường ĐH Việt Đức,1,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Viet-Duc_C237_D24340.htm
+Trường ĐH Thành Đô,1,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thanhdo.edu.vn/truong-dai-hoc-thanh-do-chinh-thuc-cong-bo-diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2026
+Trường ĐH Ngoại thương,1,RECOVERED,16,0,PDF_TABLE,,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-Truong-Dai-hoc-Ngoai-thuong.pdf
+Trường ĐH Luật TPHCM,1,RECOVERED,5,5,PDF_TABLE,,https://thongtintuyensinh.vn/upload//Diem-chuan-2026-truong-dai-hoc-Luat-TPHCM.pdf
+Trường ĐH Kỹ thuật CN Cần Thơ,1,RECOVERED,22,0,OCR,,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Ky-thuat-Cong-nghe-Can-Tho_C237_D24313.htm
+"Trường ĐH Kinh tế và QTKD, ĐHTN",1,RECOVERED,28,0,PDF_TABLE,,https://tueba.edu.vn/uploads/2026/Q%C4%90%20%C4%90ie%CC%82%CC%89m%20tru%CC%81ng%20tuye%CC%82%CC%89n%20%C4%91o%CC%9B%CC%A3t%201%20na%CC%86m%202026.pdf
+Trường ĐH KH XH & NV - ĐHQG.HCM,1,RECOVERED,45,0,PDF_TABLE,,https://thongtintuyensinh.vn/upload//diem-chuan-nam-2026-truong-DH-KHXH-NV-TPHCM.pdf
+Trường ĐH Hải Phòng,1,RECOVERED,28,0,OCR,,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Hai-Phong_C237_D24347.htm
+Trường ĐH Công đoàn,1,RECOVERED,10,0,OCR,,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Cong-doan_C237_D24334.htm
+Trường ĐH Công nghiệp Vinh,1,RECOVERED,2,0,OCR,,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Cong-nghiep-Vinh_C237_D24338.htm
+Trường ĐH Công Thương TPHCM,1,RECOVERED,19,19,HTML,,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Cong-thuong-TPHCM_C237_D24316.htm
+ĐẠI HỌC KINH TẾ TPHCM,0,KEPT_CLEAN_SUBSET,82,0,,TARGET_REPROCESS_FAILED_BUT_CLEAN_ROWS_REMAIN,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Dai-hoc-Kinh-te-TPHCM_C237_D24301.htm
+Trường ĐH Đại Nam,0,RECOVERED,37,0,OCR,,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Dai-Nam_C237_D24293.htm
+Trường ĐH Văn Lang,0,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Van-Lang_C237_D24327.htm
+Trường ĐH Phan Châu Trinh,0,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://pctu.edu.vn/vn/diem-chuan-trung-tuyen-dai-hoc-he-chinh-quy-nam-2026.html
+"Trường ĐH Khoa học, ĐH Thái Nguyên",0,RECOVERED,10,0,OCR,,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Khoa-hoc-Dai-hoc-Thai-Nguyen_C237_D24308.htm
+Trường ĐH Công nghiệp và Thương mại,0,RECOVERED,22,11,OCR,,https://hict.edu.vn/diem-trung-tuyen-dai-hoc-nam-2026.htm
+Trường ĐH CNTT&TT - Thái Nguyên,0,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-DH-Cong-nghe-thong-tin-va-Truyen-thong-DH-Thai-Nguyen_C237_D24328.htm
+Trường ĐH Bách khoa - ĐH Đà Nẵng,0,RECOVERED,49,49,OCR,,https://thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Truong-Dai-hoc-Bach-khoa-DH-Da-Nang_C237_D24300.htm
+Học viện Hàng không VN,0,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2026-cua-Hoc-vien-Hang-khong-Viet-Nam_C237_D24310.htm
+Học viện Cán bộ TP.HCM,0,RECOVERED,5,5,PDF_TABLE,,http://hcmca.edu.vn/admin/Uploads/FileVanBan/2026/8/27_27-TB-H%C4%90TS-HVCB.pdf
+HV Hành chính và Quản trị công,0,EXCLUDED,0,0,,TARGET_REPROCESS_NO_RELIABLE_ROWS,https://apag.edu.vn/hoc-vien-hanh-chinh-va-quan-tri-cong-thong-bao-diem-trung-tuyen-dai-hoc-hinh-thuc-chinh-quy-va-thu-tuc-thoi-gian-xac-nhan-nhap-hoc-dot-1-nam-2026-9229.htm

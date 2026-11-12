@@ -1,0 +1,116 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140201,Giáo dục Mầm non,2025,THPT, M09; M01,25.88,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140202,Giáo dục Tiểu học,2025,THPT, D01; C03; C04; X02; X03,24.88,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140204,Giáo dục Công dân,2025,THPT," C00
+;  C19
+;  X70
+; C03",27.79,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140205,Giáo dục Chính trị,2025,THPT,C00; C19; X70; C03 ,28.33,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140206,Giáo dục Thể chất,2025,THPT," T01
+;  T08",26.86,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140209,Sư phạm Toán học,2025,THPT, A00;  A01; X06,28.07,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140210,Sư phạm Tin học,2025,THPT," A00
+;  X06
+; A01",25.99,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140211,Sư phạm Vật lý,2025,THPT," A01
+;  A00
+; X06
+; C01",28.06,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140212,Sư phạm Hóa học,2025,THPT," A00
+;  B00
+; D07
+; C02",27.53,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140213,Sư phạm Sinh học,2025,THPT," B00
+;  B03
+; B08
+; X16
+; X14",24.87,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140218,Sư phạm Lịch sử,2025,THPT," C00
+;  D14
+; C19
+; X70",28.76,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140219,Sư phạm Địa lý,2025,THPT," C00
+;  D15
+; C04",28.61,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140221,Sư phạm Âm nhạc,2025,THPT," N00
+;  N01",22.75,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140222,Sư phạm Mỹ thuật,2025,THPT,H00; H07,23.46,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140247,Sư phạm Khoa học tự nhiên,2025,THPT," A00
+;  B00
+; D07
+; C02",26.81,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140248,Giáo dục pháp luật,2025,THPT," C03
+;  C14
+;  X01
+; C04",27.33,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140249,Sư phạm Lịch sử - Địa lý,2025,THPT," C00
+;  D14
+; C19
+; X70",28.2,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7140250,Sư phạm Tin học và Công nghệ Tiểu học,2025,THPT," D01
+;  C01
+; C02
+; X02
+; X03",22.25,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7229010,Lịch sử (chuyên ngành Quan hệ quốc tế),2025,THPT," C00
+;  D14
+; C19
+; X70",27.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7229030,Văn học,2025,THPT," C00
+;  D14
+; C03",27.38,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7229040,Văn hóa học,2025,THPT," C00
+;  D14
+; C03",26.52,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7310401,"Tâm lý học, gồm các chuyên ngành: Tâm lý học trường học và tổ chức ; Tâm lý học lâm sàng",2025,THPT," C02
+;  D01
+; B03
+; C03
+; C04
+; C14
+; X01",22.7,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7310501,Địa lý học (chuyên ngành Địa lý du lịch),2025,THPT," C00
+;  C20
+;  X74
+; C04",26.98,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7310630,Việt Nam học (chuyên ngành Văn hóa du lịch),2025,THPT," C00
+;  D14
+; C19
+; X70",26.87,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7320101,Báo chí,2025,THPT, C00; D14; C03,27.16,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7320108,Quan hệ công chúng,2025,THPT," D14
+;  D15
+; D01",22.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7420201,Công nghệ sinh học,2025,THPT," B00
+;  B03
+; B08
+; X14
+; A02",16.71,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7440112,"Hóa học, gồm các chuyên ngành: Hóa Dược; ; Hóa phân tích môi trường",2025,THPT," A00
+;  B00
+; D07
+; C02
+; X11",21.25,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7460108,Khoa học dữ liệu,2025,THPT," C01
+;  D01
+; X02",19.25,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7480201,Công nghệ thông tin,2025,THPT," A00
+;  X06
+; A01",17.5,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7520401,Vật lý kỹ thuật,2025,THPT," A00
+;  A01
+; X06
+; C01
+; X07",21.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7760101,Công tác xã hội,2025,THPT," D01
+;  B03
+; C03
+; C04
+; C02
+; C14
+; X01",21.35,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025
+Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,7850101,Quản lý tài nguyên và môi trường,2025,THPT," B03
+;  C04
+; X04
+; D01
+; C02",20.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=410&method_id=1&year=2025

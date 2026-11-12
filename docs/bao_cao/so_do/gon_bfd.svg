@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980"><rect width="100%" height="100%" fill="white"/>
+<text x="600.0" y="38" font-family="Arial" font-size="30" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Phân rã chức năng UniConnect AI</text>
+<rect x="350" y="90" width="500" height="85" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="600.0" y="132.5" font-family="Arial" font-size="30" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">UNICONNECT AI</text>
+<polyline points="600,175 600,220 20,220 20,840" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="55" y="265" width="520" height="175" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="55" y="265" width="520" height="53" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="315" y="292" font-family="Arial" font-size="28" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Tài khoản</text>
+<text x="315" y="353" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Đăng nhập và phân quyền</text>
+<text x="315" y="387" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Hồ sơ và khôi phục mật khẩu</text>
+<polyline points="20,353 55,353" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="630" y="265" width="520" height="175" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="630" y="265" width="520" height="53" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="890" y="292" font-family="Arial" font-size="28" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Tra cứu tuyển sinh</text>
+<text x="890" y="353" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Tìm trường ngành và lịch sử điểm</text>
+<text x="890" y="387" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">So sánh và lưu trường</text>
+<polyline points="600,220 600,353 630,353" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="55" y="485" width="520" height="175" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="55" y="485" width="520" height="53" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="315" y="512" font-family="Arial" font-size="28" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Tư vấn và hướng nghiệp</text>
+<text x="315" y="573" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Tư vấn hồ sơ và hội thoại</text>
+<text x="315" y="607" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Trắc nghiệm RIASEC</text>
+<polyline points="20,573 55,573" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="630" y="485" width="520" height="175" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="630" y="485" width="520" height="53" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="890" y="512" font-family="Arial" font-size="28" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Cộng đồng</text>
+<text x="890" y="573" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Bài viết bình luận và bình chọn</text>
+<text x="890" y="607" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Theo dõi thông báo và nhắn tin</text>
+<polyline points="600,220 600,573 630,573" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="55" y="705" width="520" height="175" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="55" y="705" width="520" height="53" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="315" y="732" font-family="Arial" font-size="28" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Quản trị</text>
+<text x="315" y="793" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Thành viên và kiểm duyệt</text>
+<text x="315" y="827" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Nhập duyệt và thu hồi dữ liệu</text>
+<polyline points="20,793 55,793" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="630" y="705" width="520" height="175" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="630" y="705" width="520" height="53" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="890" y="732" font-family="Arial" font-size="28" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Dữ liệu và mô hình</text>
+<text x="890" y="793" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Cào nguồn và chuẩn hóa</text>
+<text x="890" y="827" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Huấn luyện đánh giá và sao lưu</text>
+<polyline points="600,220 600,793 630,793" fill="none" stroke="#455365" stroke-width="3"/>
+</svg>

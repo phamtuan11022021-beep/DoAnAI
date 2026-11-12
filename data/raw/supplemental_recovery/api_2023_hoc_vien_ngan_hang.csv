@@ -1,0 +1,19 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Ngân hàng,ACT01,Kế toán (Chương trình Chất lượng cao),2023,THPT,A00;A01;D01;D07,32.75,Historical API 2023; THPT; Môn Toán nhân đôi,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,ACT03,"Kế toán ( Liên kết ĐH Sunderland, Anh. Cấp song bằng)",2023,THPT,A00;A01;D01;D07,23.9,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BANK01,Ngân hàng (Chương trình Chất lượng cao),2023,THPT,A00;A01;D01;D07,32.7,Historical API 2023; THPT; Môn Toán nhân đôi,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BANK04,"Tài chính - Ngân hàng ( Liên kết ĐH Sunderland, Anh Quốc. Cấp song bằng)",2023,THPT,A00;A01;D01;D07,23.55,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BANK05,"Ngân hàng và Tài chính quốc tế (liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",2023,THPT,A00;A01;D01;D07,21.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BANKK02,Ngân hàng,2023,THPT,A00;A01;D01;D07,25.7,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BANKK03,Ngân hàng số,2023,THPT,A00;A01;D01;D07,25.65,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BUS01,Quản trị kinh doanh (Chương trình Chất lượng cao),2023,THPT,A00;A01;D01;D07,32.65,Historical API 2023; THPT; Môn Toán nhân đôi,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BUS02,Quản trị kinh doanh,2023,THPT,A01;D01;D07;D09,26.04,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BUS04,"Quản trị kinh doanh (Liên kết ĐH CityU, Hoa Kỳ.Cấp song bằng)",2023,THPT,A00;A01;D01;D07,23.8,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BUS05,"Marketing số ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",2023,THPT,A00;A01;D01;D07,23.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,ECON01,Kinh tế,2023,THPT,A01;D01;D07;D09,25.65,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,FIN01,Tài chính (Chương trình Chất lượng cao),2023,THPT,A00;A01;D01;D07,32.6,Historical API 2023; THPT; Môn Toán nhân đôi,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,FL01,Ngôn ngữ Anh,2023,THPT,A01;D01;D07;D09,24.9,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,IB01,Kính doanh quốc tế,2023,THPT,A01;D01;D07;D09,26.4,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,IB03,"Kính doanh quốc tế ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",2023,THPT,A00;A01;D01;D07,22.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,LAW01,Luật kinh tế,2023,THPT,A00;A01;D01;D07,25.52,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,LAW02,Luật kinh tế,2023,THPT,C00;C03;D14;D15,26.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023

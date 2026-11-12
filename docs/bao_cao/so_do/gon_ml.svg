@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="810" viewBox="0 0 1200 810"><rect width="100%" height="100%" fill="white"/>
+<text x="600.0" y="38" font-family="Arial" font-size="30" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Chia tập theo thời gian và tạo dự đoán</text>
+<text x="600" y="115" font-family="Arial" font-size="29" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Chọn mô hình</text>
+<rect x="25" y="150" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="195.0" y="202.5" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Đặc trưng từ quá khứ</text>
+<rect x="430" y="150" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="600.0" y="202.5" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Train mục tiêu 2024</text>
+<polyline points="365,202.5 430,202.5" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="430,202.5 416.49329346470984,209.02448301166845 416.49329346470984,195.97551698833155" fill="#455365"/>
+<rect x="835" y="150" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="1005.0" y="202.5" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Validation năm 2025</text>
+<polyline points="770,202.5 835,202.5" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="835,202.5 821.4932934647098,209.02448301166845 821.4932934647098,195.97551698833155" fill="#455365"/>
+<text x="600" y="340" font-family="Arial" font-size="29" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Kiểm định</text>
+<rect x="25" y="375" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="195.0" y="410.22" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Fit lại mục tiêu</text>
+<text x="195.0" y="444.78" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">2024–2025</text>
+<rect x="430" y="375" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="600.0" y="427.5" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">7.453 mẫu huấn luyện</text>
+<polyline points="365,427.5 430,427.5" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="430,427.5 416.49329346470984,434.02448301166845 416.49329346470984,420.97551698833155" fill="#455365"/>
+<rect x="835" y="375" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="1005.0" y="410.22" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">3.776 mẫu test năm</text>
+<text x="1005.0" y="444.78" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">2026</text>
+<polyline points="770,427.5 835,427.5" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="835,427.5 821.4932934647098,434.02448301166845 821.4932934647098,420.97551698833155" fill="#455365"/>
+<text x="600" y="565" font-family="Arial" font-size="29" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Phục vụ năm 2027</text>
+<rect x="25" y="600" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="195.0" y="652.5" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Refit ML trên 2024–2026</text>
+<rect x="430" y="600" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="600.0" y="652.5" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">11.229 mẫu khi refit</text>
+<polyline points="365,652.5 430,652.5" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="430,652.5 416.49329346470984,659.0244830116685 416.49329346470984,645.9755169883315" fill="#455365"/>
+<rect x="835" y="600" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="1005.0" y="635.22" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Phục vụ Baseline</text>
+<text x="1005.0" y="669.78" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">LastScore</text>
+<polyline points="770,652.5 835,652.5" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="835,652.5 821.4932934647098,659.0244830116685 821.4932934647098,645.9755169883315" fill="#455365"/>
+<text x="600.0" y="782" font-family="Arial" font-size="22" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Năm mục tiêu không được đưa vào đặc trưng của chính năm đó; mô hình phục vụ do kiểm định quyết định.</text>
+</svg>

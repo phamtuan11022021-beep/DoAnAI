@@ -1,0 +1,77 @@
+﻿university_name,priority,status,strategy,accepted_rows,diagnostic,source_url
+Trường ĐH Đồng Tháp,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Dong-Thap.pdf
+Trường ĐH Y tế Công cộng,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-DHCQ-nam-2023-Truong-DH-Y-te-cong-cong.pdf
+Trường ĐH Y khoa Vinh,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Y-khoa-Vinh.pdf
+Trường ĐH Y khoa Tokyo Việt Nam,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,REQUEST_HTTPError,https://tokyo-human.edu.vn/wp/wp-content/uploads/2023/08/Thong-bao-diem-trung-tuyen-2023-Scan.pdf
+Trường ĐH Xây dựng Hà Nội,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,REQUEST_HTTPError,https://drive.google.com/file/d/1ov8f42iufEZ8bj_68AeCNlxQH054gHRp/view
+Trường ĐH Tài chính - QTKD,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,REQUEST_SSLError,https://media.ufba.edu.vn//Media/2_TH1064/FolderFunc/202308/Documents/402-qd-vv-diem-trung-tuyen-va-cong-nhan-trung-tuyen-dai-hoc-he-chinh-quy-dot-1-nam-2023-20230824031644-e.pdf
+Trường ĐH Tiền Giang,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-phuong-thuc-xet-diem-thi-THPT-Truong-DH-Tien-Giang.pdf
+Trường ĐH Thái Bình,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Thai-Binh.pdf
+Trường ĐH Sư phạm TPHCM,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-nam-2023-phuong-thuc-xet-KQ-thi-TN-THPT-cua-Truong-Dai-hoc-Su-pham-TPHCM_C237_D19121.htm
+Trường ĐH Quy Nhơn,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,http://upload.qnu.edu.vn/Tempnam2023/thang08/ngay23/33b6db2a-3c90-4b43-b535-f340f40b77db.pdf
+Trường ĐH Phạm Văn Đồng,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2023-cua-Truong-DH-Pham-Van-Dong_C237_D19159.htm
+Trường ĐH Luật - ĐHQGHN,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=2,https://thongtintuyensinh.vn/Diem-chuan-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Luat-DHQGHN_C237_D19093.htm
+Trường ĐH Kiến trúc Đà Nẵng,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-trung-tuyen-dai-hoc-chinh-quy-nam-2023-cua-Truong-DH-Kien-truc-Da-Nang_C237_D19154.htm
+Trường ĐH Khánh Hòa,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=0,https://drive.google.com/file/d/1qeT7Y_WIBPwvqmlRYN-BR7oZp2wvK46J/view
+Trường ĐH Hồng Đức,2,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,REQUEST_ConnectTimeout,http://media.hdu.edu.vn//Media/1_hdu_home/FolderFunc/202308/Documents/thong-bao-thong-bao-diem-chuan-nam-2023-20230823055955-e.pdf
+Trường ĐH Đông Á,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2023-cua-Truong-Dai-hoc-Dong-A_C237_D19152.htm
+Trường ĐH Y Hà Nội,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-Truong-DH-Y-Ha-Noi.pdf
+Trường ĐH Y Dược TPHCM,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=3:,https://thongtintuyensinh.vn/upload//Diem-chuan-dai-hoc-chinh-quy-2023-Dai-hoc-Y-Duoc-TPHCM.pdf
+Trường ĐH Y Dược Cần Thơ,1,ACCEPTED,PRIMARY,7,HTML tables=2,https://www.thongtintuyensinh.vn/Diem-chuan-nam-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Y-Duoc-Can-Tho_C237_D19082.htm
+Trường ĐH Xây dựng Miền Trung,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=0,https://drive.google.com/file/d/1aM15eghBAgFm0cZEWeeB3ufiDTCYSpFm/view
+Trường ĐH Tây Bắc,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=0,https://drive.google.com/file/d/1hRs3do0jicFvgZN84TEtTIG8RNo4VK8j/view
+Trường ĐH Tài nguyên và Môi trường,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-TNMT-TPHCM.pdf
+Trường ĐH Tài chính - Kế toán,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://www.tckt.edu.vn/Portals/0/tb%20336_2023.pdf
+Trường ĐH Thủ Đô Hà Nội,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//1164-TB_2023.pdf
+Trường ĐH Thủ Dầu Một,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Thu-Dau-Mot.PDF
+Trường ĐH Thăng Long,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=0,https://drive.google.com/file/d/1AyRCwuSL1jRxzwqDwev5AEpdeowcM9Jv/view
+Trường ĐH Sư phạm Kỹ thuật Vĩnh Long,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=0,http://vlute.edu.vn/diem-chuan-trung-tuyen-dai-hoc-he-chinh-quy-cac-phuong-thuc-xet-tuyen-dot-1-nam-2023/#dearflip-df_4296/1/
+Trường ĐH Sài Gòn,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//SGD_DiemChuanXetTuDiemThiTHPT_TS2023.pdf
+Trường ĐH SP Kỹ thuật Nam Định,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//TB208.pdf
+Trường ĐH Nông Lâm TPHCM,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-2023-theo-phuong-thuc-xet-KQ-thi-TN-THPT-cua-Truong-DH-Nong-Lam-TPHCM_C237_D19137.htm
+Trường ĐH Luật TPHCM,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=0,https://docs.google.com/viewer?url=https://www.hcmulaw.edu.vn/Resources/Docs/SubDomain/HomePage/0%20V%C4%83n%20b%E1%BA%A3n%20n%C4%83m%202023/Quyet%20dinh%20diem%20trung%20tuyen%20-%20Nam%202023%20-%20Thong%20bao%20ket%20luan%20-%20Chinh%20thuc%20-%20Gui%20quy%20thay%20co.doc&embedded=true
+Trường ĐH Lao động xã hội,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-Truong-DH-Lao-dong-xa-hoi.pdf
+"Trường ĐH Kỹ thuật công nghiệp, ĐHTN",1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Ky-thuat-cong-nghiep-DH-Thai-Nguyen_C237_D19117.htm
+Trường ĐH Kỹ thuật CN Cần Thơ,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=0,https://drive.google.com/file/d/1BWAsf6e67Qfxyx6jOTSvAtsvzg187AVN/view
+Trường ĐH Kiến trúc TPHCM,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=0,https://drive.google.com/file/d/1sfzOVKAu3C0PP9b_rlyQk5fPKOX2Q2ap/view
+Trường ĐH Kiên Giang,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Kien-Giang.pdf
+Trường ĐH Kinh tế - ĐHQGHN,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-phuong-thuc-xet-diem-thi-THPT-cua-Truong-DH-Kinh-te-DHQGHN.pdf
+Trường ĐH Kinh tế - Công nghệ TN,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Kinh-te-cong-nghe-Thai-Nguyen.pdf
+Trường ĐH Hải Phòng,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-trung-tuyen-DHCD-chinh-quy-nam-2023-cua-Truong-DH-Hai-Phong_C237_D19148.htm
+Trường ĐH Hoa Sen,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//THONG-BAO-DIEM-CHUAN-DOT-1-NAM-2023.pdf
+Trường ĐH Giao thông vận tải TPHCM,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-2023-phuong-thuc-xet-KQ-thi-TN-THPT-cua-Truong-DH-Giao-thong-van-tai-TPHCM_C237_D19122.htm
+Trường ĐH Dầu khí VN,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Dau-khi-VN.pdf
+Trường ĐH Công nghiệp Vinh,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Cong-nghiep-Vinh.pdf
+Trường ĐH Bạc Liêu,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Bac-Lieu.pdf
+Trường ĐH Bình Dương,1,ACCEPTED,PRIMARY,10,HTML tables=2,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2023-cua-Truong-Dai-hoc-Binh-Duong_C237_D19074.htm
+HV Y Dược học Cổ truyền VN,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-HV-Y-Duoc-hoc-co-truyen-VN.pdf
+HV Phụ nữ Việt Nam,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-HV-Phu-nu-VN.pdf
+HV Ngân hàng,1,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-nam-2023-Hoc-vien-Ngan-hang.pdf
+Trường ĐH Đà Lạt,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Da-Lat.pdf
+Trường ĐH lao động Xã hội – CS2,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-Truong-DH-Lao-dong-xa-hoi.pdf
+Trường ĐH Yersin Đà Lạt,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-Truong-DH-Yersin-Da-Lat.pdf
+Trường ĐH Văn Lang,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-nam-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Van-Lang_C237_D19084.htm
+Trường ĐH Vinh,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Vinh.pdf
+Trường ĐH Thương mại,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-phuong-thuc-xet-diem-thi-TN-THPT-Truong-DH-Thuong-mai.pdf
+Trường ĐH Thành Đô,0,ACCEPTED,PRIMARY,12,HTML tables=1,https://thongtintuyensinh.vn/Diem-trung-tuyen-DH-chinh-quy-nam-2023-cua-Truong-Dai-hoc-Thanh-Do_C237_D19180.htm
+Trường ĐH Sư phạm Kỹ thuật TPHCM,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-phuong-thuc-xet-diem-thi-THPT-cua-Truong-DH-SPKT-TPHCM.pdf
+Trường ĐH SP Kỹ thuật Hưng Yên,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,REQUEST_HTTPError,https://drive.google.com/file/d/1lKzO503G7ru9DSsJLARb_ssxw1g2AxyX/view
+Trường ĐH Quốc tế Hồng Bàng,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-nam-2023-theo-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Quoc-te-Hong-Bang_C237_D19085.htm
+Trường ĐH Phan Châu Trinh,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DHCQ-nam-2023-cua-Truong-DH-Phan-Chau-Trinh_C237_D19160.htm
+Trường ĐH Nông Lâm Bắc Giang,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//720-tbdiemtrungtuyen2023.pdf
+Trường ĐH Mở Hà Nội,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Mo-Ha-Noi_C237_D19098.htm
+Trường ĐH Kiểm sát HN,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-nam-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Kiem-sat-Ha-Noi_C237_D19178.htm
+Trường ĐH Kinh tế Nghệ An,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://www.thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2023-cua-Truong-DH-Kinh-te-Nghe-An_C237_D19164.htm
+Trường ĐH Hàng hải VN,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-trung-tuyen-nam-2023-Truong-DH-Hang-hai-VN.pdf
+Trường ĐH Giao thông vận tải – CS 2,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=4:,https://thongtintuyensinh.vn/upload//diem-trung-tuyen-dai-hoc-he-chinh-quy-nam-2023-Truong-DH-Giao-thong-van-tai.pdf
+Trường ĐH Giao thông vận tải,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=4:,https://thongtintuyensinh.vn/upload//diem-trung-tuyen-dai-hoc-he-chinh-quy-nam-2023-Truong-DH-Giao-thong-van-tai.pdf
+Trường ĐH Gia Định,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2023-cua-Truong-DH-Gia-Dinh_C237_D19076.htm
+Trường ĐH Công nghệ Đồng Nai,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://www.thongtintuyensinh.vn/Diem-trung-tuyen-DH-chinh-quy-nam-2023-cua-Truong-DH-Cong-nghe-Dong-Nai_C237_D19183.htm
+Trường ĐH Công nghệ Miền Đông,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//Diem-chuan-2023-DH-Cong-nghe-Mien-Dong.pdf
+Trường ĐH Công nghiệp Dệt May HN,0,ACCEPTED,PRIMARY,9,HTML tables=2,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DHCQ-nam-2023-cua-Truong-Dai-hoc-Cong-nghiep-Det-May-Ha-Noi_C237_D19143.htm
+Trường ĐH Bách khoa – ĐHQG.HCM,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-phuong-thuc-xet-tuyen-ket-hop-nam-2023-cua-Truong-DH-Bach-khoa-DHQGTPHCM_C237_D19109.htm
+Học viện Hàng không VN,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=1,https://thongtintuyensinh.vn/Diem-chuan-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Hoc-vien-Hang-khong-VIet-Nam_C237_D19115.htm
+Học viện Công nghệ BCVT - CS TPHCM,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=2,https://thongtintuyensinh.vn/Diem-chuan-nam-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Hoc-vien-Cong-nghe-Buu-chinh-Vien-thong_C237_D19123.htm
+HV Tòa án,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,http://hvta.toaan.gov.vn/portal/pls/portal/docs/11381110.PDF
+HV Công nghệ Bưu chính Viễn thông,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,HTML tables=2,https://thongtintuyensinh.vn/Diem-chuan-nam-2023-phuong-thuc-xet-diem-thi-TN-THPT-cua-Hoc-vien-Cong-nghe-Buu-chinh-Vien-thong_C237_D19123.htm
+HV Báo chí và Tuyên truyền,0,EXCLUDED,PRIMARY+ARCHIVE+XYEAR,0,PDF tables=0:,https://thongtintuyensinh.vn/upload//camscanner-2023-08-23-0857.pdf

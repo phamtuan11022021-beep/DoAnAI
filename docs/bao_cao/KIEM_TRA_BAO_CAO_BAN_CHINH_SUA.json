@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-09",
+  "pages": 39,
+  "figures": 8,
+  "diagrams": 7,
+  "screenshots": 1,
+  "tables": 9,
+  "source_words": 12496,
+  "checks": {
+    "eight_figures": true,
+    "nine_tables": true,
+    "seven_chapters": true,
+    "single_portrait_section": true,
+    "figure_sequence": true,
+    "table_sequence": true,
+    "automatic_indexes": true,
+    "no_blank_pages": true,
+    "no_text_at_page_edges": true,
+    "no_field_errors": true,
+    "27_tables_in_appendix": true,
+    "33_physical_fk_metadata": true,
+    "short_tables_keep_rows_together": true
+  },
+  "all_checks_passed": true,
+  "blank_pages": [],
+  "edge_text": [],
+  "render": "Microsoft Word via render_report.vbs; canonical renderer diagnosed missing soffice.exe; PDF pages rasterized for visual review.",
+  "visual_review": "All 39 pages reviewed in contact sheets; SQL and numeric/schema tables also reviewed in enlarged page renders. No blank pages, clipped page-edge text, detached short table rows or mixed page orientation detected.",
+  "scope": "Report revision only; historical software/data/model results are retained with dates, not claimed as a new application test or training run.",
+  "remaining": [
+    "Fill verified cover identity",
+    "Apply faculty-specific administrative forms if required"
+  ],
+  "sha256": {
+    ".docx": "33dcfd61655fd68b535ab396bfd11287d54aca0a0ffb5d160f25b48249b79bbc",
+    ".pdf": "0ce8d0e54513d37f2ba3a9e64d3e179707a93d17a60364780bfde2dcb0e77fb3",
+    ".md": "e82a2a57b7d09f58934b0c93bab8300e7a96267cf94bfa51c9bb6fdd43bbcfb2"
+  }
+}

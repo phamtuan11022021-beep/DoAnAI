@@ -1,0 +1,47 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Phụ nữ Việt Nam,7310101,Kinh tế,2026,THPT,A00; D01,23.25,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310101,Kinh tế,2026,THPT,A01; C03; D07; X26,22.75,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310101E,Kinh tế (Chất lượng cao),2026,THPT,A00; D01,18.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310101E,Kinh tế (Chất lượng cao),2026,THPT,A01; C03; D07; X26,17.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310109,Kinh tế số,2026,THPT,A00; D01,23.25,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310109,Kinh tế số,2026,THPT,A01; C03; D07; X26,22.75,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310399,Giới và Phát triển,2026,THPT,C00,21.85,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310399,Giới và Phát triển,2026,THPT,D01,22.85,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310399,Giới và Phát triển,2026,THPT,C03; D09; D14; D15,22.35,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310401,Tâm lý học,2026,THPT,C00; D01,24.6,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7310401,Tâm lý học,2026,THPT,C03; D14; D15,24.1,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7320104,Truyền thông đa phương tiện,2026,THPT,C03; D14; D15,25.6,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7320104,Truyền thông đa phương tiện,2026,THPT,C00; D01,26.1,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,73201041,Truyền thông xã hội,2026,THPT,C00; D01,25.1,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,73201041,Truyền thông xã hội,2026,THPT,C03; D14; D15,24.6,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7340101,Quản trị kinh doanh,2026,THPT,A00; C00; D01,24.52,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7340101,Quản trị kinh doanh,2026,THPT,A01; C03; D14; D15,24.02,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7340101E,Quản trị kinh doanh (Chất lượng cao),2026,THPT,A00; C00; D01,18.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7340101E,Quản trị kinh doanh (Chất lượng cao),2026,THPT,A01; C03; D14; D15,17.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7340115,Marketing,2026,THPT,A00; C00; D01,24.85,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7340115,Marketing,2026,THPT,A01; C03; D14; D15,24.35,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7380101,Luật,2026,THPT,A00; D01,24.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7380101,Luật,2026,THPT,A01; D14; D15,23.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7380101,Luật,2026,THPT,C00,23.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7380107,Luật kinh tế,2026,THPT,A00; D01 ,23.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7380107,Luật kinh tế,2026,THPT,A01; D14; D15,23.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7380107,Luật kinh tế,2026,THPT,C00,22.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7480201,Công nghệ thông tin,2026,THPT,A00; D01,21.8,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7480201,Công nghệ thông tin,2026,THPT,A01; D09; X06; X26,21.3,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,74802011,Thiết kế và phát triển game,2026,THPT,A00; D01,17.85,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,74802011,Thiết kế và phát triển game,2026,THPT,A01; D09; X06; X26,17.35,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7760101,Công tác xã hội,2026,THPT,C00,24.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7760101,Công tác xã hội,2026,THPT,C03; D14; D15,24.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7760101,Công tác xã hội,2026,THPT,D01,25.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,77601011,Phát triển và quản lý dịch vụ xã hội,2026,THPT,D01,21.25,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,77601011,Phát triển và quản lý dịch vụ xã hội,2026,THPT,C00,20.25,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,77601011,Phát triển và quản lý dịch vụ xã hội,2026,THPT,C03; D14; D15,20.75,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7760101PH,Công tác xã hội,2026,THPT,D01,23.35,Historical API 2026; THPT; Đào tạo tại TP.HCM,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7760101PH,Công tác xã hội,2026,THPT,C00,22.35,Historical API 2026; THPT; Đào tạo tại TP.HCM,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7760101PH,Công tác xã hội,2026,THPT,C03; D14; D15,22.85,Historical API 2026; THPT; Đào tạo tại TP.HCM,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7810103,Quản trị dịch vụ du lịch và lữ hành,2026,THPT,A00; D01,25.17,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7810103,Quản trị dịch vụ du lịch và lữ hành,2026,THPT,C00,24.17,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7810103,Quản trị dịch vụ du lịch và lữ hành,2026,THPT,A01; C03; D14; D15,24.67,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7810103PH,Quản trị dịch vụ du lịch và lữ hành,2026,THPT,A00; D01,23.15,Historical API 2026; THPT; Đào tạo tại TP.HCM,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7810103PH,Quản trị dịch vụ du lịch và lữ hành,2026,THPT,A01; C03; D14; D15,22.65,Historical API 2026; THPT; Đào tạo tại TP.HCM,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026
+HV Phụ nữ Việt Nam,7810103PH,Quản trị dịch vụ du lịch và lữ hành,2026,THPT,C00,22.15,Historical API 2026; THPT; Đào tạo tại TP.HCM,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2026

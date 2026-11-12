@@ -1,0 +1,4 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,51140201,Giáo dục Mầm non (cao đẳng),2023,THPT,C00;C19;C20;M00,20.25,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1333&method_id=1&year=2023
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,7140201,Giáo dục Mầm non,2023,THPT,C00;C19;C20;M00,20.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1333&method_id=1&year=2023
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,7140202,Giáo dục Tiểu học,2023,THPT,C00;C19;C20;M00,22.75,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1333&method_id=1&year=2023

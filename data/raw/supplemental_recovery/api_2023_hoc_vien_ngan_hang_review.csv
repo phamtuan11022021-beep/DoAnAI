@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Ngân hàng,ACT01,Kế toán (Chương trình Chất lượng cao),2023,THPT,A00;A01;D01;D07,32.75,Historical API 2023; THPT; Môn Toán nhân đôi,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BANK01,Ngân hàng (Chương trình Chất lượng cao),2023,THPT,A00;A01;D01;D07,32.7,Historical API 2023; THPT; Môn Toán nhân đôi,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,BUS01,Quản trị kinh doanh (Chương trình Chất lượng cao),2023,THPT,A00;A01;D01;D07,32.65,Historical API 2023; THPT; Môn Toán nhân đôi,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023
+HV Ngân hàng,FIN01,Tài chính (Chương trình Chất lượng cao),2023,THPT,A00;A01;D01;D07,32.6,Historical API 2023; THPT; Môn Toán nhân đôi,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2023

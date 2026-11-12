@@ -1,0 +1,50 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Sư phạm TPHCM,51140201,Giáo dục Mầm non (trình độ CĐ),2024,THPT,M02;M03,18.7,Historical API 2024; THPT; Phân hiệu Long An,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140101,Giáo dục học,2024,THPT,D01;A00;A01;C14,24.82,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140114,Quản lý giáo dục,2024,THPT,D01;A00;A01;C14,25.22,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140201,Giáo dục Mầm non,2024,THPT,M02;M03,24.24,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140201_LA,Giáo dục Mầm non,2024,THPT,M02;M03,22.0,Historical API 2024; THPT; Phân hiệu Long An,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140202,Giáo dục Tiểu học,2024,THPT,A00;A01;D01,26.13,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140202_LA,Giáo dục Tiểu học,2024,THPT,A00;A01;D01,24.73,Historical API 2024; THPT; Phân hiệu Long An,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140203,Giáo dục Đặc biệt,2024,THPT,C00;C15;D01,26.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140204,Giáo dục công dân,2024,THPT,C00;C19;D01,27.34,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140205,Giáo dục Chính trị,2024,THPT,C00;C19;D01,27.58,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140206,Giáo dục Thể chất,2024,THPT,M08;T01,26.71,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140206_LA,Giáo dục Thể chất,2024,THPT,M08;T01,24.77,Historical API 2024; THPT; Phân hiệu Long An,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140208,Giáo dục Quốc phòng - An ninh,2024,THPT,A08;C00;C19,27.28,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140209,Sư phạm Toán học,2024,THPT,A00;A01,27.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140209_LA,Sư phạm Toán học,2024,THPT,A00;A01,26.18,Historical API 2024; THPT; Phân hiệu Long An,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140210,Sư phạm Tin học,2024,THPT,A00;A01;B08,24.73,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140211,Sư phạm Vật lý,2024,THPT,A00;A01;C01,27.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140212,Sư phạm Hoá học,2024,THPT,A00;B00;D07,27.67,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140213,Sư phạm Sinh học,2024,THPT,B00;D08,26.22,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140217,Sư phạm Ngữ văn,2024,THPT,C00;D01;D78,28.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140217_LA,Sư phạm Ngữ văn,2024,THPT,C00;D01;D78,27.2,Historical API 2024; THPT; Phân hiệu Long An,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140218,Sư phạm Lịch sử,2024,THPT,C00;D14,28.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140219,Sư phạm Địa lý,2024,THPT,C00;C04;D15;D78,28.37,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140231,Sư phạm Tiếng Anh,2024,THPT,D01,27.01,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140231_LA,Sư phạm Tiếng Anh,2024,THPT,D01,25.47,Historical API 2024; THPT; Phân hiệu Long An,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140232,Sư phạm Tiếng Nga,2024,THPT,D01;D02;D78;D80,23.69,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140233,Sư phạm Tiếng Pháp,2024,THPT,D01;D03,24.93,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140234,Sư phạm Tiếng Trung Quốc,2024,THPT,D01;D04,26.44,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140246,Sư phạm công nghệ,2024,THPT,A00;A01;A02;D90,24.31,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140247,Sư phạm khoa học tự nhiên,2024,THPT,A00;A02;B00;D90,25.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7140249,Sư phạm Lịch sử - Địa lý,2024,THPT,C00;C19;C20;D78,27.75,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7220201,Ngôn ngữ Anh,2024,THPT,D01,25.86,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7220202,Ngôn ngữ Nga,2024,THPT,D01;D02;D78;D80,22.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7220203,Ngôn ngữ Pháp,2024,THPT,D01;D03,22.7,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7220204,Ngôn ngữ Trung Quốc,2024,THPT,D01;D04,25.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7220209,Ngôn ngữ Nhật,2024,THPT,D01;D06,23.77,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7220210,Ngôn ngữ Hàn quốc,2024,THPT,D01;D78;D96;DD2,25.02,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7229030,Văn học,2024,THPT,C00;D01;D78,26.62,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7310401,Tâm lý học,2024,THPT,B00;C00;D01,27.1,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7310403,Tâm lý học giáo dục,2024,THPT,A00;C00;D01,26.03,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7310501,Địa lý học,2024,THPT,C00;D10;D15;D78,25.17,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7310601,Quốc tế học,2024,THPT,D01;D14;D78,24.42,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7310630,Việt Nam học,2024,THPT,C00;D01;D78,25.28,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7420203,Sinh học ứng dụng,2024,THPT,B00;D08,21.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7440102,Vật lý học,2024,THPT,A00;A01;D90,24.44,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7440112,Hoá học,2024,THPT,A00;B00;D07,24.65,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7480201,Công nghệ thông tin,2024,THPT,A00;A01;B08,23.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7760101,Công tác xã hội,2024,THPT,A00;C00;D01,24.44,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024
+Trường ĐH Sư phạm TPHCM,7810101,Du lịch,2024,THPT,C00;C04;D01;D78,25.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=420&method_id=1&year=2024

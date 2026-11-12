@@ -1,0 +1,13 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Học Viện Biên Phòng,7380101,Ngành Luật,2024,THPT,C00,26.75,Historical API 2024; THPT; TS nam miền Bắc; Tiêu chí phụ 1: Văn >= 8,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7380101,Ngành Luật,2024,THPT,C00,26.63,Historical API 2024; THPT; TS nam miền Nam,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Quân khu 4),2024,THPT,A01,25.2,Historical API 2024; THPT; TS nam Quân khu 4 (Quảng Trị và TT Huế),https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Quân khu 5),2024,THPT,A01,23.04,Historical API 2024; THPT; TS nam Quân khu 5,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Quân khu 7),2024,THPT,A01,21.3,Historical API 2024; THPT; TS nam Quân khu 7,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Quân khu 9),2024,THPT,A01,23.7,Historical API 2024; THPT; TS nam Quân khu 9,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Thí sinh miền Bắc),2024,THPT,A01,24.6,Historical API 2024; THPT; TS nam miền Bắc,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Thí sinh miền Bắc),2024,THPT,C00,28.37,Historical API 2024; THPT; TS nam miền Bắc,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Quân khu 4),2024,THPT,C00,27.58,Historical API 2024; THPT; TS nam Quân khu 4 (Quảng Trị và TT Huế),https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Quân khu 5),2024,THPT,C00,27.34,Historical API 2024; THPT; TS nam Quân khu 5,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Quân khu 7),2024,THPT,C00,27.2,Historical API 2024; THPT; TS nam Quân khu 7,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024
+Học Viện Biên Phòng,7860214,Biên phòng (Quân khu 9),2024,THPT,C00,27.9,Historical API 2024; THPT; TS nam Quân khu 9; Tiêu chí phụ 1: Văn >= 8.75,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=223&method_id=1&year=2024

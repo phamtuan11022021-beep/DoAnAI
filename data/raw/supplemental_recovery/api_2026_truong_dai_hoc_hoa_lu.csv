@@ -1,0 +1,11 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Hoa Lư,7140201,Giáo dục Mầm non,2026,THPT,D14; C00; X70; X74; D01; C03; C04,24.4,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026
+Trường ĐH Hoa Lư,7140202,Giáo dục Tiểu học,2026,THPT,D01; C03; C04; C01; C14; B03; C02,24.87,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026
+Trường ĐH Hoa Lư,7140209,Sư phạm Toán học,2026,THPT,A00; A01; A02; X06; B00; D07; B08,25.4,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026
+Trường ĐH Hoa Lư,7140247,Sư phạm Khoa học tự nhiên,2026,THPT,A00; A01; A02; X06; B00; D07; B08,23.7,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026
+Trường ĐH Hoa Lư,7140249,Sư phạm Lịch sử - Địa lý,2026,THPT,D14; C00; X70; D15; X74,25.88,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026
+Trường ĐH Hoa Lư,7340101,Quản trị kinh doanh,2026,THPT,A00; A01; A10; C01; D01; C03; C04,17.75,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026
+Trường ĐH Hoa Lư,7340301,Kế toán,2026,THPT,A00; A01; A10; C01; D01; C03; C04,16.75,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026
+Trường ĐH Hoa Lư,7480201,Công nghệ thông tin,2026,THPT,"A00; A01; C01; D01; X06; K01 
+",16.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026
+Trường ĐH Hoa Lư,7810101,Du lịch,2026,THPT,D01; C03; C04; X01; X70; C00; D14; D15,19.1,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=333&method_id=1&year=2026

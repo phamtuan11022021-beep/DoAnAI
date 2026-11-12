@@ -1,0 +1,16 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Đồng Nai,7140202,Giáo dục Tiểu học,2026,THPT,A00; A01; C03; C04; D01,24.41,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7140209,Sư phạm Toán học,2026,THPT,A00; A01; D01; D07; C01; X26,26.04,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7140211,Sư phạm Vật lý,2026,THPT,A00; A01; A02; X06; C01; A04,25.18,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7140212,Sư phạm Hoá học,2026,THPT,A00; B00; D07; C02; A05; X11,25.1,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7140213,Sư phạm Sinh học,2026,THPT,"A02; B00; B02; B03; B08; X15, X16",21.85,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7140217,Sư phạm Ngữ văn,2026,THPT,C00; D14; D15; C03; D01,24.06,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7140218,Sư phạm Lịch sử,2026,THPT,C00; D09; D14; C03; X70,24.64,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7140231,Sư phạm Tiếng Anh,2026,THPT,"A01; D01; D11; D12, D14; D15",23.49,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7140247,Sư phạm Khoa học tự nhiên,2026,THPT,A00; B00; A02; A01; D07; B03; C02,24.36,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7220201,Ngôn ngữ Anh,2026,THPT,"A01; D01; D11; D12, D14; D15",23.75,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7340101,Quản trị kinh doanh,2026,THPT,A00; A01; C01; C02; D01; D07; X01; X02,22.3,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7340301,Kế toán,2026,THPT,"A00; A01; C01; C02; D01; D07;
+X01; X02",23.02,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7510301,"Công nghệ kỹ thuật điện, điện tử",2026,THPT,A00; A01; D01; D07; X05; X07,22.33,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026
+Trường ĐH Đồng Nai,7520103,Kỹ thuật cơ khí,2026,THPT,A00; A01; D01; D07; X05; X07,20.3,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2026

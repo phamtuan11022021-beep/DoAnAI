@@ -1,0 +1,26 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại Học Thành Đông,7220201,Ngôn ngữ Anh,2023,THPT,D01;D07;D14;D15,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7220204,Ngôn ngữ Trung Quốc,2023,THPT,C00;D01;D14;D15,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7220210,Ngôn ngữ Hàn Quốc,2023,THPT,C00;D01;D14;D15,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7310201,Chính trị học,2023,THPT,A00;A01;C01;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7310205,Quản lý nhà nước,2023,THPT,A00;A01;C00;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;A07;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7340201,Tài chính - Ngân hàng,2023,THPT,A00;A01;A07;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7340301,Kế toán,2023,THPT,A00;A01;A07;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7380101,Luật,2023,THPT,A00;A01;C00;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7380107,Luật kinh tế,2023,THPT,A00;A01;C00;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7480201,Công nghệ thông tin,2023,THPT,A00;A01;D07;D08,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7510103,CNKT Xây dựng,2023,THPT,A00;A01;D07;D08,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7510203,CNKT Cơ điện tử,2023,THPT,A00;A01;D07;D08,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7510205,CNKT Ôtô,2023,THPT,A00;A01;C01;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7520216,KTĐK và Tự động hóa,2023,THPT,A00;A01;D07;D08,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7640101,Thú Y,2023,THPT,A00;A02;B00,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7720115,Y học cổ truyền,2023,THPT,A00;A02;B00,21.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7720201,Dược học,2023,THPT,A00;A02;B00,21.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7720301,Điều dưỡng,2023,THPT,A00;A02;B00,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7720401,Dinh dưỡng,2023,THPT,A00;A02;B00,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7720601,Kỹ thuật xét nghiệm Y học,2023,THPT,A00;A02;B00,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7720602,Kỹ thuật hình ảnh Y học,2023,THPT,A00;A02;B00,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7810103,Quản trị dịch vụ Du lịch và Lữ hành,2023,THPT,A00;A01;C00;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7810201,Quản trị khách sạn,2023,THPT,A00;A01;C00;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023
+Trường Đại Học Thành Đông,7850103,Quản lý đất đai,2023,THPT,A00;A04;B00;D01,14.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=520&method_id=1&year=2023

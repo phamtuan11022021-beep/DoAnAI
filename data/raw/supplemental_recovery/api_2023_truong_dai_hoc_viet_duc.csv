@@ -1,0 +1,8 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Việt Đức,7340101,Quản trị kinh doanh (BBA),2023,THPT,A00;A01;D01;D03;D05;D07,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=436&method_id=1&year=2023
+Trường ĐH Việt Đức,7340202,Tài chính và Kế toán (BFA),2023,THPT,A00;A01;D01;D03;D05;D07,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=436&method_id=1&year=2023
+Trường ĐH Việt Đức,7480101,Khoa học máy tính (CSE),2023,THPT,A00;A01;D07,22.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=436&method_id=1&year=2023
+Trường ĐH Việt Đức,7520103,Kỹ thuật cơ khí (MEN),2023,THPT,A00;A01;D07,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=436&method_id=1&year=2023
+Trường ĐH Việt Đức,7520208,Kỹ thuật điện và máy tính (ECE),2023,THPT,A00;A01;D07,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=436&method_id=1&year=2023
+Trường ĐH Việt Đức,7580101,Kiến trúc (ARC),2023,THPT,A00;A01;V00;V02,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=436&method_id=1&year=2023
+Trường ĐH Việt Đức,7580201,Kỹ thuật xây dựng (BCE),2023,THPT,A00;A01;D07,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=436&method_id=1&year=2023

@@ -1,0 +1,10 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Ngân hàng,ACT03,"Kế toán (Liên kết với ĐH Sunderland, Anh quốc. Cấp song bằng)",2024,THPT,A00;A01;D01;D07,24.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024
+HV Ngân hàng,BANK04,"Tài chính-Ngân hàng (Liên kết với ĐH Sunderland, Anh quốc. Cấp song bằng)",2024,THPT,A00;A01;D01;D07,24.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024
+HV Ngân hàng,BANK05,"Ngân hàng và Tài chính quốc té (Liên kết với ĐH Coventry, Anh quốc. Cấp song bằng)",2024,THPT,A00;A01;D01;D07,24.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024
+HV Ngân hàng,BUS04,"Quản trị kinh doanh (Liên kết với ĐH CityU, Hoa kỳ. Cấp song bằng)",2024,THPT,A00;A01;D01;D07,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024
+HV Ngân hàng,BUS05,"Marketing số (Liên kết với ĐH Coventry, Anh quốc. Cấp một bằng của đối tác)",2024,THPT,A00;A01;D01;D07,24.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024
+HV Ngân hàng,FL01,Ngôn ngữ Anh,2024,THPT,A01;D01;D07;D09,25.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024
+HV Ngân hàng,IB03,"Kinh doanh quốc tế (Liên kết với ĐH Coventry, Anh quốc. Cấp song bằng)",2024,THPT,A00;A01;D01;D07,24.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024
+HV Ngân hàng,LAW01,Luật kinh tế,2024,THPT,A00;A01;D01;D07,25.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024
+HV Ngân hàng,LAW02,Luật kinh tế,2024,THPT,C00;C03;D14;D15,28.13,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2024

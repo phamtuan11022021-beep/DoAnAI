@@ -1,0 +1,20 @@
+[
+  {
+    "university_name": "Trường ĐH Công nghệ - ĐHQGHN",
+    "major_code": "CN3",
+    "year": "2026",
+    "old_score": "26.85",
+    "new_source_score": 25.41,
+    "source_url": "https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=311&method_id=1&year=2026",
+    "status": "REQUIRES_PRIMARY_SOURCE_REVIEW"
+  },
+  {
+    "university_name": "Trường ĐH Công nghệ - ĐHQGHN",
+    "major_code": "CN4",
+    "year": "2026",
+    "old_score": "25.41",
+    "new_source_score": 26.13,
+    "source_url": "https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=311&method_id=1&year=2026",
+    "status": "REQUIRES_PRIMARY_SOURCE_REVIEW"
+  }
+]

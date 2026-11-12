@@ -1,0 +1,173 @@
+﻿university_name,year,fetched,added,rejected,reason
+HV Chính sách và Phát triển,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+HV Hành chính Quốc gia,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+HV Kỹ thuật Mật mã,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+HV Ngân hàng,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+HV Thanh Thiếu niên VN,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+HV Y Dược học Cổ truyền VN,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Học viện Hành chính QG - PH TPHCM,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường Y Dược - ĐH Đà Nẵng,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH An Giang,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Bà Rịa - Vũng Tàu,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Bách khoa Hà Nội,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Bình Dương,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Bạc Liêu,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH CMC,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH CN Thông tin - ĐHQG.HCM,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Công nghiệp Dệt May HN,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Công nghiệp Hà Nội,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Công nghiệp TPHCM,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Công nghiệp Vinh,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+Trường ĐH Công nghệ - ĐHQGHN,2026,0,0,0,No additional verified THPT HTML rows; PDF/OCR may require review
+HV Chính sách và Phát triển,2026,0,0,0,PDF tables=2 text=3592 
+HV Hành chính Quốc gia,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+HV Kỹ thuật Mật mã,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+HV Ngân hàng,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+HV Thanh Thiếu niên VN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+HV Y Dược học Cổ truyền VN,2026,0,0,0,PDF tables=0 text=0 
+Học viện Hành chính QG - PH TPHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường Y Dược - ĐH Đà Nẵng,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH An Giang,2026,0,0,0,PDF tables=2 text=4430 
+Trường ĐH Bà Rịa - Vũng Tàu,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Bách khoa Hà Nội,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Bình Dương,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Bạc Liêu,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH CMC,2026,0,0,0,"ERROR: HTTPSConnectionPool(host='cmcu.edu.vn', port=443): Max retries exceeded with url: /diem-chuan-trung-tuyen-theo-cac-phuong-thuc-xet-tuyen-cua-truong-dai-hoc-cmc-nam-2026/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"
+Trường ĐH CN Thông tin - ĐHQG.HCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghiệp Dệt May HN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghiệp Hà Nội,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghiệp TPHCM,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Công nghiệp Vinh,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghệ - ĐHQGHN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghệ TPHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công đoàn,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Cần Thơ,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Duy Tân,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Dầu khí VN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Giao thông vận tải TPHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Giáo dục - ĐHQGHN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Hoa Sen,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Hà Nội,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Hòa Bình,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Hùng Vương,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Hạ Long,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Hải Phòng,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Hồng Đức,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH KH Sức khỏe - ĐHQGHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH KH Tự nhiên - ĐHQGHN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH KH XH & NV - ĐHQG.HCM,2026,0,0,0,PDF tables=3 text=4420 
+Trường ĐH KH tự nhiên - ĐHQG.HCM,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Khoa học và CN Hà Nội,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Khánh Hòa,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kinh tế - Công nghệ TN,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Kinh tế - Luật - ĐHQG.HCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kinh tế - ĐHQGHN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kinh tế Kỹ thuật Bình Dương,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kinh tế Kỹ thuật CN,2026,0,0,0,PDF tables=2 text=5606 
+Trường ĐH Kinh tế Quốc dân,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kinh tế TPHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+"Trường ĐH Kinh tế và QTKD, ĐHTN",2026,0,0,0,PDF tables=1 text=6970 
+Trường ĐH Kiên Giang,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Kiến trúc HN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kiến trúc TPHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kỹ thuật CN Cần Thơ,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kỹ thuật Y Dược Đà Nẵng,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kỹ thuật Y tế Hải Dương,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+"Trường ĐH Kỹ thuật công nghiệp, ĐHTN",2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Lao động xã hội,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Lâm nghiệp,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Mỹ thuật Công nghiệp,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Nam Cần Thơ,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Ngoại ngữ - Tin học TPHCM,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Ngoại ngữ - ĐHQGHN,2026,0,0,0,PDF tables=2 text=4178 
+Trường ĐH Ngoại thương,2026,0,0,0,PDF tables=3 text=3182 
+Trường ĐH Ngoại thương – Cơ sở 2,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Nguyễn Tất Thành,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Ngân hàng TPHCM,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Nha Trang,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Phú Yên,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Phạm Văn Đồng,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Quang Trung,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Quy Nhơn,2026,85,84,0,PDF tables=3 text=11020 ; PDF tables=0 text=0 
+Trường ĐH Quảng Bình,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Quảng Nam,2026,0,0,0,PDF tables=4 text=2727 
+Trường ĐH Quốc tế - ĐHQG.HCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Quốc tế Sài Gòn,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH SP Kỹ thuật Nam Định,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Sao Đỏ,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Sài Gòn,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Sư phạm - ĐH Thái Nguyên,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Sư phạm Hà Nội,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Sư phạm Kỹ thuật Vinh,2026,0,0,0,"ERROR: HTTPSConnectionPool(host='vuted.edu.vn', port=443): Max retries exceeded with url: /Resources/Document/2026/8/2026-skv_d1_qd_diem-chuan-trung-tuyen.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"
+Trường ĐH Sư phạm Kỹ thuật Vĩnh Long,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Sư phạm TPHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Thành Đô,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Thăng Long,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Thủ Dầu Một,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Thủ Đô Hà Nội,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Thủy lợi,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Trà Vinh,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Tài chính - Kế toán,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Tài chính - Marketing,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Tài chính - QTKD,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Tây Bắc,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Tây Nguyên,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Tây Đô,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Tôn Đức Thắng,2026,0,0,0,PDF tables=23 text=70958 
+Trường ĐH VHTT và Du lịch Thanh Hóa,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Việt Đức,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Văn Hiến,2026,0,0,0,PDF tables=10 text=20725 
+Trường ĐH Văn hóa TPHCM,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Xây dựng Hà Nội,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Xây dựng Miền Trung,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Y Dược - ĐH Thái Nguyên,2026,0,0,0,"ERROR: HTTPSConnectionPool(host='tuyensinh.tump.edu.vn', port=443): Max retries exceeded with url: /uploads/media/TS2026/1266%20Th%C3%B4ng%20b%C3%A1o%20%C4%91i%E1%BB%83m%20tr%C3%BAng%20tuy%E1%BB%83n%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20ch%C3%ADnh%20quy%20n%C4%83m%202026%20v%C3%A0o%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Y%20-%20D%C6%B0%E1%BB%A3c%2C%20%C4%90HTN.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"
+Trường ĐH Y Dược Cần Thơ,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Y Dược TPHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Y Dược Thái Bình,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Y khoa Phạm Ngọc Thạch,2026,0,0,0,PDF tables=3 text=2099 
+Trường ĐH Y khoa Tokyo Việt Nam,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Y khoa Vinh,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Điều dưỡng Nam Định,2026,0,0,0,PDF tables=0 text=1497 
+Trường ĐH Điện lực,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Đông Á,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Đồng Nai,2026,0,0,0,PDF tables=0 text=0 
+Trường ĐH Đồng Tháp,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường Đại học Phenikaa,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+ĐẠI HỌC BÁCH KHOA HÀ NỘI,2026,0,0,0,"ERROR: HTTPSConnectionPool(host='ts.hust.edu.vn', port=443): Max retries exceeded with url: /tin-tuc/diem-chuan-dai-hoc-bach-khoa-ha-noi-nam-2026 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"
+ĐẠI HỌC KINH TẾ QUỐC DÂN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Luật TPHCM,2026,5,0,0,PDF tables=1 text=3702 
+Trường ĐH Luật - ĐHQGHN,2026,3,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Thái Bình,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Luật Hà Nội,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công Thương TPHCM,2026,19,2,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Y tế Công cộng,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Tài nguyên và MT Hà Nội,2026,20,0,0,PDF tables=7 text=12390 
+Trường ĐH Kinh tế - Tài chính TPHCM,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+HV Nông nghiệp Việt Nam,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+HV Phụ nữ Việt Nam,2026,25,0,0,PDF tables=2 text=3487 
+HV Quản lý giáo dục,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Học viện Cán bộ TP.HCM,2026,5,0,0,PDF tables=2 text=5416 
+Trường ĐH Bách khoa - ĐH Đà Nẵng,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghiệp Quảng Ninh,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghiệp Việt - Hung,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghiệp Việt Trì,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghiệp và Thương mại,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Công nghệ GTVT,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Cửu Long,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Dược Hà Nội,2026,4,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Hoa Lư,2026,8,0,0,PDF tables=2 text=3402 
+Trường ĐH Hà Tĩnh,2026,17,0,0,PDF tables=2 text=5296 
+Trường ĐH Hải Dương,2026,32,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH KH XH và NV - ĐHQGHN,2026,29,1,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Kiến trúc Đà Nẵng,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Mở TPHCM,2026,67,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Nông Lâm - ĐH Thái Nguyên,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Nông Lâm TPHCM,2026,56,0,0,PDF tables=3 text=7587 
+Trường ĐH Sư phạm Hà Nội 2,2026,25,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Tiền Giang,2026,20,0,0,PDF tables=2 text=3530 
+Trường ĐH Tài nguyên và Môi trường,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Y Dược - ĐHQGHN,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Y Hà Nội,2026,20,1,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Duy Tân,2026,0,0,0,Official linked sources; explicit THPT-30 only; images need OCR review
+Trường ĐH Đông Á,2026,0,0,0,REVIEW: mixed-method HTML requires column audit
+Trường ĐH Bách khoa - ĐH Đà Nẵng,2026,0,0,0,REVIEW: mixed-method HTML requires column audit

@@ -1,0 +1,3 @@
+university_key,major_code_pattern,city,source_url,verified_year,major_name_pattern
+dai hoc dong a,.*DL,Đắk Lắk,https://donga.edu.vn/tin-tuc/ttsk-chi-tiet/Dai-hoc-Dong-A-thong-bao-tuyen-sinh-bac-dai-hoc-chinh-quy-nam-2026-42971,2026,
+dai hoc tai chinh marketing,.*,Huế,https://hue.ufm.edu.vn/,2026,\b(?:cs|co so|phan hieu|hoc tai)\s+hue\b

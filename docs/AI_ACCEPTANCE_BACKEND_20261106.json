@@ -1,0 +1,141 @@
+{
+  "mode": "backend_only",
+  "provider": {
+    "chat_provider": "gemini",
+    "chat_model": "gemini-3.1-flash-lite"
+  },
+  "passed": 4,
+  "total": 4,
+  "limitation": "Four targeted source checks, not a comprehensive or human-reviewed evaluation.",
+  "cases": [
+    {
+      "id": "ttu_it_2026",
+      "question": "Điểm chuẩn ngành Công nghệ thông tin Đại học Tân Tạo năm 2026 là bao nhiêu?",
+      "expected_code": "7480201",
+      "expected_score": 15.0,
+      "evidence_correct": true,
+      "wrong_years_present": false,
+      "score_mentioned": false,
+      "passed": true,
+      "seconds": 0.11,
+      "answer": "Đây là lịch sử điểm chuẩn THPT sạch/comparable của Trường ĐH Tân Tạo cho nhóm ngành khớp 'Công nghệ thông tin'. Dấu '-' nghĩa là dataset sạch không có dữ liệu năm đó.",
+      "cards": [
+        {
+          "kind": "history",
+          "university_name": "Trường ĐH Tân Tạo",
+          "major_code": "7480201",
+          "major_name": "Công nghệ thông tin",
+          "history": {
+            "2026": {
+              "cutoff_score": 15.0,
+              "eligible_combinations": "A00|A01|D01|X07|X25|X26|X27|X56",
+              "source_urls": "https://ttu.edu.vn/truong-dai-hoc-tan-tao-cong-bo-diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2026/"
+            }
+          },
+          "requested_years": [
+            2026
+          ]
+        }
+      ],
+      "diagnostics": {},
+      "lookup_query": null
+    },
+    {
+      "id": "uet_physics_2026",
+      "question": "Điểm chuẩn ngành Vật lý kỹ thuật Đại học Công nghệ - ĐHQGHN năm 2026 là bao nhiêu?",
+      "expected_code": "CN3",
+      "expected_score": 25.41,
+      "evidence_correct": true,
+      "wrong_years_present": false,
+      "score_mentioned": false,
+      "passed": true,
+      "seconds": 0.25,
+      "answer": "Đây là lịch sử điểm chuẩn THPT sạch/comparable của Trường ĐH Công nghệ - ĐHQGHN cho nhóm ngành khớp 'Vật lý Kỹ thuật'. Dấu '-' nghĩa là dataset sạch không có dữ liệu năm đó.",
+      "cards": [
+        {
+          "kind": "history",
+          "university_name": "Trường ĐH Công nghệ - ĐHQGHN",
+          "major_code": "CN3",
+          "major_name": "Vật lý kỹ thuật",
+          "history": {
+            "2026": {
+              "cutoff_score": 25.41,
+              "eligible_combinations": "A00|A01|X06",
+              "source_urls": "https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=311&method_id=1&year=2026"
+            }
+          },
+          "requested_years": [
+            2026
+          ]
+        }
+      ],
+      "diagnostics": {},
+      "lookup_query": null
+    },
+    {
+      "id": "uet_mechanics_2026",
+      "question": "Điểm chuẩn ngành Cơ kỹ thuật Đại học Công nghệ - ĐHQGHN năm 2026 là bao nhiêu?",
+      "expected_code": "CN4",
+      "expected_score": 26.13,
+      "evidence_correct": true,
+      "wrong_years_present": false,
+      "score_mentioned": false,
+      "passed": true,
+      "seconds": 0.25,
+      "answer": "Đây là lịch sử điểm chuẩn THPT sạch/comparable của Trường ĐH Công nghệ - ĐHQGHN cho nhóm ngành khớp 'Cơ kỹ thuật'. Dấu '-' nghĩa là dataset sạch không có dữ liệu năm đó.",
+      "cards": [
+        {
+          "kind": "history",
+          "university_name": "Trường ĐH Công nghệ - ĐHQGHN",
+          "major_code": "CN4",
+          "major_name": "Cơ kỹ thuật",
+          "history": {
+            "2026": {
+              "cutoff_score": 26.13,
+              "eligible_combinations": "A00|A01|X06",
+              "source_urls": "https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=311&method_id=1&year=2026"
+            }
+          },
+          "requested_years": [
+            2026
+          ]
+        }
+      ],
+      "diagnostics": {},
+      "lookup_query": null
+    },
+    {
+      "id": "cmc_it_2026",
+      "question": "Điểm chuẩn ngành Công nghệ thông tin Đại học CMC năm 2026 là bao nhiêu?",
+      "expected_code": "IT",
+      "expected_score": 18.98,
+      "evidence_correct": true,
+      "wrong_years_present": false,
+      "score_mentioned": false,
+      "passed": true,
+      "seconds": 0.02,
+      "answer": "Có điểm công bố theo phương thức bên dưới; chưa có chuỗi THPT đủ điều kiện ghép để dự đoán.",
+      "cards": [
+        {
+          "kind": "official_method",
+          "scope": "ĐIỂM CÔNG BỐ THEO PHƯƠNG THỨC",
+          "university_key": "dai hoc cmc",
+          "university_name": "Trường ĐH CMC",
+          "school_code": "CMC",
+          "city": "",
+          "major_code": "IT",
+          "major_name": "Công nghệ Thông tin",
+          "year": 2026,
+          "cutoff_score": 18.98,
+          "admission_method": "THPT - cột thang 30 do trường công bố; không dùng train THPT thuần",
+          "comparable_thpt": false,
+          "source_url": "https://cmcu.edu.vn/diem-chuan-trung-tuyen-theo-cac-phuong-thuc-xet-tuyen-cua-truong-dai-hoc-cmc-nam-2026/",
+          "evidence_path": "data\\raw\\official_20261106\\cmc_2026.jpg",
+          "program_listing_name": ""
+        }
+      ],
+      "diagnostics": {},
+      "lookup_query": null
+    }
+  ]
+}

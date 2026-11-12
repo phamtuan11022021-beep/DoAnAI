@@ -1,0 +1,4 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Ngoại ngữ - ĐHQGHN,7220201,Ngôn ngữ Anh,2025,THPT,A01; D01; D07; D08; D14; D15,26.85,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=380&method_id=1&year=2025
+Trường ĐH Ngoại ngữ - ĐHQGHN,7220209,Ngôn ngữ Nhật,2025,THPT,A01; D01; D06; D07; D08; D14; D15; D23; D28; D33; D43; D63,23.93,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=380&method_id=1&year=2025
+Trường ĐH Ngoại ngữ - ĐHQGHN,7220210,Ngôn ngữ Hàn Quốc,2025,THPT,A01; AH2; AH3; AH4; D01; D07; D08; D14; D15; DD2; DH1; DH5,24.69,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=380&method_id=1&year=2025

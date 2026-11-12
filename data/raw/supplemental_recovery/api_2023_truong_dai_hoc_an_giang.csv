@@ -1,0 +1,36 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH An Giang,7140201,Giáo dục Mầm non,2023,THPT,M02;M03;M05;M06,19.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140202,Giáo dục Tiểu học,2023,THPT,A00;A01;C00;D01,23.26,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140205,Giáo dục chính trị,2023,THPT,C00;C19;D01;D66,25.81,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140209,Sư phạm Toán học,2023,THPT,A00;A01;C01;D01,25.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140211,Sư phạm Vật lý,2023,THPT,A00;A01;C01;C05,24.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140212,Sư phạm Hóa học,2023,THPT,A00;B00;C02;D07,24.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140213,Sư phạm Sinh học,2023,THPT,B00;B03;B04;D08,22.24,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140217,Sư phạm Ngữ văn,2023,THPT,C00;D01;D14;D15,24.96,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140218,Sư phạm Lịch sử,2023,THPT,A08;C00;C19;D14,27.21,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140219,Sư phạm Địa lý,2023,THPT,A09;C00;C04;D10,25.05,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7140231,Sư phạm Tiếng Anh,2023,THPT,A01;D01;D09;D14,24.18,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7220201,Ngôn ngữ Anh,2023,THPT,A01;D01;D09;D14,20.02,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7229001,Triết học,2023,THPT,A01;C00;C01;D01,21.25,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7229030,Văn học,2023,THPT,C00;D01;D14;D15,22.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7310106,Kinh tế quốc tế,2023,THPT,A00;A01;C15;D01,21.37,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7310630,Việt Nam học,2023,THPT,A01;C00;C04;D01,21.18,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;C15;D01,22.52,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7340115,Markeing,2023,THPT,A00;A01;C15;D01,22.93,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7340201,Tài chính - Ngân hàng,2023,THPT,A00;A01;C15;D01,21.75,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7340301,Kế toán,2023,THPT,A00;A01;C15;D01,22.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7380101,Luật,2023,THPT,A01;C00;C01;D01,22.51,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7420201,Công nghệ sinh học,2023,THPT,A00;B00;C15;D01,20.95,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7480103,Kỹ thuật phần mềm,2023,THPT,A00;A01;C01;D01,18.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7480201,Công nghệ thông tin,2023,THPT,A00;A01;C01;D01,21.12,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7510401,Công nghệ kỹ thuật hóa học,2023,THPT,A00;B00;C05;C08,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7510406,Công nghệ kỹ thuật môi trường,2023,THPT,A16;B03;C15;D01,19.48,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7540101,Công nghệ thực phẩm,2023,THPT,A00;B00;C05;D07,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7540106,Đảm bảo chất lượng và an toàn thực phẩm,2023,THPT,A00;B00;C05;D07,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7620105,Chăn nuôi,2023,THPT,A00;B00;C15;D08,17.3,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7620110,Khoa học cây trồng,2023,THPT,A00;B00;C15;D01,18.66,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7620112,Bảo vệ thực vật,2023,THPT,A00;B00;C15;D01,21.7,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7620116,Phát triển nông thôn,2023,THPT,A00;B00;C00;D01,19.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7620301,Nuôi trồng thủy sản,2023,THPT,A00;B00;D01;D10,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7640101,Thú y,2023,THPT,A00;B00;C08;D08,22.26,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023
+Trường ĐH An Giang,7850101,Quản lý tài nguyên và môi trường,2023,THPT,A00;B00;C15;D01,20.88,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=297&method_id=1&year=2023

@@ -1,0 +1,10 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Đồng Nai,7140202,Giáo dục Tiểu học,2025,THPT,A00; A01; C03; C04; D01,23.1,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025
+Trường ĐH Đồng Nai,7140209,Sư phạm Toán học,2025,THPT,A01; C01; D01; A00; D07,25.41,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025
+Trường ĐH Đồng Nai,7140217,Sư phạm Ngữ văn,2025,THPT,C00; D01; D14; D15,26.51,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025
+Trường ĐH Đồng Nai,7140231,Sư phạm Tiếng Anh,2025,THPT,A01; D01; D14; D15,24.49,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025
+Trường ĐH Đồng Nai,7220201,Ngôn ngữ Anh,2025,THPT,A01; D01; D14; D15,18.6,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025
+Trường ĐH Đồng Nai,7340101,Quản trị kinh doanh,2025,THPT,A00; A01; D01; X05; X01,16.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025
+Trường ĐH Đồng Nai,7340301,Kế toán,2025,THPT,A00; A01; D01; X05; X01,16.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025
+Trường ĐH Đồng Nai,7510301,"Công nghệ kỹ thuật điện, điện tử",2025,THPT,A00; A01; D01; D07; X05,22.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025
+Trường ĐH Đồng Nai,7520103,Kỹ thuật cơ khí,2025,THPT,A00; A01; D01; D07; X05,18.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=469&method_id=1&year=2025

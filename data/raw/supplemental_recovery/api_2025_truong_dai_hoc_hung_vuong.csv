@@ -1,0 +1,21 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Hùng Vương,7140202,Giáo dục Tiểu học,2025,THPT,C01; X01; D01; C03,25.86,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7140209,Sư phạm Toán (Toán tin),2025,THPT,A00; X06; D01; X25,26.92,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7140247,Sư phạm Khoa học tự nhiên,2025,THPT,A00; B00; A01; X14,26.51,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7140249,Sư phạm Lịch sử - Địa lý,2025,THPT,C00; X70; D14; X74,27.58,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7220201,Ngôn ngữ Anh,2025,THPT,D01; D15; D14; X78,21.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7220204,Ngôn ngữ Trung Quốc,2025,THPT,D01; D04; D14; X78,22.5,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7310101,Kinh tế,2025,THPT,X53; X01; X25; D01,18.7,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7340101,Quản Trị kinh doanh,2025,THPT,X53; X01; X25; D01,20.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7340201,Tài chính - Ngân hàng,2025,THPT,X53; X01; X25; D01,18.6,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7340301,Kế Toán,2025,THPT,X53; X01; X25; D01,18.6,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7480201,Công nghệ thông tin,2025,THPT,D01; X26; X02; X25,18.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7510201,Công nghệ Kỹ thuật Cơ khí,2025,THPT,X06; A01; D01; X25,18.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7510301,"Công nghệ Kỹ thuật điện, điện tử",2025,THPT,X06; A01; D01; X25,18.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7620105,Chăn nuôi,2025,THPT,X04; X55; D01; X14,18.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7620110,Khoa học cây trồng,2025,THPT,X04; X55; D01; X14,18.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7640101,Thú y,2025,THPT,X04; X55; D01; X14,18.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7720301,Điều dưỡng,2025,THPT,B00; X14; B03; D01,21.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7760101,Công tác xã hội,2025,THPT,X70; X74; D01; C00,18.5,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7810101,Du lịch,2025,THPT,X70; X74; D01; C00,18.5,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025
+Trường ĐH Hùng Vương,7810103,Quản trị dịch vụ du lịch và lữ hành,2025,THPT,X70; X74; D01; C00,22.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=340&method_id=1&year=2025

@@ -1,0 +1,19 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Thủ Đô Hà Nội,7140204,Giáo dục công dân,2025,THPT,C00,27.2,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7140204,Giáo dục công dân,2025,THPT,C14; C16; C19; C20; X01; X58; X70; X74,27.95,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7140217,Sư phạm Ngữ văn,2025,THPT,C00,27.35,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7140217,Sư phạm Ngữ văn,2025,THPT,C03; C04; C14; D01; D04; X01,28.1,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7140218,Sư phạm Lịch sử,2025,THPT,C03; C19; D14; D40; X70,28.13,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7140218,Sư phạm Lịch sử,2025,THPT,C00,27.38,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7229030,Văn học,2025,THPT,C03; C04; D01; D04; D14; D65,26.52,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7229030,Văn học,2025,THPT,C00,25.77,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7229040,Văn hóa học,2025,THPT,C00,25.13,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7229040,Văn hóa học,2025,THPT,C03; C19; D14; D65; X70,25.88,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7310201,Chính trị học,2025,THPT,C00,24.75,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7310201,Chính trị học,2025,THPT,D01; D04; D14; D15; D45; D65; D66; D71; X78; X90,25.5,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7310401,Tâm lí học,2025,THPT,C00,25.28,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7310401,Tâm lí học,2025,THPT,D01; D04; D14; D15; D45; D65; D66; D71; X78; X90,26.03,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7310630,Việt Nam học,2025,THPT,C00,24.72,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7310630,Việt Nam học,2025,THPT,C03; C19; D14; D65; X70,25.47,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7760101,Công tác xã hội,2025,THPT,C00,24.66,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025
+Trường ĐH Thủ Đô Hà Nội,7760101,Công tác xã hội,2025,THPT,C00; D01; D04; D14; D15; D45; D65; D66; D71; X78; X90,25.41,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2025

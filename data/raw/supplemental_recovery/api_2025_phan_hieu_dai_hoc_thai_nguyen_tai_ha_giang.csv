@@ -1,0 +1,6 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,7140201,Giáo dục Mầm non,2025,THPT,C00; C14; C19; C20; D01; X01; X70; X74,26.05,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1333&method_id=1&year=2025
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,7140202,Giáo dục Tiểu học,2025,THPT,A00; C00; C14; C19; C20; D01; X01; X70; X74,26.14,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1333&method_id=1&year=2025
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,7140227,Sư phạm Tiếng H’mong,2025,THPT,C00; C14; C19; C20; D01; X01; X70; X74,21.05,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1333&method_id=1&year=2025
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,7220101,Tiếng Việt và văn hóa Việt Nam,2025,THPT,C00; C14; C19; C20; D01,19.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1333&method_id=1&year=2025
+Phân hiệu Đại học Thái Nguyên tại Hà Giang,7220204,Ngôn ngữ Trung Quốc,2025,THPT,D01; D14; D15; D66,20.05,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1333&method_id=1&year=2025

@@ -1,0 +1,19 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Nông nghiệp Việt Nam,HVN01,Thú y,2023,THPT,A00;A01;B00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN02,Chăn nuôi thú y - thuỷ sản,2023,THPT,A00;B00;B08;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN03,Nông nghiệp sinh thái và Nông nghiệp đô thị,2023,THPT,A00;A09;B00;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN04,Công nghệ kỹ thuật ô tô và Cơ điện tử,2023,THPT,A00;A01;A09;D01,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN05,Kỹ thuật cơ khí,2023,THPT,A00;A01;A09;D01,22.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN06,"Kỹ thuật điện, Điện tử và Tự động hoá",2023,THPT,A00;A01;A09;D01,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN07,Logistics và Quản lý chuỗi cung ứng,2023,THPT,A00;A09;C20;D01,24.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN08,"Quản trị kinh doanh, Thương mại và Du lịch",2023,THPT,A00;A09;C20;D01,22.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN09,Công nghệ sinh học và Công nghệ dược liệu,2023,THPT,A00;B00;B08;D01,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN10,Công nghệ thực phẩm và Chế biến,2023,THPT,A00;B00;D07;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN11,Kinh tế và Quản lý,2023,THPT,A00;C04;D07;D01,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN12,Xã hội học,2023,THPT,A09;C00;C20;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN13,Luật,2023,THPT,A09;C00;C20;D01,21.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN14,Công nghệ thông tin và Kỹ thuật số,2023,THPT,A00;A01;A09;D01,22.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN15,"Quản lý đất đai, Bất động sản và Môi trường",2023,THPT,A00;A01;B00;D01,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN16,Khoa học môi trường,2023,THPT,A00;A01;B00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN17,Ngôn ngữ Anh,2023,THPT,D01;D07;D14;D15,20.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023
+HV Nông nghiệp Việt Nam,HVN18,Sư phạm công nghệ,2023,THPT,A00;A01;B00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=562&method_id=1&year=2023

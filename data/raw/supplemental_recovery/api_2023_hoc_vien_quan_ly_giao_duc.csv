@@ -1,0 +1,6 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Quản lý giáo dục,7140114,Quản lý giáo dục,2023,THPT,A00;A01;C00;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2023
+HV Quản lý giáo dục,7220201,Ngôn ngữ Anh,2023,THPT,A01;D01;D10;D14,15.0,Historical API 2023; THPT; Môn Tiếng Anh đạt điểm từ 5.0 trở lên,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2023
+HV Quản lý giáo dục,7310101,Kinh tế,2023,THPT,A00;A01;D01;D10,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2023
+HV Quản lý giáo dục,7310403,Tâm lý học giáo dục,2023,THPT,A00;B00;C00;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2023
+HV Quản lý giáo dục,7340101,Quản trị văn phòng,2023,THPT,A00;A01;D01;C00,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=257&method_id=1&year=2023

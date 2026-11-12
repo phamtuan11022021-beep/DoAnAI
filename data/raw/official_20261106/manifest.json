@@ -1,0 +1,177 @@
+[
+  {
+    "id": "udn_2023",
+    "url": "https://ts.udn.vn/DHCD/Chinhquy/diemchuan/10452",
+    "retrieved_at": "2026-11-06T01:49:56.033140+00:00",
+    "status": 200,
+    "resolved_url": "https://ts.udn.vn/DHCD/Chinhquy/diemchuan/10452",
+    "sha256": "f4505f619b17feb7c33ff33b27d7db77453d6026b36f97d1b7362b2e30e96dfc",
+    "tables": 2,
+    "images": [
+      "https://ts.udn.vn/DChung2/20252262326108TRANG_TUYEN_SINH_DAI_HOC_DA_NANG.png"
+    ],
+    "attachments": []
+  },
+  {
+    "id": "udn_2024",
+    "url": "https://ts.udn.vn/DHCD/Chinhquy/diemchuan/13365",
+    "retrieved_at": "2026-11-06T01:49:56.472982+00:00",
+    "status": 200,
+    "resolved_url": "https://ts.udn.vn/DHCD/Chinhquy/diemchuan/13365",
+    "sha256": "34a151b181eac18ddfcf13bb4b34963e55de4ab8884f1d955e19283c3e5787bb",
+    "tables": 1,
+    "images": [
+      "https://ts.udn.vn/DChung2/20252262326108TRANG_TUYEN_SINH_DAI_HOC_DA_NANG.png"
+    ],
+    "attachments": []
+  },
+  {
+    "id": "udn_2025",
+    "url": "https://ts.udn.vn/DHCD/Chinhquy/diemchuan/15062",
+    "retrieved_at": "2026-11-06T01:49:56.897454+00:00",
+    "status": 200,
+    "resolved_url": "https://ts.udn.vn/DHCD/Chinhquy/diemchuan/15062",
+    "sha256": "2995c7ddff45b40bc7a3c11c63610525bd734628d5cf3cd57068355c85668934",
+    "tables": 1,
+    "images": [
+      "https://ts.udn.vn/DChung2/20252262326108TRANG_TUYEN_SINH_DAI_HOC_DA_NANG.png"
+    ],
+    "attachments": []
+  },
+  {
+    "id": "uneti_2025",
+    "url": "https://tuyensinh.uneti.edu.vn/thong-bao-diem-trung-tuyen-dai-hoc-he-chinh-quy-nam-2025.html",
+    "retrieved_at": "2026-11-06T01:49:57.301571+00:00",
+    "status": 200,
+    "resolved_url": "https://tuyensinh.uneti.edu.vn/thong-bao-diem-trung-tuyen-dai-hoc-he-chinh-quy-nam-2025.html",
+    "sha256": "8c12632b6f7c06394771efb95be30cf7a53d3e6e98264745b8049504f205611d",
+    "tables": 1,
+    "images": [
+      "https://media.uneti.edu.vn/Media\\1_TH1083\\FolderFunc\\202504\\Images/logo-uneti-footer-20250414103156-e.png",
+      "https://media.uneti.edu.vn/Media\\1_TH1083\\FolderFunc\\202608\\Images/1786267549583-7319676930795110423-7319676930795110423-5664231c6703eb100f89fc7b7de81139-20260809092816-e.jpg",
+      "https://media.uneti.edu.vn/Media\\1_TH1083\\FolderFunc\\202608\\Images/1786510744818-7319676930795110423-7319676930795110423-f492d1240047b54d1fbb38b3f956ff75-20260812121012-e.jpg",
+      "https://media.uneti.edu.vn/Media\\1_TH1083\\FolderFunc\\202608\\Images/tb-nhap-hoc-20260809091024-e.jpg",
+      "https://tuyensinh.uneti.edu.vn/Themes/TH1083/Assets/images/icon-png/date icon.png",
+      "https://tuyensinh.uneti.edu.vn/Themes/TH1083/Assets/images/icon-png/viewicon.png",
+      "https://tuyensinh.uneti.edu.vn/Themes/TH1083/Assets/images/logo uneti mobile.png",
+      "https://tuyensinh.uneti.edu.vn/Themes/TH1083/Assets/images/logo-uneti-tablet.png"
+    ],
+    "attachments": [
+      "https://uneti.edu.vn/wp-content/uploads/2025/08/1.-Thong-bao-diem-trung-tuyen-dai-hoc-nam-2025-1.doc",
+      "https://uneti.edu.vn/wp-content/uploads/2025/08/1.-Thong-bao-diem-trung-tuyen-dai-hoc-nam-2025-4.doc"
+    ]
+  },
+  {
+    "id": "cmc_2025",
+    "url": "https://cmcu.edu.vn/diem-chuan-trung-tuyen-theo-cac-phuong-thuc-xet-tuyen-cua-truong-dai-hoc-cmc-nam-2025/",
+    "retrieved_at": "2026-11-06T01:49:57.755975+00:00",
+    "status": 200,
+    "resolved_url": "https://cmcu.edu.vn/diem-chuan-trung-tuyen-theo-cac-phuong-thuc-xet-tuyen-cua-truong-dai-hoc-cmc-nam-2025/",
+    "sha256": "e483bd6429b739b4ae3d0390d38475d6359d7dbc1591783df82a0c34efd70174",
+    "tables": 0,
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%20fill='%23C8102E'%3E%3Cpath%20fill='%23012169'%20d='M0%200h900v600H0V0'/%3E%3Cg%20id='a'%3E%3Cpath%20fill='%23fff'%20d='M0%200h108l342%20228L792%200h108v72L450%20372%200%2072'/%3E%3Cpath%20d='M0%2048V0l450%20300h-72m72%200v-48L828%200h72'/%3E%3Cpath%20fill='%23fff'%20d='M350%200h200v600H350M0%20200h900v200H0'/%3E%3Cpath%20d='M390%200h120v600H390M0%20240h900v120H0'/%3E%3C/g%3E%3Cuse%20href='%23a'%20transform='rotate(180%20450%20300)'/%3E%3C/svg%3E",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3Cpath%20fill='%23da251d'%20d='m0,0h900v600H0'/%3E%3Cpath%20fill='%23ff0'%20d='m344,446%20106-326%20106,326-277-201h342'/%3E%3C/svg%3E",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3Cpath%20fill='%23fff'%20d='M0%200h900v600H0'/%3E%3Cg%20transform='matrix(6.25%200%200%206.25%20450%20300)'%3E%3Cpath%20stroke='%23000'%20stroke-width='4'%20d='m-35-37-13%2020m5%203%2013-20m5%203-13%2020m63%2042%206-9m1-2%206-9m5%203-6%209m-1%202-6%209m5%203%206-9m1-2%206-9m-96%200%2013%2020m5-3-6-9m-1-2-6-9m5-3%2013%2020m63-42-6-9m-1-2-6-9m5-3%2013%2020m5-3-6-9m-1-2-6-9'/%3E%3Ccircle%20r='24'%20fill='%23cd2e3a'/%3E%3Cpath%20fill='%230047a0'%20d='M0%200a12%2012%200%201%201%2020%2013%2024%2024%200%201%201-40-26A12%2012%200%201%200%200%200'/%3E%3C/g%3E%3C/svg%3E",
+      "https://cmcu.edu.vn/wp-content/uploads/2022/09/logo-CMC-Uni-trang-ngang.png",
+      "https://cmcu.edu.vn/wp-content/uploads/2024/03/logo-CMC-Uni-xanh-ngang-400x71.png",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/04/Anh-16.9-on-job-02.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/07/ASUS-Viet-Nam-ky-ket-hop-tac-voi-Truong-Dai-hoc-CMC-Dong-hanh-va-cung-cap-laptop-danh-rieng-cho-sinh-vien-K4-1-e1753421325721.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/08/Bang-diem_chuan.webp",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/12/logo-cmcu.png",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/10/CMC-Bloom-ngay-20.10-truong-dai-hoc-cmc-co-so-tp.hcm-6-e1792568077566-240x150.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/10/Sinh-vien-Truong-Dai-hoc-CMC-chung-tay-lan-toa-tinh-than-tien-phong-phong-chong-lua-dao-truc-tuyen-tai-Le-phat-dong-du-an-CyberZ-1-e1793453669544-240x150.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/11/CMCU-NEXT-FEST-2.0-Ngay-hoi-cau-lac-bo-sinh-vien-Truong-Dai-hoc-CMC-2026-10-e1793590374550-240x150.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/11/Giai-ma-bai-toan-phat-trien-nguon-nhan-luc-an-ninh-mang-tai-Viet-Nam-voi-toa-dam-Xay-dung-suc-manh-quoc-gia-trong-ky-nguyen-so-e1793845552443-240x150.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/11/tro-ly-khoa-240x150.png",
+      "https://www.facebook.com/tr?id=1169891823758980&ev=PageView&noscript=1"
+    ],
+    "attachments": [],
+    "score_images": [
+      {
+        "url": "https://cmcu.edu.vn/wp-content/uploads/2025/08/Bang-diem_chuan.webp",
+        "path": "data\\raw\\official_20261106\\cmc_2025.webp",
+        "sha256": "1a7b2df1a6e9f350febc14f9977ba7a412744c0a40c12d42beacaa82e604dfed"
+      }
+    ]
+  },
+  {
+    "id": "cmc_2026",
+    "url": "https://cmcu.edu.vn/diem-chuan-trung-tuyen-theo-cac-phuong-thuc-xet-tuyen-cua-truong-dai-hoc-cmc-nam-2026/",
+    "retrieved_at": "2026-11-06T01:49:58.723220+00:00",
+    "status": 200,
+    "resolved_url": "https://cmcu.edu.vn/diem-chuan-trung-tuyen-theo-cac-phuong-thuc-xet-tuyen-cua-truong-dai-hoc-cmc-nam-2026/",
+    "sha256": "73d3660d1b01cd2944d74485bdfddaefff0c3930745be81ee4dba9529a0be453",
+    "tables": 0,
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%20fill='%23C8102E'%3E%3Cpath%20fill='%23012169'%20d='M0%200h900v600H0V0'/%3E%3Cg%20id='a'%3E%3Cpath%20fill='%23fff'%20d='M0%200h108l342%20228L792%200h108v72L450%20372%200%2072'/%3E%3Cpath%20d='M0%2048V0l450%20300h-72m72%200v-48L828%200h72'/%3E%3Cpath%20fill='%23fff'%20d='M350%200h200v600H350M0%20200h900v200H0'/%3E%3Cpath%20d='M390%200h120v600H390M0%20240h900v120H0'/%3E%3C/g%3E%3Cuse%20href='%23a'%20transform='rotate(180%20450%20300)'/%3E%3C/svg%3E",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3Cpath%20fill='%23da251d'%20d='m0,0h900v600H0'/%3E%3Cpath%20fill='%23ff0'%20d='m344,446%20106-326%20106,326-277-201h342'/%3E%3C/svg%3E",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3Cpath%20fill='%23fff'%20d='M0%200h900v600H0'/%3E%3Cg%20transform='matrix(6.25%200%200%206.25%20450%20300)'%3E%3Cpath%20stroke='%23000'%20stroke-width='4'%20d='m-35-37-13%2020m5%203%2013-20m5%203-13%2020m63%2042%206-9m1-2%206-9m5%203-6%209m-1%202-6%209m5%203%206-9m1-2%206-9m-96%200%2013%2020m5-3-6-9m-1-2-6-9m5-3%2013%2020m63-42-6-9m-1-2-6-9m5-3%2013%2020m5-3-6-9m-1-2-6-9'/%3E%3Ccircle%20r='24'%20fill='%23cd2e3a'/%3E%3Cpath%20fill='%230047a0'%20d='M0%200a12%2012%200%201%201%2020%2013%2024%2024%200%201%201-40-26A12%2012%200%201%200%200%200'/%3E%3C/g%3E%3C/svg%3E",
+      "https://cmcu.edu.vn/wp-content/uploads/2022/09/logo-CMC-Uni-trang-ngang.png",
+      "https://cmcu.edu.vn/wp-content/uploads/2023/10/thumb.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2024/03/logo-CMC-Uni-xanh-ngang-400x71.png",
+      "https://cmcu.edu.vn/wp-content/uploads/2024/04/Vi-mach-ban-dan-CMC-Synopsys-scaled.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/01/sinh-vien-CMC-thuc-tap-tai-doanh-nghiep-2.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/07/ASUS-Viet-Nam-ky-ket-hop-tac-voi-Truong-Dai-hoc-CMC-Dong-hanh-va-cung-cap-laptop-danh-rieng-cho-sinh-vien-K4-1-e1753421325721.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/08/Truong-Dai-hoc-CMC-ky-ket-Bien-ban-ghi-nho-hop-tac-voi-Cong-ty-Co-phan-Rikkeisoft-2-e1754982201729.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/10/Le-khai-giang-Khoa-4-Truong-Dai-hoc-CMC-nam-hoc-2025-–-2026-1-scaled-e1782891268801.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/11/Company-Tour-sinh-vien-Truong-Dai-hoc-CMC-tham-quan-va-trai-nghiem-thuc-te-tai-CMC-Telecom-2.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2025/12/logo-cmcu.png",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/03/Bang-hoc-bong-cmc-2026.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/08/Mau-iPad-se-duoc-Truong-Dai-hoc-CMC-trao-tang-cho-tan-sinh-vien-nam-2026.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/08/final-bang-diem-chuan-truong-dai-hoc-cmc-2026.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/10/CMC-Bloom-ngay-20.10-truong-dai-hoc-cmc-co-so-tp.hcm-6-e1792568077566-240x150.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/10/Sinh-vien-Truong-Dai-hoc-CMC-chung-tay-lan-toa-tinh-than-tien-phong-phong-chong-lua-dao-truc-tuyen-tai-Le-phat-dong-du-an-CyberZ-1-e1793453669544-240x150.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/11/CMCU-NEXT-FEST-2.0-Ngay-hoi-cau-lac-bo-sinh-vien-Truong-Dai-hoc-CMC-2026-10-e1793590374550-240x150.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/11/Giai-ma-bai-toan-phat-trien-nguon-nhan-luc-an-ninh-mang-tai-Viet-Nam-voi-toa-dam-Xay-dung-suc-manh-quoc-gia-trong-ky-nguyen-so-e1793845552443-240x150.jpg",
+      "https://cmcu.edu.vn/wp-content/uploads/2026/11/tro-ly-khoa-240x150.png",
+      "https://www.facebook.com/tr?id=1169891823758980&ev=PageView&noscript=1"
+    ],
+    "attachments": [],
+    "score_images": [
+      {
+        "url": "https://cmcu.edu.vn/wp-content/uploads/2026/08/final-bang-diem-chuan-truong-dai-hoc-cmc-2026.jpg",
+        "path": "data\\raw\\official_20261106\\cmc_2026.jpg",
+        "sha256": "dbfb2285c2ed8214fc9509aef5c48eaff0eb80af3455793a5d599ea994dcc211"
+      }
+    ]
+  },
+  {
+    "id": "vimaru_2025",
+    "url": "https://tuyensinh.vimaru.edu.vn/tuyensinh/2025-thong-bao-diem-trung-tuyen-dai-hoc-he-chinh-quy-nam-2025.vmu",
+    "retrieved_at": "2026-11-06T01:49:59.623249+00:00",
+    "status": 200,
+    "resolved_url": "https://tuyensinh.vimaru.edu.vn/tuyensinh/2025-thong-bao-diem-trung-tuyen-dai-hoc-he-chinh-quy-nam-2025.vmu",
+    "sha256": "2654b25ab7dbdc1e53c43976e19245526a3b7691863504bf10a095c682e45dd0",
+    "tables": 9,
+    "images": [
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/Logo%2070%20n%C4%83m%20FINAL_2_0.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/download.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/socie.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/tuyensinh5.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/tuyensinh6.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/tuyensinh7.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/youtube.png"
+    ],
+    "attachments": []
+  },
+  {
+    "id": "vimaru_2026",
+    "url": "https://tuyensinh.vimaru.edu.vn/tuyensinh/2026-thong-bao-diem-trung-tuyen-dai-hoc-he-chinh-quy-nam-2026.vmu",
+    "retrieved_at": "2026-11-06T01:50:00.098825+00:00",
+    "status": 200,
+    "resolved_url": "https://tuyensinh.vimaru.edu.vn/tuyensinh/2026-thong-bao-diem-trung-tuyen-dai-hoc-he-chinh-quy-nam-2026.vmu",
+    "sha256": "ed5801fd56d17a65c0d243f4efd0d677ae354c9d06ff7352caa6c81e329fa0e6",
+    "tables": 7,
+    "images": [
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/Logo%2070%20n%C4%83m%20FINAL_2_0.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/download.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/socie.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/tuyensinh5.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/tuyensinh6.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/tuyensinh7.png",
+      "https://tuyensinh.vimaru.edu.vn/sites/tuyensinh.vimaru.edu.vn/files/youtube.png"
+    ],
+    "attachments": []
+  }
+]

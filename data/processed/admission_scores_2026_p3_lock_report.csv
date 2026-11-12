@@ -1,0 +1,4 @@
+﻿university_name,status,rows,ml_ready_rows,source_url,diagnostic
+Trường ĐH Sư phạm Hà Nội,RECOVERED,55,0,https://tuyensinh.hnue.edu.vn/tuyensinh2026/698?page=8,tables=13 rows=55
+Trường ĐH Luật Hà Nội,RECOVERED,5,5,https://tuyensinh.hlu.edu.vn/Images/Post/files/Tuyensinh/DHCQ/K51/BD%20DTT%20K51.pdf,"pdf_scores=[24.12, 25.95, 24.22, 23.09, 20.0]"
+Trường ĐH Tây Nguyên,KEPT_EXCLUDED,0,0,https://tuyensinh.ttn.edu.vn/2026/08/13/diemchuan2026/,TTN_IMAGE_FETCH_SSLError

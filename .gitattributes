@@ -1,0 +1,8 @@
+# Preserve exact bytes used by source-evidence and QA SHA256 checks.
+* -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.joblib binary

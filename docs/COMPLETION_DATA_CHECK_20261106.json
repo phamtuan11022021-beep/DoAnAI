@@ -1,0 +1,136 @@
+{
+  "before": 18720,
+  "after": 18738,
+  "added": 18,
+  "existing_scores_changed": 0,
+  "remaining_gaps": 307,
+  "location_rows": 49,
+  "added_records": [
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7320104",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|C00|C01|C03|C04|C14|D01|D14|D15|X01"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7340101",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|C01|D01|D07|X01"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7340115",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|C01|D01|D07|X01"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7340120",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|C01|D01|D07|X01"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7340201",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|C01|D01|D07|X01"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7340301",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|C01|D01|D07|X01"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7380101",
+      "year": 2026,
+      "cutoff_score": 20.0,
+      "eligible_combinations": "A00|A01|C00|C03|D01"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7380107",
+      "year": 2026,
+      "cutoff_score": 20.0,
+      "eligible_combinations": "A00|A01|C00|C03|D01|D14|X01"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7420201",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A02|B00|B03|B08|X14|X16"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7460108",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|D01|D07|X07|X25|X26|X27|X56"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7480101",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|D01|D07|X07|X25|X26|X27|X56"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7480107",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|D01|D07|X07|X25|X26|X27|X56"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7480201",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|D01|X07|X25|X26|X27|X56"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7510605",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A01|D01|D07|X01|X26"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7620118",
+      "year": 2026,
+      "cutoff_score": 15.0,
+      "eligible_combinations": "A00|A02|B00|B08|D07|X16"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7720101",
+      "year": 2026,
+      "cutoff_score": 22.0,
+      "eligible_combinations": "A02|B00|B08"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7720301",
+      "year": 2026,
+      "cutoff_score": 18.0,
+      "eligible_combinations": "A00|A02|B00|B08|D07"
+    },
+    {
+      "university_name": "Trường ĐH Tân Tạo",
+      "major_code": "7720601",
+      "year": 2026,
+      "cutoff_score": 18.0,
+      "eligible_combinations": "A00|A02|B00|B08|D07"
+    }
+  ]
+}

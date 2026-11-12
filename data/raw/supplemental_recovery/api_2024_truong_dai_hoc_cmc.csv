@@ -1,0 +1,11 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH CMC,BA,Quản trị Kinh doanh,2024,THPT,A00;A01;C00;D01,22.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,CS,Khoa học Máy tính,2024,THPT,A00;A01;D01;D90,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,EC,Công nghệ kỹ thuật Điện tử - Viễn thông,2024,THPT,A00;A01;D01;D90,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,GD,Thiết kế Đồ hoạ,2024,THPT,A00;A01;C01;D90,22.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,IT,Công nghệ Thông tin,2024,THPT,A00;A01;D01;D90,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,IT-VJ,Công nghệ Thông tin Việt - Nhật (ngành Công nghệ Thông tin),2024,THPT,A00;A01;D01;D90,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,IT-VK,Công nghệ Thông tin Việt - Hàn (ngành Công nghệ Thông tin),2024,THPT,A00;A01;D01;D90,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,JL,Ngôn ngữ Nhật,2024,THPT,A01;C00;D01;D06,21.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,KL,Ngôn ngữ Hàn Quốc,2024,THPT,A01;C00;D01;D10,21.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024
+Trường ĐH CMC,MK,Marketing,2024,THPT,A00;A01;C00;D01,22.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=557&method_id=1&year=2024

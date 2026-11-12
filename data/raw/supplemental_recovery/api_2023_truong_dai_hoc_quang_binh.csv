@@ -1,0 +1,14 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Quảng Bình,7140201,Giáo dục Mầm non,2023,THPT,M05;M06;M07;M14,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7140202,Giáo dục Tiểu học,2023,THPT,A00;C00;C14;D01,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7140209,Sư phạm Toán học,2023,THPT,A00;A01;A02;D07,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7140217,Sư phạm Ngữ văn,2023,THPT,C00;C19;C20;D14,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7140247,Sư phạm Khoa học tự nhiên,2023,THPT,A00;A02;B00;D90,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7220201,Ngôn ngữ Anh,2023,THPT,D01;D09;D14;D15,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7220204,Ngôn ngữ Trung Quốc,2023,THPT,D01;D09;D14;D15,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7340101,Quản trị kinh doanh,2023,THPT,A01;A03;C03;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7340301,Kế toán,2023,THPT,A01;A09;C02;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7480201,Công nghệ thông tin,2023,THPT,A00;A01;A02;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7620101,Nông nghiệp,2023,THPT,A00;B03;A09;C13,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7810103,Quản trị dịch vụ du lịch và lữ hành,2023,THPT,C00;C03;D01;D15,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023
+Trường ĐH Quảng Bình,7850101,Quản lý Tài nguyên và Môi trường,2023,THPT,A00;B03;C04;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=400&method_id=1&year=2023

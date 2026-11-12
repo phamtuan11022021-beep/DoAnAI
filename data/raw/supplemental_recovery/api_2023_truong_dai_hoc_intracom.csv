@@ -1,0 +1,10 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại học Intracom,7220201,Ngôn ngữ Anh,2023,THPT,D01;A01;D14;D10,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023
+Trường Đại học Intracom,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;D01;C04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023
+Trường Đại học Intracom,7340201,Tài chính - Ngân hàng,2023,THPT,A00;A01;D01;C04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023
+Trường Đại học Intracom,7340301,Kế toán,2023,THPT,A00;A01;D01;C04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023
+Trường Đại học Intracom,7380107,Luật Kinh tế,2023,THPT,A00;A01;D01;C00,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023
+Trường Đại học Intracom,7480201,Công nghệ thòng tin,2023,THPT,A00;A01;D01;C04,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023
+Trường Đại học Intracom,7520201,Kỹ thuật điện,2023,THPT,A00;A01;D01;C04,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023
+Trường Đại học Intracom,7580101,Kiến trúc,2023,THPT,V00;V01;V02;V03,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023
+Trường Đại học Intracom,7580201,Kỹ thuật xây dựng,2023,THPT,A00;A01;D01;C04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=307&method_id=1&year=2023

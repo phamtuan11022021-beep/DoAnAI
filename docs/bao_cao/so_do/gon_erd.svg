@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="930" viewBox="0 0 1200 930"><rect width="100%" height="100%" fill="white"/>
+<text x="600.0" y="38" font-family="Arial" font-size="30" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Quan hệ nghiệp vụ trọng tâm</text>
+<rect x="430" y="130" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="600.0" y="182.5" font-family="Arial" font-size="29" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Tài khoản</text>
+<rect x="20" y="130" width="320" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="180.0" y="182.5" font-family="Arial" font-size="29" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Hồ sơ</text>
+<rect x="860" y="130" width="320" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="1020.0" y="182.5" font-family="Arial" font-size="29" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Cuộc hội thoại</text>
+<rect x="430" y="440" width="340" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="600.0" y="492.5" font-family="Arial" font-size="29" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Bài viết</text>
+<rect x="20" y="750" width="320" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="180.0" y="802.5" font-family="Arial" font-size="29" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Bình luận</text>
+<rect x="860" y="750" width="320" height="105" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="1020.0" y="802.5" font-family="Arial" font-size="29" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Tin nhắn AI</text>
+<polyline points="430,182.5 340,182.5" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="345" y="97" width="79" height="25" fill="white"/>
+<text x="385" y="110" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">1 / 0..1</text>
+<polyline points="770,182.5 860,182.5" fill="none" stroke="#455365" stroke-width="3"/>
+<polyline points="860,182.5 839.8156010765214,193.52678738789666" fill="none" stroke="#455365" stroke-width="3"/>
+<polyline points="860,182.5 839.8156010765214,171.47321261210334" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="761" y="97" width="108" height="25" fill="white"/>
+<text x="815" y="110" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">0..1 / 0..N</text>
+<polyline points="600.0,235 600.0,440" fill="none" stroke="#455365" stroke-width="3"/>
+<polyline points="600.0,440 588.9732126121033,419.81560107652143" fill="none" stroke="#455365" stroke-width="3"/>
+<polyline points="600.0,440 611.0267873878967,419.81560107652143" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="558" y="317" width="83" height="25" fill="white"/>
+<text x="600" y="330" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">1 / 0..N</text>
+<polyline points="600.0,545 180.0,750" fill="none" stroke="#455365" stroke-width="3"/>
+<polyline points="180.0,750 193.3022967161058,731.2370337612444" fill="none" stroke="#455365" stroke-width="3"/>
+<polyline points="180.0,750 202.9757532678971,751.0558227941827" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="308" y="637" width="83" height="25" fill="white"/>
+<text x="350" y="650" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">1 / 0..N</text>
+<polyline points="1020.0,235 1020.0,750" fill="none" stroke="#455365" stroke-width="3"/>
+<polyline points="1020.0,750 1008.9732126121033,729.8156010765214" fill="none" stroke="#455365" stroke-width="3"/>
+<polyline points="1020.0,750 1031.0267873878968,729.8156010765214" fill="none" stroke="#455365" stroke-width="3"/>
+<rect x="978" y="477" width="83" height="25" fill="white"/>
+<text x="1020" y="490" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">1 / 0..N</text>
+<text x="600.0" y="902" font-family="Arial" font-size="22" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Bội số ghi theo phía tài khoản hoặc cha / phía con; các quan hệ còn lại được giải thích trong nội dung.</text>
+</svg>

@@ -1,0 +1,17 @@
+{% extends "admin/base.html" %}
+{% load static %}
+{% block title %}{{ title }} | Quản trị UniConnect AI{% endblock %}
+{% block responsive %}{{ block.super }}<link rel="stylesheet" href="{% static 'admin/uniconnect-admin.css' %}">{% endblock %}
+{% block branding %}
+<a class="uc-brand" href="{% url 'admin:index' %}"><span class="uc-brand-mark">{% include 'admin/uc_icon.html' with icon='compass' %}</span><span>UniConnect<span class="uc-brand-ai">AI</span><small>Không gian quản trị</small></span></a>
+{% endblock %}
+{% block usertools %}{% if has_permission %}<div id="user-tools">
+  <a class="uc-visit" href="{{ site_url }}">{% include 'admin/uc_icon.html' with icon='external' %} Xem trang web</a>
+  <details class="uc-account"><summary><span class="uc-avatar">{{ user.get_username|first|upper }}</span><span>{{ user.get_full_name|default:user.username }}</span><span aria-hidden="true">⌄</span></summary><div><a href="{% url 'admin:password_change' %}">Đổi mật khẩu</a><form id="logout-form" method="post" action="{% url 'admin:logout' %}">{% csrf_token %}<button type="submit">Đăng xuất</button></form></div></details>
+</div>{% endif %}{% endblock %}
+{% block nav-global %}{% if has_permission %}<details class="uc-mobile-menu"><summary>☰ Menu quản trị</summary>{% include 'admin/uc_navigation.html' %}</details>{% endif %}{% endblock %}
+{% block nav-breadcrumbs %}{% endblock %}
+{% block nav-sidebar %}{% if has_permission %}<aside class="uc-sidebar" aria-label="Điều hướng quản trị">{% include 'admin/uc_navigation.html' %}<div class="uc-sidebar-note"><span class="uc-note-icon">{% include 'admin/uc_icon.html' with icon='shield' %}</span><strong>Mỗi thao tác, một thay đổi</strong><p>Kiểm tra thông tin trước khi lưu hoặc xóa nội dung.</p></div></aside>{% endif %}{% endblock %}
+{% block pretitle %}{% if has_permission and not admin_is_home %}<a class="uc-back" href="{% url 'admin:index' %}">← Tổng quan</a>{% endif %}{% endblock %}
+{% block content_subtitle %}{% if admin_description %}<p class="uc-page-description">{{ admin_description }}</p>{% endif %}{% endblock %}
+{% block footer %}<footer class="uc-footer">UniConnect AI · Cùng bạn chọn hướng tương lai</footer>{% endblock %}

@@ -1,0 +1,168 @@
+﻿university_name,status,accepted_rows,reason,source_url
+HV Báo chí và Tuyên truyền,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload/Diem-trung-tuyen-nam-2024-Hoc-vien-Bao-chi-tuyen-truyen.pdf
+HV Chính sách và Phát triển,ACCEPTED,10,,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-Hoc-vien-Chinh-sach-va-Phat-trien.pdf
+HV Công nghệ Bưu chính Viễn thông,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-xet-KQ-tot-nghiep-THPT-BVH.pdf
+HV Hành chính Quốc gia,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://drive.google.com/file/d/1mt1bDnN6Dx-fNQX9onXe_Bda2nhKbh7n/view
+HV Kỹ thuật Mật mã,ACCEPTED,4,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Hoc-vien-Ky-thuat-Mat-ma_C237_D19943.htm
+HV Ngoại giao,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-nam-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Hoc-vien-Ngoai-giao_C237_D19907.htm
+HV Ngân hàng,ACCEPTED,16,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Hoc-vien-Ngan-hang_C237_D19876.htm
+HV Nông nghiệp Việt Nam,ACCEPTED,18,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Hoc-vien-Nong-nghiep-VN_C237_D19944.htm
+HV Phụ nữ Việt Nam,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload/Diem-trung-tuyen-HVPN-2024.pdf
+HV Quản lý giáo dục,ACCEPTED,6,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Hoc-vien-Quan-ly-Giao-duc_C237_D19969.htm
+HV Thanh Thiếu niên VN,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Hoc-vien-Thanh-Thieu-nien-VN_C237_D19908.htm
+HV Y Dược học Cổ truyền VN,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-nam-2024-HV-Y-Duoc-hoc-Co-truyen-VN.pdf
+Học viện Công nghệ BCVT - BVS,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-KQ-thi-tot-nghiep-THPT-cua-Hoc-vien-CNBCVT-CS-phia-nam_C237_D19978.htm
+Học viện Hàng không VN,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Hoc-vien-Hang-khong-Viet-Nam_C237_D19923.htm
+Học viện Hành chính QG - PH TPHCM,ACCEPTED,3,,https://drive.google.com/file/d/1sHs_qmGphIXSCiuj8pfrWLxMEW7JOzc-/view
+Khoa Quốc tế - ĐH Thái Nguyên,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-KHoa-Quoc-te-Dai-hoc-Thai-Nguyen_C237_D19924.htm
+Trường ĐH An Giang,ACCEPTED,37,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-An-Giang_C237_D19893.htm
+Trường ĐH Bà Rịa - Vũng Tàu,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Ba-Ria-Vung-Tau_C237_D20024.htm
+Trường ĐH Bách khoa – ĐHQG.HCM,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-nam-2024-theo-phuong-thuc-xet-tuyen-tong-hop-cua-Truong-D8H-Bach-khoa-TPHCM_C237_D19885.htm
+Trường ĐH Bình Dương,ACCEPTED,18,,https://tuyensinh.bdu.edu.vn/index.php/dai-hoc-chinh-quy/bdu-cong-bo-diem-chuan-nam-2024-diem-trung-tuyen-15-diem-rieng-nganh-duoc-hoc-21-diem-511.html
+Trường ĐH Bạc Liêu,ACCEPTED,12,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Bac-Lieu_C237_D19980.htm
+Trường ĐH CMC,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-Dai-hoc-CMC_C237_D19878.htm
+Trường ĐH CN Thông tin - ĐHQG.HCM,ACCEPTED,13,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-KQ-thi-THPT-cua-Truong-DH-Cong-nghe-thong-tin-DHQGHCM_C237_D19966.htm
+Trường ĐH CNTT&TT - Thái Nguyên,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-THPT-cua-Truong-DH-Cong-nghe-Thong-tin-va-Truyen-thong-Thai-Nguyen_C237_D19920.htm
+Trường ĐH Công Thương TPHCM,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Cong-Thuong-TPHCM_C237_D19891.htm
+Trường ĐH Công nghiệp Hà Nội,ACCEPTED,52,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Cong-nghiep-Ha-Noi_C237_D19899.htm
+Trường ĐH Công nghiệp Quảng Ninh,ACCEPTED,9,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Cong-nghiep-Quang-Ninh_C237_D19922.htm
+Trường ĐH Công nghiệp TPHCM,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Cong-nghiep-TPHCM_C237_D19929.htm
+Trường ĐH Công nghiệp Vinh,ACCEPTED,6,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Cong-nghiep-Vinh_C237_D19986.htm
+Trường ĐH Công nghiệp Việt Trì,ACCEPTED,14,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Cong-nghep-Viet-Tri_C237_D19952.htm
+Trường ĐH Công nghệ - ĐHQGHN,ACCEPTED,17,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Truong-DH-Cong-nghe-DHQGHN_C237_D19942.htm
+Trường ĐH Công nghệ GTVT,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Cong-nghe-GTVT_C237_D19909.htm
+Trường ĐH Công nghệ Miền Đông,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-DH-Cong-nghe-Mien-Dong.pdf
+Trường ĐH Công nghệ TPHCM,ACCEPTED,63,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Cong-nghe-TPHCM_C237_D19880.htm
+Trường ĐH Công đoàn,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Truong-DH-Cong-doan_C237_D19945.htm
+Trường ĐH Cần Thơ,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-xet-ket-qua-thi-THPT-cua-Truong-DH-Can-Tho.pdf
+Trường ĐH Cửu Long,ACCEPTED,8,,https://mku.edu.vn/diem-trung-tuyen-he-dai-hoc-chinh-quy-nam-2024-dot-1-theo-phuong-thuc-xet-bang-diem-thi-tot-nghiep-thpt-202408189036.html
+Trường ĐH Duy Tân,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Duy-Tan_C237_D19965.htm
+Trường ĐH Dược Hà Nội,ACCEPTED,4,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Duoc-Ha-Noi_C237_D19890.htm
+Trường ĐH Dầu khí VN,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-nam-2024-Truong-DH-Dau-Khi-Viet-Nam.pdf
+Trường ĐH FPT,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-diem-thi-tot-nghiep-THPT-2024-cua-Truong-Dai-hoc-FPT_C237_D19866.htm
+Trường ĐH Giao thông vận tải,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Giao-thong-van-tai_C237_D19892.htm
+Trường ĐH Giao thông vận tải TPHCM,ACCEPTED,39,,https://thongtintuyensinh.vn/Diem-chuan-nam-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Gao-thong-van-tai-TPHCM_C237_D19906.htm
+Trường ĐH Giáo dục - ĐHQGHN,ACCEPTED,5,,https://thongtintuyensinh.vn/Diem-trung-tuyen-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Giao-duc-DHQGHN_C237_D19938.htm
+Trường ĐH Hoa Lư,ACCEPTED,7,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Hoa-Lu_C237_D19979.htm
+Trường ĐH Hoa Sen,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Hoa-Sen.pdf
+Trường ĐH Hà Nội,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-Dai-hoc-Ha-Noi_C237_D19900.htm
+Trường ĐH Hà Tĩnh,ACCEPTED,15,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Ha-Tinh_C237_D19987.htm
+Trường ĐH Hàng hải VN,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload/Diem-trung-tuyen-nam-2024-Truong-DH-Hang-hai-Viet-Nam.pdf
+Trường ĐH Hòa Bình,ACCEPTED,22,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-Dai-hoc-Hoa-Binh_C237_D19903.htm
+Trường ĐH Hùng Vương,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Hung-Vuong_C237_D19956.htm
+Trường ĐH Hạ Long,ACCEPTED,23,,https://thongtintuyensinh.vn/Diem-chuan-2024-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Ha-Long_C237_D19953.htm
+Trường ĐH Hải Dương,ACCEPTED,22,,https://thongtintuyensinh.vn/upload//Diem-trung-tuyen-nam-2024-Truong-DH-Hai-Duong.pdf
+Trường ĐH Hải Phòng,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Hai-Phong_C237_D19996.htm
+Trường ĐH Hồng Đức,ACCEPTED,31,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Hong-Duc_C237_D19955.htm
+Trường ĐH KH Sức khỏe - ĐHQGHCM,ACCEPTED,8,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-KHoa-hoc-suc-khoe-DHQGHCM_C237_D19927.htm
+Trường ĐH KH Tự nhiên - ĐHQGHN,ACCEPTED,27,,https://thongtintuyensinh.vn/Diem-trung-tuyen-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-KH-Tu-nhien-DHQGHN_C237_D19939.htm
+Trường ĐH KH XH & NV - ĐHQG.HCM,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-KHXHNV-TPHCM_C237_D19926.htm
+Trường ĐH KH XH và NV - ĐHQGHN,ACCEPTED,11,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Truong-DH-KHXH-NV-Ha-Noi_C237_D19940.htm
+Trường ĐH KH tự nhiên - ĐHQG.HCM,ACCEPTED,29,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Khoa-hoc-tu-nhien-TPHCM_C237_D19887.htm
+Trường ĐH Khoa học và CN Hà Nội,ACCEPTED,16,,https://thongtintuyensinh.vn/Diem-chuan-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Truong-DH-Khoa-hoc-va-Cong-nghe-HN_C237_D19951.htm
+"Trường ĐH Khoa học, ĐH Thái Nguyên",EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Khoa-hoc-DH-Thai-Nguyen_C237_D20007.htm
+Trường ĐH Khánh Hòa,ACCEPTED,15,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Khanh-Hoa_C237_D19897.htm
+Trường ĐH Kinh tế - Luật - ĐHQG.HCM,ACCEPTED,18,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Kinh-te-Luat-DHQGTPHCM_C212_D19879.htm
+Trường ĐH Kinh tế - Tài chính TPHCM,ACCEPTED,36,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Kinh-te-Tai-chinh-TPHCM_C237_D19882.htm
+Trường ĐH Kinh tế - ĐHQGHN,ACCEPTED,6,,https://thongtintuyensinh.vn/Diem-trung-tuyen-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Kinh-te-DHQGHN_C237_D19937.htm
+Trường ĐH Kinh tế Kỹ thuật Bình Dương,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-DH-Kinh-te-ky-thuat-Binh-Duong.pdf
+Trường ĐH Kinh tế Kỹ thuật CN,ACCEPTED,14,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-Dai-hoc-Kinh-te-Ky-thuat-Cong-nghiep_C237_D19970.htm
+Trường ĐH Kinh tế Nghệ An,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Kinh-te-Nghe-An_C237_D19963.htm
+Trường ĐH Kinh tế Quốc dân,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Kinh-te-Quoc-dan_C237_D19886.htm
+Trường ĐH Kinh tế TPHCM,ACCEPTED,71,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Dai-hoc-Kinh-te-TPHCM_C237_D19905.htm
+"Trường ĐH Kinh tế và QTKD, ĐHTN",ACCEPTED,19,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-cua-Truong-DH-Kinh-te-va-QTKD-DH-Thai-Nguyen_C237_D19957.htm
+Trường ĐH Kiên Giang,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-nam-2024-Truong-DH-Kien-Giang.pdf
+Trường ĐH Kiến trúc HN,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://drive.google.com/file/d/103wpIpZgRyRQexeugBGql3gE3M6s2fH1/view
+Trường ĐH Kiến trúc TPHCM,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-phuong-thuc-xet-diem-thi-THPT-cua Truong-DH-Kien-truc-TPHCM.pdf
+Trường ĐH Kiến trúc Đà Nẵng,ACCEPTED,15,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Kien-truc-Da-Nang_C237_D19988.htm
+Trường ĐH Kiểm sát HN,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://drive.google.com/file/d/1e0vOv3i46jti9UcIomuFrVTFguXhMDUx/view
+Trường ĐH Kỹ thuật CN Cần Thơ,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://drive.google.com/file/d/1iUE20PEYkC88-Kc4PAEh5uS69HU29O_3/view
+Trường ĐH Kỹ thuật Y Dược Đà Nẵng,EXCLUDED,0,EXCLUDED_PRIMARY_SOURCE_UNAVAILABLE,https://drive.google.com/file/d/1JvPn7INl-vsF1hWgn-_RYV7e3SEIAU0S/view
+Trường ĐH Kỹ thuật Y tế Hải Dương,ACCEPTED,5,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Ky-thuat-Y-te-Hai-Duong_C237_D19877.htm
+"Trường ĐH Kỹ thuật công nghiệp, ĐHTN",ACCEPTED,17,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Ky-thuat-cong-nghiep-Thai-Nguyen_C237_D19928.htm
+Trường ĐH Lao động xã hội,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-trung-tuyen-DH-chinh-quy-nam-2024-Truong-DH-Lao-dong-Xa-hoi.pdf
+Trường ĐH Luật - ĐHQGHN,ACCEPTED,20,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Luat-DHQGHN_C237_D19896.htm
+Trường ĐH Luật Hà Nội,ACCEPTED,15,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Truong-DH-Luat-Ha-Noi_C237_D19946.htm
+Trường ĐH Luật TPHCM,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Luat-TPHCM_C237_D19875.htm
+Trường ĐH Lâm nghiệp,ACCEPTED,22,,https://thongtintuyensinh.vn/Diem-chuan-nam-2024-theo-xet-KQ-thi-tot-nghiep-THPT-cua-Truong-DH-Lam-nghiep_C237_D19971.htm
+Trường ĐH Mỏ Địa chất,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Mo-Dia-chat_C237_D19983.htm
+Trường ĐH Mở Hà Nội,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Mo-Ha-Noi_C237_D19894.htm
+Trường ĐH Mở TPHCM,ACCEPTED,32,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-Dai-hoc-Mo-TPHCM_C237_D19901.htm
+Trường ĐH Mỹ thuật Công nghiệp,ACCEPTED,7,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-My-thuat-Cong-nghiep_C237_D19930.htm
+Trường ĐH Nam Cần Thơ,ACCEPTED,37,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Nam-Can-Tho_C237_D19990.htm
+Trường ĐH Ngoại ngữ - Tin học TPHCM,ACCEPTED,20,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Ngoai-ngu-Tin-hoc-TPHCM_C237_D19911.htm
+Trường ĐH Ngoại ngữ - ĐHQGHN,ACCEPTED,15,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Truong-DH-Ngoai-ngu-DHQGHN_C237_D19941.htm
+Trường ĐH Ngoại thương,EXCLUDED,0,EXCLUDED_COMPLEX_UMBRELLA_OR_SCALE,https://drive.google.com/file/d/1bNk68fhAorfyQkvAywczjcEERJBEoREm/view
+Trường ĐH Nguyễn Tất Thành,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-trung-tuyen-nam-2024-Truong-DH-Nguyen-Tat-Thanh.pdf
+Trường ĐH Ngân hàng TPHCM,ACCEPTED,18,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Ngan-hang-TPHCM_C237_D19889.htm
+Trường ĐH Nha Trang,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Nha-Trang_C237_D19931.htm
+Trường ĐH Nông Lâm Bắc Giang,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://bafu.edu.vn/home/attachments/article/4150/1348-tbdiemtrungtuyen.pdf
+Trường ĐH Nông Lâm TPHCM,ACCEPTED,45,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Nong-Lam-TPHCM_C237_D19935.htm
+Trường ĐH Phú Yên,ACCEPTED,10,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Phu-Yen_C237_D19962.htm
+Trường ĐH Phạm Văn Đồng,ACCEPTED,14,,https://drive.google.com/file/d/1GpMpUfHIqxly2r8pB-Hyc0Ps9iUMRyX6/view
+Trường ĐH Quang Trung,ACCEPTED,13,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Quang-Trung_C237_D19961.htm
+Trường ĐH Quy Nhơn,ACCEPTED,30,,https://drive.google.com/file/d/1IP5UohjurgjeHlVIfBKyOS-YzKfcRqgg/view
+Trường ĐH Quảng Nam,ACCEPTED,13,,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-Truong-DH-Quang-Nam.pdf
+Trường ĐH Quốc tế - ĐHQG.HCM,ACCEPTED,41,,https://thongtintuyensinh.vn/Diem-chuan-nam-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Quoc-te-DHQGHCM_C237_D19977.htm
+Trường ĐH Quốc tế Hồng Bàng,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Quoc-te-Hong-Bang_C237_D19873.htm
+Trường ĐH Quốc tế Sài Gòn,ACCEPTED,14,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Truong-DH-Quoc-te-Sai-Gon_C237_D19947.htm
+Trường ĐH SP Kỹ thuật Hưng Yên,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-trung-tuyen-nam-2024-Truong-DH-SPKT-Hung-Yen.pdf
+Trường ĐH Sao Đỏ,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Sao-Do_C237_D19982.htm
+Trường ĐH Sài Gòn,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//SGD_DiemTrungTuyenTHPT_TS2024.pdf
+Trường ĐH Sư phạm - ĐH Thái Nguyên,ACCEPTED,19,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Su-pham-DH-Thai-Nguyen_C237_D19925.htm
+Trường ĐH Sư phạm Hà Nội,ACCEPTED,77,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Su-pham-Ha-Noi_C237_D19912.htm
+Trường ĐH Sư phạm Hà Nội 2,ACCEPTED,23,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Su-pham-Ha-Noi-2_C237_D19895.htm
+Trường ĐH Sư phạm Kỹ thuật TPHCM,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-theo-xet-KQ-thi-THPT-Truong-DH-SPKT-TPHCM.pdf
+Trường ĐH Sư phạm Kỹ thuật Vinh,ACCEPTED,3,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Su-pham-Ky-thuat-Vinh_C237_D19989.htm
+Trường ĐH Sư phạm Kỹ thuật Vĩnh Long,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-nam-2024-Truong-DH-Su-pham-ky-thuat-Vinh-Long.pdf
+Trường ĐH Sư phạm TPHCM,ACCEPTED,48,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Su-pham-TPHCM_C237_D19968.htm
+Trường ĐH Thái Bình,ACCEPTED,9,,https://thongtintuyensinh.vn/Diem-trung-tuyen-dai-hoc-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Thai-Binh_C237_D19984.htm
+Trường ĐH Thăng Long,ACCEPTED,21,,https://drive.google.com/file/d/1Q2uKLf75kBAdltXUKyg3ETt3dH3aKHUD/view
+Trường ĐH Thương mại,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Thuong-mai.pdf
+Trường ĐH Thủ Dầu Một,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-xet-diem-thi-TH-THPT-cua-Truong-DH-Thu-Dau-Mot.pdf
+Trường ĐH Thủ Đô Hà Nội,ACCEPTED,27,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Thu-do-Ha-Noi_C237_D19949.htm
+Trường ĐH Thủy lợi,ACCEPTED,40,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Thuy-loi_C237_D19974.htm
+Trường ĐH Tiền Giang,ACCEPTED,17,,https://thongtintuyensinh.vn/Diem-chuan-nam-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-Dai-hoc-Tien-Giang_C237_D19995.htm
+Trường ĐH Trà Vinh,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-Truong-DH-Tra-Vinh.pdf
+Trường ĐH Tài chính - Kế toán,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://drive.google.com/file/d/1oJDvV3HiV6p0WEooTXzR7Q6Sp8dS_0Bx/view
+Trường ĐH Tài chính - Marketing,ACCEPTED,23,,https://thongtintuyensinh.vn/Diem-chuan-nam-2024-theo-xet-diem-thi-TN-THPT-cua-Truong-DH-Tai-chinh-Marketing_C237_D19981.htm
+Trường ĐH Tài chính - QTKD,ACCEPTED,6,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Tai-chinh-Quan-tri-kinh-doanh_C237_D19973.htm
+Trường ĐH Tài nguyên và MT Hà Nội,ACCEPTED,30,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Tai-nguyen-va-Moi-truong-Ha-Noi_C237_D19932.htm
+Trường ĐH Tài nguyên và Môi trường,EXCLUDED,0,EXCLUDED_COMPLEX_UMBRELLA_OR_SCALE,https://thongtintuyensinh.vn/upload/Diem-chuan-2024-DH-Tai-nguyen-Moi-truong-TPHCM.pdf
+Trường ĐH Tân Trào,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Tan-Trao_C237_D19921.htm
+Trường ĐH Tây Bắc,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-nam-2024-Truong-Dai-hoc-Tay-Bac.pdf
+Trường ĐH Tây Nguyên,ACCEPTED,36,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Tay-Nguyen_C237_D19960.htm
+Trường ĐH Tây Đô,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://www.tdu.edu.vn/bai-viet/2546/thong-bao-ve-viec-cong-bo-diem-trung-tuyen-cac-phuong-thuc-xet-tuyen-trinh-do-dai-hoc-chinh-quy-nam-2024-958047
+Trường ĐH Tôn Đức Thắng,EXCLUDED,0,EXCLUDED_COMPLEX_UMBRELLA_OR_SCALE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Ton-Duc-Thang_C237_D19902.htm
+Trường ĐH VHTT và Du lịch Thanh Hóa,ACCEPTED,21,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-cua-Truong-DH-van-hoa-The-thao-va-Du-lich-Thanh-Hoa_C237_D19954.htm
+Trường ĐH Vinh,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-trung-tuyen-DH-chinh-quy-nam-2024-Truong-Dai-hoc-Vinh.pdf
+Trường ĐH Việt Đức,ACCEPTED,9,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Viet-Duc_C237_D19913.htm
+Trường ĐH Văn Hiến,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2024-cua-Truong-DH-Van-Hien_C237_D19910.htm
+Trường ĐH Văn Lang,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Van-Lang_C237_D19934.htm
+Trường ĐH Văn hóa Hà Nội,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-Dai-hoc-Van-hoa-Ha-Noi_C237_D19950.htm
+Trường ĐH Văn hóa TPHCM,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Van-hoa-TPHCM_C237_D19933.htm
+Trường ĐH Xây dựng Hà Nội,ACCEPTED,19,,https://drive.google.com/file/d/16tP0hAP7P7cA2UjwcqkaOBMJMbaoic6u/view
+Trường ĐH Xây dựng Miền Trung,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://drive.google.com/file/d/10EorbnHw4tmGRWMj878r05dsCnm8Pn6C/view
+Trường ĐH Xây dựng miền Tây,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Xay-dung-Mien-Tay_C237_D19976.htm
+Trường ĐH Y Dược - ĐH Thái Nguyên,ACCEPTED,9,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Y-Duoc-DH-Thai-Nguyen_C237_D19915.htm
+Trường ĐH Y Dược - ĐHQGHN,ACCEPTED,6,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-Dai-hoc-Y-Duoc-DHQGHN_C237_D19916.htm
+Trường ĐH Y Dược Cần Thơ,ACCEPTED,12,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-PT-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Y-Duoc-Can-Tho_C237_D19883.htm
+Trường ĐH Y Dược Hải Phòng,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-Dai-hoc-Y-Duoc-Hai-Phong_C237_D19917.htm
+Trường ĐH Y Dược TPHCM,ACCEPTED,30,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Y-Duoc-TPHCM_C237_D19967.htm
+Trường ĐH Y Dược Thái Bình,ACCEPTED,6,,https://thongtintuyensinh.vn/Diem-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Y-Duoc-Thai-Binh_C237_D19972.htm
+Trường ĐH Y Hà Nội,ACCEPTED,13,,https://thongtintuyensinh.vn/upload//Diem-chuan-nam-2024-cua-Truong-Dai-hoc-Y-Ha-Noi.pdf
+Trường ĐH Y khoa Phạm Ngọc Thạch,ACCEPTED,12,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Y-khoa-Pham-Ngoc-Thach_C237_D19898.htm
+Trường ĐH Y khoa Tokyo Việt Nam,ACCEPTED,4,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Y-khoa-Tokyo-Viet-Nam_C237_D19985.htm
+Trường ĐH Y khoa Vinh,ACCEPTED,4,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-DH-Y-khoa-Vinh_C237_D19959.htm
+Trường ĐH Y tế Công cộng,ACCEPTED,11,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Truong-DH-Y-te-cong-cong_C237_D19914.htm
+Trường ĐH Yersin Đà Lạt,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Diem-chuan-2024-Truong-DH-Yersin-Da-Lat.pdf
+Trường ĐH Điều dưỡng Nam Định,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://drive.google.com/file/d/1XsxsRl1qfcmTPjFBDInkOThB3rGZFNT-/view
+Trường ĐH Điện lực,ACCEPTED,19,,https://thongtintuyensinh.vn/Diem-chuan-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-Truong-DH-Dien-luc_C237_D19888.htm
+Trường ĐH Đà Lạt,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload//Thong-bao-diem-chuan-trung-tuyen-2024-Truong-DH-Da-Lat.pdf
+Trường ĐH Đông Á,ACCEPTED,45,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-DH-chinh-quy-nam-2024-cua-Truong-Dai-hoc-Dong-A_C237_D19964.htm
+Trường ĐH Đồng Nai,ACCEPTED,11,,https://thongtintuyensinh.vn/Diem-trung-tuyen-nam-2024-phuong-thuc-xet-diem-thi-TN-THPT-cua-Truong-DH-Dong-Nai_C237_D19958.htm
+Trường ĐH Đồng Tháp,ACCEPTED,44,,https://thongtintuyensinh.vn/upload//Diem-trung-tuyen-nam-2024-Truong-DH-Dong-Thap.pdf
+Trường Đại học Phenikaa,EXCLUDED,0,EXCLUDED_STRUCTURE_NOT_RELIABLY_PARSED,https://thongtintuyensinh.vn/upload/Diem-trung-tuyen-nam-2024-Truong-DH-Phenikaa.pdf
+ĐẠI HỌC BÁCH KHOA HÀ NỘI,EXCLUDED,0,EXCLUDED_OCR_NOT_RELIABLE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-cua-Dai-hoc-Bach-khoa-Ha-Noi_C237_D19884.htm
+ĐẠI HỌC HUẾ,EXCLUDED,0,EXCLUDED_COMPLEX_UMBRELLA_OR_SCALE,https://thongtintuyensinh.vn/upload/Diem-chuan-2024-Dai-hoc-Hue-phuong-thuc-xet-diem-thi-tot-nghiep-THPT-2024.pdf
+ĐẠI HỌC ĐÀ NẴNG,EXCLUDED,0,EXCLUDED_COMPLEX_UMBRELLA_OR_SCALE,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2024-theo-xet-diem-thi-tot-nghiep-THPT-cua-DAI-HOC-DA-NANG_C237_D19936.htm

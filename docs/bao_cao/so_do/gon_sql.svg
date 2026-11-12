@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1010" viewBox="0 0 1200 1010"><rect width="100%" height="100%" fill="white"/>
+<text x="600.0" y="38" font-family="Arial" font-size="30" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Lược đồ SQL các bảng tư vấn và tài khoản</text>
+<rect x="30" y="90" width="530" height="225" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="30" y="90" width="530" height="49" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="295" y="115" font-family="Arial" font-size="25" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">auth_user</text>
+<text x="45" y="170" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">PK id : int</text>
+<text x="45" y="205" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">username : varchar(150) UQ</text>
+<text x="45" y="240" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">password : varchar(128)</text>
+<text x="45" y="275" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">is_staff / is_superuser : tinyint(1)</text>
+<rect x="640" y="90" width="530" height="225" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="640" y="90" width="530" height="49" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="905" y="115" font-family="Arial" font-size="25" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">accounts_profile</text>
+<text x="655" y="170" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">PK id : bigint</text>
+<text x="655" y="205" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">FK user_id : int UQ</text>
+<text x="655" y="240" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">role : varchar(20)</text>
+<text x="655" y="275" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">expected_score : decimal(4,2) NULL</text>
+<rect x="30" y="365" width="530" height="225" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="30" y="365" width="530" height="49" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="295" y="390" font-family="Arial" font-size="25" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">ai_chat_aichatsession</text>
+<text x="45" y="445" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">PK id : bigint</text>
+<text x="45" y="480" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">FK user_id : int NULL</text>
+<text x="45" y="515" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">session_key : varchar(64)</text>
+<text x="45" y="550" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">context : json</text>
+<rect x="640" y="365" width="530" height="225" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="640" y="365" width="530" height="49" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="905" y="390" font-family="Arial" font-size="25" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">ai_chat_aichatmessage</text>
+<text x="655" y="445" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">PK id : bigint</text>
+<text x="655" y="480" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">FK conversation_id : bigint</text>
+<text x="655" y="515" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">role : varchar(20)</text>
+<text x="655" y="550" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">content : longtext</text>
+<rect x="30" y="640" width="530" height="225" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="30" y="640" width="530" height="49" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="295" y="665" font-family="Arial" font-size="25" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">catalog_saveduniversity</text>
+<text x="45" y="720" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">PK id : bigint</text>
+<text x="45" y="755" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">FK user_id : int</text>
+<text x="45" y="790" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">university_key : varchar(220)</text>
+<text x="45" y="825" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">UQ (user_id, university_key)</text>
+<rect x="640" y="640" width="530" height="225" fill="white" stroke="#445367" stroke-width="2"/>
+<rect x="640" y="640" width="530" height="49" fill="#edf0f4" stroke="#445367" stroke-width="2"/>
+<text x="905" y="665" font-family="Arial" font-size="25" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">catalog_admissionrelease</text>
+<text x="655" y="720" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">PK id : bigint</text>
+<text x="655" y="755" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">FK created_by_id : int NULL</text>
+<text x="655" y="790" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">FK reviewed_by_id : int NULL</text>
+<text x="655" y="825" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="start" dominant-baseline="middle">rows : json; status : varchar(12)</text>
+<polyline points="640,205 560,205" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="560,205 573.5067065352902,198.47551698833155 573.5067065352902,211.52448301166845" fill="#455365"/>
+<polyline points="295,365 295,340 16,340 16,205 30,205" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="30,205 16.493293464709847,211.52448301166845 16.493293464709847,198.47551698833155" fill="#455365"/>
+<polyline points="640,480 560,480" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="560,480 573.5067065352902,473.47551698833155 573.5067065352902,486.52448301166845" fill="#455365"/>
+<text x="600" y="910" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Các FK user_id created_by_id reviewed_by_id tham chiếu auth_user.id</text>
+<text x="600" y="950" font-family="Arial" font-size="25" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">conversation_id tham chiếu ai_chat_aichatsession.id; các cột đã được rút gọn</text>
+</svg>

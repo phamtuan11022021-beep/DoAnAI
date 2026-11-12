@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Học viện Tòa án,7380101,Luật (Thí sinh nam miền Bắc),2025,THPT,A00; A01; C00; D01,21.93,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=579&method_id=1&year=2025
+Học viện Tòa án,7380101,Luật (Thí sinh nam miền Nam),2025,THPT,A00; A01; C00; D01,21.03,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=579&method_id=1&year=2025
+Học viện Tòa án,7380101,Luật (Thí sinh nữ miền Bắc),2025,THPT,A00; A01; C00; D01,23.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=579&method_id=1&year=2025
+Học viện Tòa án,7380101,Luật (Thí sinh nữ miền Nam),2025,THPT,A00; A01; C00; D01,22.26,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=579&method_id=1&year=2025

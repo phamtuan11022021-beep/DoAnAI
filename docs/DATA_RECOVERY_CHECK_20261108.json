@@ -1,0 +1,125 @@
+{
+  "before": 18738,
+  "after": 18746,
+  "added": 8,
+  "removed": 0,
+  "existing_scores_changed": 0,
+  "official_method_rows_before": 259,
+  "official_method_rows_after": 407,
+  "added_records": [
+    {
+      "university_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+      "major_code": "7140246",
+      "year": 2026,
+      "cutoff_score": 20.0,
+      "eligible_combinations": "A00|A01|B00|D01|D07|X01|X02|X03"
+    },
+    {
+      "university_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+      "major_code": "7510201",
+      "year": 2026,
+      "cutoff_score": 18.2,
+      "eligible_combinations": "A00|A01|B00|C01|C02|D01|D07|X02|X03"
+    },
+    {
+      "university_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+      "major_code": "7510202",
+      "year": 2026,
+      "cutoff_score": 16.2,
+      "eligible_combinations": "A00|A01|B00|C01|C02|D01|D07|X02|X03"
+    },
+    {
+      "university_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+      "major_code": "7510203",
+      "year": 2026,
+      "cutoff_score": 19.2,
+      "eligible_combinations": "A00|A01|B00|C01|C02|D01|D07|X02|X03"
+    },
+    {
+      "university_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+      "major_code": "7510205",
+      "year": 2026,
+      "cutoff_score": 20.0,
+      "eligible_combinations": "A00|A01|B00|C01|C02|D01|D07|X02|X03"
+    },
+    {
+      "university_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+      "major_code": "7510206",
+      "year": 2026,
+      "cutoff_score": 17.0,
+      "eligible_combinations": "A00|A01|B00|C01|C02|D01|D07|X02|X03"
+    },
+    {
+      "university_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+      "major_code": "7510301",
+      "year": 2026,
+      "cutoff_score": 21.5,
+      "eligible_combinations": "A00|A01|B00|C01|C02|D01|D07|X02|X03"
+    },
+    {
+      "university_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+      "major_code": "7510303",
+      "year": 2026,
+      "cutoff_score": 22.5,
+      "eligible_combinations": "A00|A01|B00|C01|C02|D01|D07|X02|X03"
+    }
+  ],
+  "coverage": {
+    "program_year_rows": 18746,
+    "schools": 266,
+    "programs": 7517,
+    "programs_all_4_years": 2406,
+    "programs_at_least_2_years": 5161,
+    "rows_by_year": {
+      "2023": 4551,
+      "2024": 4841,
+      "2025": 4460,
+      "2026": 4894
+    },
+    "note": "No observations means missing evidence, not zero cutoff or no admission."
+  },
+  "remaining_inventory_gaps": 307,
+  "location_rows": 50,
+  "evidence_failures": 0,
+  "primary_parser_tests_passed": 5,
+  "existing_primary_parser_tests_passed": 5,
+  "catalog_tests_passed": 4,
+  "qa_records_checked": 250,
+  "model": {
+    "evaluation_design": "select on validation 2025 after training 2024; refit 2024-2025; test once on 2026",
+    "deployment_target": 2027,
+    "best_ml_model": "RandomForest",
+    "best_overall_method": "Baseline_LastScore",
+    "train_rows_2024_2025": 7453,
+    "test_rows_2026": 3776,
+    "refit_rows_2024_2026": 11229,
+    "predicted_programs_2027": 7517,
+    "features": [
+      "target_year",
+      "history_count",
+      "first_year",
+      "last_year",
+      "gap_years",
+      "history_span",
+      "last_score",
+      "prev2_score",
+      "mean_score",
+      "min_score",
+      "max_score",
+      "std_score",
+      "trend_per_year",
+      "last_delta_per_year",
+      "last_combination_count",
+      "last_combination_known",
+      "university_key",
+      "major_group"
+    ],
+    "model_file": "E:\\năm 4\\DoAn-AI\\DOAN-AI\\ai\\models\\best_cutoff_model.joblib"
+  },
+  "source_sha256": {
+    "data/dataset/admission_scores_2023_2026_program_year.csv": "0b5ad63e0132ba5399e24dad90b44901ebbc78d930822b4598018207ff1975b3",
+    "data/dataset/admissions_official_methods.csv": "1f173c447c550a0d556633cf479be3162c85056fefdec300bc7ee2f3d1b88d06",
+    "data/dataset/university_locations.csv": "c58bef3c33b7505d0b3abd5c1af3964a468d100bc13f73e2a0023fc09bd64a68",
+    "data/dataset/predicted_cutoff_2027.csv": "93c92ffd6df3ade1589cc078907f2bb33e7744fc091c97e0d795bc86da6161a5"
+  }
+}

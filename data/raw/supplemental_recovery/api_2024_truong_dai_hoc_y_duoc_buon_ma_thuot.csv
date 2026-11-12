@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại học Y Dược Buôn Ma Thuột,7720101,Y khoa,2024,THPT,A00;A02;B00;B08,24.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=585&method_id=1&year=2024
+Trường Đại học Y Dược Buôn Ma Thuột,7720201,Dược học,2024,THPT,B00;A00;D07,21.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=585&method_id=1&year=2024
+Trường Đại học Y Dược Buôn Ma Thuột,7720301,Điều dưỡng,2024,THPT,A00; A02; B00; B08,21.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=585&method_id=1&year=2024
+Trường Đại học Y Dược Buôn Ma Thuột,7720701,Y tế công cộng,2024,THPT,A00;A02;B00;B08,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=585&method_id=1&year=2024

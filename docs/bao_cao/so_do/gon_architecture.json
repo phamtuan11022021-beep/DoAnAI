@@ -1,0 +1,92 @@
+{
+  "title": "Kiến trúc ứng dụng và các lớp dữ liệu",
+  "nodes": {
+    "vue": {
+      "box": [
+        30,
+        175,
+        360,
+        300
+      ],
+      "label": "Vue 3 và Vite\nGiao diện người dùng",
+      "kind": "process"
+    },
+    "api": {
+      "box": [
+        440,
+        175,
+        770,
+        300
+      ],
+      "label": "Django API\nNghiệp vụ và xác thực",
+      "kind": "process"
+    },
+    "sql": {
+      "box": [
+        850,
+        95,
+        1170,
+        220
+      ],
+      "label": "MySQL\nTài khoản và nghiệp vụ",
+      "kind": "process"
+    },
+    "csv": {
+      "box": [
+        850,
+        345,
+        1170,
+        470
+      ],
+      "label": "CSV điểm và dự đoán\nTra cứu tính sẵn",
+      "kind": "process"
+    },
+    "ai": {
+      "box": [
+        440,
+        600,
+        770,
+        725
+      ],
+      "label": "Gemini\nHội thoại qua backend",
+      "kind": "process"
+    },
+    "off": {
+      "box": [
+        850,
+        600,
+        1170,
+        725
+      ],
+      "label": "Crawler và training\nXử lý ngoại tuyến",
+      "kind": "process"
+    }
+  },
+  "edges": [
+    [
+      "vue",
+      "api",
+      "HTTP"
+    ],
+    [
+      "api",
+      "sql",
+      "ORM"
+    ],
+    [
+      "api",
+      "csv",
+      "Đọc"
+    ],
+    [
+      "api",
+      "ai",
+      "HTTPS"
+    ],
+    [
+      "off",
+      "csv",
+      "Cập nhật"
+    ]
+  ]
+}

@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Phú Yên,7140201,Giáo dục Mầm non,2023,THPT,M01;M09,20.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2023
+Trường ĐH Phú Yên,7140202,Giáo dục Tiểu học,2023,THPT,A00;A01;C00;D01,23.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2023
+Trường ĐH Phú Yên,7140209,Sư phạm Toán học,2023,THPT,A00;A01;B00;D01,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2023
+Trường ĐH Phú Yên,7140217,Sư phạm Ngữ Văn,2023,THPT,C00;D01;D14;D15,23.2,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=396&method_id=1&year=2023

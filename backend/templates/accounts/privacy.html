@@ -1,0 +1,7 @@
+{% extends 'accounts/password_reset_base.html' %}{% block content %}
+<h1>Dữ liệu và tư vấn AI</h1>
+<p>Hệ thống lưu tài khoản, hồ sơ, nội dung bạn đăng và lịch sử tư vấn để cung cấp các chức năng của UniConnect AI. Người có quyền quản trị phù hợp có thể xem lịch sử tư vấn để hỗ trợ và kiểm tra chất lượng.</p>
+<p>Nhà cung cấp hội thoại đang được cấu hình: <strong>{{ provider }}</strong>. Khi dùng nhà cung cấp trực tuyến, câu hỏi, tối đa sáu tin nhắn gần nhất đã giới hạn độ dài, hồ sơ tư vấn và bằng chứng tra cứu có thể được gửi tới dịch vụ đó để tạo câu trả lời. Nếu dùng Ollama, nội dung được xử lý tại máy chủ Ollama đã cấu hình.</p>
+<p>Không nhập mật khẩu, khóa API, số căn cước hoặc thông tin riêng tư không cần thiết vào cuộc trò chuyện. Điểm dự đoán và mức tư vấn không đảm bảo trúng tuyển; hãy đối chiếu thông báo tuyển sinh chính thức.</p>
+<p>Liên hệ quản trị viên để được hỗ trợ về tài khoản hoặc yêu cầu xử lý dữ liệu cá nhân. Đơn vị vận hành cần công bố thông tin liên hệ và thời hạn lưu trữ trước khi mở dịch vụ công khai.</p>
+{% endblock %}

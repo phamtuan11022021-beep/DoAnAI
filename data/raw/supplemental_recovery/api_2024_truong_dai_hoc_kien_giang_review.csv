@@ -1,0 +1,3 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Kiên Giang,7140201,Giáo dục tiểu học,2024,THPT,A00;C02;C20;D01,27.53,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=583&method_id=1&year=2024
+Trường ĐH Kiên Giang,7140201,Giáo dục mầm non,2024,THPT,M00,25.57,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=583&method_id=1&year=2024

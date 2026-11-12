@@ -1,0 +1,4 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Điều dưỡng Nam Định,7720301,Điều dưỡng,2025,THPT,A00; A01; B00; B03; B08; C02; D01;D07,21.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=454&method_id=1&year=2025
+Trường ĐH Điều dưỡng Nam Định,7720302,Hộ sinh,2025,THPT,A00; A01;B00; B03; B08; C02; D01; D07,17.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=454&method_id=1&year=2025
+Trường ĐH Điều dưỡng Nam Định,7720401,Dinh dưỡng,2025,THPT,A00; A01; B00; B03; B08; C02; D01; D07,15.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=454&method_id=1&year=2025

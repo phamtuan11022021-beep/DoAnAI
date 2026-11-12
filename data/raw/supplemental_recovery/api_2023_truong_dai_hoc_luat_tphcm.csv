@@ -1,0 +1,12 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Luật TPHCM,7220201,Ngôn ngữ Anh,2023,THPT,D01;D84,24.78,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7220201,Ngôn ngữ Anh,2023,THPT,A14;D66,25.78,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;D01;D84,24.16,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7340102,Quản trị - Luật,2023,THPT,A00,25.85,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7340102,Quản trị - Luật,2023,THPT,A01,24.45,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7340102,Quản trị - Luật,2023,THPT,D01;D84,25.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7380101,Luật,2023,THPT,A00,24.11,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7380101,Luật,2023,THPT,A01,22.91,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7380101,Luật,2023,THPT,C00,27.11,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7380101,Luật,2023,THPT,D01;D03;D06,23.61,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023
+Trường ĐH Luật TPHCM,7380109,Luật thương mại quốc tế,2023,THPT,A01;D01;D66;D84,26.86,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=369&method_id=1&year=2023

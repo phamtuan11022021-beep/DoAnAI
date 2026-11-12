@@ -1,0 +1,17 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Y Hà Nội,7720101,Y khoa,2023,THPT,B00,27.73,Historical API 2023; THPT; TTNV <= 1,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720101_AP,Y khoa kết hợp chứng chỉ ngoại ngữ quốc tế,2023,THPT,B00,26.0,Historical API 2023; THPT; TTNV <= 1,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720101YHT,Y khoa Phân hiệu Thanh Hóa,2023,THPT,B00,26.39,Historical API 2023; THPT; TTNV <= 1,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720101YHT_AP,Y khoa Phân hiệu Thanh hóa kết hợp chứng chỉ ngoại ngữ quốc tế,2023,THPT,B00,24.25,Historical API 2023; THPT; TTNV <= 1,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720110,Y học dự phòng,2023,THPT,B00,22.3,Historical API 2023; THPT; TTNV <= 1,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720115,Y học cổ truyền,2023,THPT,B00,24.77,Historical API 2023; THPT; TTNV <= 2,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720301,Điều dưỡng chương trình tiên tiến,2023,THPT,B00,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720301_ AP,Điều dưỡng chương trình tiên tiến kết hợp chứng chỉ ngoại ngữ quốc tế,2023,THPT,B00,21.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720301YHT,Điều dưỡng Phân hiệu Thanh Hóa,2023,THPT,B00,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720401,Dinh dưỡng,2023,THPT,B00,23.19,Historical API 2023; THPT; TTNV <= 2,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720501,Răng hàm mặt,2023,THPT,B00,27.5,Historical API 2023; THPT; TTNV <= 2,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720501_AP,Răng Hàm mặt kết hợp chứng chỉ ngoại ngữ quốc tế,2023,THPT,B00,25.5,Historical API 2023; THPT; TTNV <= 1,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720601,Kỹ thuật xét nghiệm Y học,2023,THPT,B00,24.85,Historical API 2023; THPT; TTNV <= 2,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720603,Kỹ thuật phục hồi chức năng,2023,THPT,B00,22.7,Historical API 2023; THPT; TTNV <= 1,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720699,Khúc xạ nhãn khoa,2023,THPT,B00,25.4,Historical API 2023; THPT; TTNV <= 3,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023
+Trường ĐH Y Hà Nội,7720701,Y tế công cộng,2023,THPT,B00,20.7,Historical API 2023; THPT; TTNV <= 1,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=448&method_id=1&year=2023

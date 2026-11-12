@@ -1,0 +1,127 @@
+{
+  "title": "Chia tập theo thời gian và tạo dự đoán",
+  "nodes": {
+    "n0_0": {
+      "box": [
+        25,
+        150,
+        365,
+        255
+      ],
+      "label": "Đặc trưng từ quá khứ",
+      "kind": "process"
+    },
+    "n0_1": {
+      "box": [
+        430,
+        150,
+        770,
+        255
+      ],
+      "label": "Train mục tiêu 2024",
+      "kind": "process"
+    },
+    "n0_2": {
+      "box": [
+        835,
+        150,
+        1175,
+        255
+      ],
+      "label": "Validation năm 2025",
+      "kind": "process"
+    },
+    "n1_0": {
+      "box": [
+        25,
+        375,
+        365,
+        480
+      ],
+      "label": "Fit lại mục tiêu 2024–2025",
+      "kind": "process"
+    },
+    "n1_1": {
+      "box": [
+        430,
+        375,
+        770,
+        480
+      ],
+      "label": "7.453 mẫu huấn luyện",
+      "kind": "process"
+    },
+    "n1_2": {
+      "box": [
+        835,
+        375,
+        1175,
+        480
+      ],
+      "label": "3.776 mẫu test năm 2026",
+      "kind": "process"
+    },
+    "n2_0": {
+      "box": [
+        25,
+        600,
+        365,
+        705
+      ],
+      "label": "Refit ML trên 2024–2026",
+      "kind": "process"
+    },
+    "n2_1": {
+      "box": [
+        430,
+        600,
+        770,
+        705
+      ],
+      "label": "11.229 mẫu khi refit",
+      "kind": "process"
+    },
+    "n2_2": {
+      "box": [
+        835,
+        600,
+        1175,
+        705
+      ],
+      "label": "Phục vụ Baseline LastScore",
+      "kind": "process"
+    }
+  },
+  "edges": [
+    [
+      "n0_0",
+      "n0_1",
+      ""
+    ],
+    [
+      "n0_1",
+      "n0_2",
+      ""
+    ],
+    [
+      "n1_0",
+      "n1_1",
+      ""
+    ],
+    [
+      "n1_1",
+      "n1_2",
+      ""
+    ],
+    [
+      "n2_0",
+      "n2_1",
+      ""
+    ],
+    [
+      "n2_1",
+      "n2_2",
+      ""
+    ]
+  ]
+}

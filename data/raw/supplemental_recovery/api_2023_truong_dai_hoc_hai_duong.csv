@@ -1,0 +1,20 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Hải Dương,5140202,Giáo dục Mầm non (trình độ cao đẳng),2023,THPT,M00;M01;M03,17.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7140201,Giáo dục Mầm non (trình độ đại học),2023,THPT,M00;M01;M03,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7140202,Giáo dục Tiểu học,2023,THPT,A00;A01;C00;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7140206,Giáo dục thể chất,2023,THPT,T00;T01;T02;T03,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7140209,Sư phạm Toán học,2023,THPT,A00;A01;A02;D01,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7140217,Sư phạm Ngữ Văn,2023,THPT,C00;C03;D01;D14,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7140218,Sư phạm Lịch Sử,2023,THPT,C00;C03;D14,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7140231,Sư phạm tiếng Anh,2023,THPT,D01;D14;D15,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7140247,Sư phạm Khoa học tự nhiên,2023,THPT,A00;A02;B00,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7220201,Ngôn ngữ Anh,2023,THPT,D01;D09;D10;A01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7310101,Kinh tế,2023,THPT,A00;A01;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7340115,Marketing,2023,THPT,A00;A01;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7340201,Tài chính - Ngân hàng,2023,THPT,A00;A01;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7340301,Kế toán,2023,THPT,A00;A01;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7340406,Quản trị văn phòng,2023,THPT,A00;A01;D01;C00,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7480201,Công nghệ thông tin,2023,THPT,A00;A01;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7510302,Công nghệ kỹ thuật điện tử - viễn thông,2023,THPT,A00;A01;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023
+Trường ĐH Hải Dương,7520201,Kỹ thuật điện,2023,THPT,A00;A01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=480&method_id=1&year=2023

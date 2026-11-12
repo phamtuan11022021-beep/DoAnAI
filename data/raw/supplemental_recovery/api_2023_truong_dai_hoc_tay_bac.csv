@@ -1,0 +1,25 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Tây Bắc,7140201,Giáo dục Mầm non,2023,THPT,M00;M05;M07;M13,22.1,Historical API 2023; THPT; Điểm NK: 6;5đ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140202,Giáo dục Tiểu học,2023,THPT,A00;A01;C00;D01,25.9,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140205,Giáo dục Chính trị,2023,THPT,C00;D01;C19;C20,26.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140206,Giáo dục Thể chất,2023,THPT,T00;T03;T04;T05,23.6,Historical API 2023; THPT; Điểm NK: 6;5đ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140209,SP Toán học,2023,THPT,A00;A01;D01;A02,24.2,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140210,SP Tin học,2023,THPT,A00;A01;D01;A02,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140211,SP Vật lý,2023,THPT,A00;A01;A02;A04,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140212,SP Hóa học,2023,THPT,A00;B00;A11;D07,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140213,SP Sinh học,2023,THPT,B00;A02;D08;B03,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140217,SP Ngữ văn,2023,THPT,C00;D01;C19;D14,27.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140218,SP Lịch sử,2023,THPT,C00;C19;D14;C03,27.4,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140219,SP Địa lý,2023,THPT,D10;D15;C00;C20,26.3,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7140231,SP Tiếng Anh,2023,THPT,D01;A01;D14;D15,23.9,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;A02;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7340201,Tài chính - Ngân hàng,2023,THPT,A00;A01;A02;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7340301,Kế toán,2023,THPT,A00;A01;A02;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7480201,Công nghệ thông tin,2023,THPT,A00;A01;A02;D01,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7620105,Chăn nuôi,2023,THPT,D08;B00;A02;B04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7620109,Nông học,2023,THPT,D08;B00;A02;B04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7620112,Bảo vệ thực vật,2023,THPT,D08;B00;A02;B04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7620205,Lâm sinh,2023,THPT,D08;B00;A02;B04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7620211,Quản lý tài nguyên rừng,2023,THPT,D08;B00;A02;B04,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7810103,Quản lý dịch vụ du lịch và lữ hành,2023,THPT,A00;A01;C00;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023
+Trường ĐH Tây Bắc,7850101,Quản lý tài nguyên và môi trường,2023,THPT,A00;A01;B00;A02,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=431&method_id=1&year=2023

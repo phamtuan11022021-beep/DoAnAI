@@ -1,0 +1,11 @@
+<div class="uc-image-inline">
+  {{ inline_admin_formset.formset.management_form }}
+  {{ inline_admin_formset.formset.non_form_errors }}
+  {% if inline_admin_formset.formset.initial_form_count %}<fieldset class="module"><h2>Ảnh đính kèm</h2><div class="uc-post-images">
+  {% for inline in inline_admin_formset %}
+    {% for field in inline.form.hidden_fields %}{{ field }}{% endfor %}
+    {{ inline.form.non_field_errors }}
+    {% if inline.form.instance.image %}<a href="{{ inline.form.instance.image.url }}" target="_blank" rel="noopener noreferrer"><img src="{{ inline.form.instance.image.url }}" alt="Ảnh đính kèm bài viết"><span>Mở ảnh ↗</span></a>{% endif %}
+  {% endfor %}
+  </div></fieldset>{% endif %}
+</div>

@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Y khoa Tokyo Việt Nam,7720301,Điều dưỡng,2026,THPT,A00; A01; A02; B00; B08; D07; D23; D28; D33,18.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1313&method_id=1&year=2026
+Trường ĐH Y khoa Tokyo Việt Nam,7720601,Kỹ thuật xét nghiệm y học,2026,THPT,A00; A01; A02; B00; B08; C08; D07; D23; D28; X10; X26,18.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1313&method_id=1&year=2026
+Trường ĐH Y khoa Tokyo Việt Nam,7720602,Kỹ thuật hình ảnh y học,2026,THPT,A00; A01; A02; B00; B03; B08; D07; D23; D28; X26,18.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1313&method_id=1&year=2026
+Trường ĐH Y khoa Tokyo Việt Nam,7720603,Kỹ thuật phục hồi chức năng,2026,THPT,A00; A01; A02; B00; B08; D07; D23; D28; D33,18.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=1313&method_id=1&year=2026

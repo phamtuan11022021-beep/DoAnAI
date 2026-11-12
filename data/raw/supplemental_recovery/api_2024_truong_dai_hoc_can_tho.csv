@@ -1,0 +1,109 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Cần Thơ,7140201,Giáo dục Mầm non,2024,THPT,M01;M06;M11,25.95,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140202,Giáo dục Tiểu học,2024,THPT,A00;C01;D01;D03,25.65,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140204,Giáo dục Công dân,2024,THPT,C00;C19;D14;D15,27.31,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140206,Giáo dục thể chất,2024,THPT,T00;T01;T06,25.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140209,Sư phạm Toán học,2024,THPT,A00;A01;B08;D07,26.79,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140210,Sư phạm Tin học,2024,THPT,A00;A01;D01;D07,24.56,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140211,Sư phạm Vật lý,2024,THPT,A00;A01;A02;D29,26.22,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140212,Sư phạm Hóa học,2024,THPT,A00;B00;D07;D24,26.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140213,Sư phạm Sinh học,2024,THPT,B00;B08,25.38,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140217,Sư phạm Ngữ văn,2024,THPT,C00;D14;D15,27.83,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140218,Sư phạm Lịch sử,2024,THPT,C00;D14;D64,28.43,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140219,Sư phạm Địa lý,2024,THPT,C00;C04;D15;D44,27.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140231,Sư phạm tiếng Anh,2024,THPT,D01;D14;D15,26.93,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140233,Sư phạm tiếng Pháp,2024,THPT,D01;D03;D14;D64,23.7,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7140247,Sư phạm Khoa học tự nhiên,2024,THPT,A00;A01;A02;B00,25.81,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7220201,Ngôn ngữ Anh,2024,THPT,D01;D14;D15,25.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7220201C,Ngôn ngữ Anh (CTCLC),2024,THPT,D01;D14;D15,24.4,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7220201H,Ngôn ngữ Anh (Khu Hòa An),2024,THPT,D01;D14;D15,24.45,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7220203,Ngôn ngữ Pháp,2024,THPT,D01;D03;D14;D64,21.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7229001,Triết học,2024,THPT,C00;C19;D14;D15,25.51,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7229030,Văn học,2024,THPT,C00;D01;D14;D15,26.1,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7310101,Kinh tế,2024,THPT,A00;A01;C02;D01,24.1,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7310201,Chính trị học,2024,THPT,C00;C19;D14;D15,25.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7310301,Xã hội học,2024,THPT,A01;C00;C19;D01,26.19,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7320101,Báo chí,2024,THPT,C00;D01;D14;D15,26.87,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7320201,Thông tin - thư viện,2024,THPT,A01;D01;D03;D29,22.15,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340101,Quản trị kinh doanh,2024,THPT,A00;A01;C02;D01,24.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340101C,Quản trị kinh doanh (CTCLC),2024,THPT,A01;D01;D07,23.1,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340101H,Quản trị kinh doanh (Khu Hòa An),2024,THPT,A00;A01;C02;D01,21.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340115,Marketing,2024,THPT,A00;A01;C02;D01,24.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340120,Kinh doanh quốc tế,2024,THPT,A00;A01;C02;D01,24.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340120C,Kinh doanh quốc tế (CTCLC),2024,THPT,A01;D01;D07,23.7,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340121,Kinh doanh thương mại,2024,THPT,A00;A01;C02;D01,24.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340201,Tài chính - Ngân hàng,2024,THPT,A00;A01;C02;D01,24.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340201C,Tài chính - Ngân hàng (CTCLC),2024,THPT,A01;D01;D07,23.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340301,Kế toán,2024,THPT,A00;A01;C02;D01,24.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7340302,Kiểm toán,2024,THPT,A00;A01;C02;D01,23.7,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7380101,Luật,2024,THPT,A00;C00;D01;D03,26.01,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7380101H,Luật (Khu Hòa An),2024,THPT,A00;C00;D01;D03,25.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7380107,Luật kinh tế,2024,THPT,A00;C00;D01;D03,26.85,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7420101,Sinh học,2024,THPT,A02;B00;B03;B08,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7420201,Công nghệ sinh học,2024,THPT,A00;B00;B08;D07,20.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7420201T,Công nghệ sinh học (CTTT),2024,THPT,A01;B08;D07,20.75,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7420203,Sinh học ứng dụng,2024,THPT,A00;A01;B00;B08,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7440112,Hóa học,2024,THPT,A00;B00;C02;D07,23.15,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7440301,Khoa học môi trường,2024,THPT,A00;A02;B00;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7460112,Toán ứng dụng,2024,THPT,A00;A01;A02;B00,23.23,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7460201,Thống kê,2024,THPT,A00;A01;A02;B00,21.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480101,Khoa học máy tính,2024,THPT,A00;A01,24.43,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480102,Mạng máy tính và truyền thông dữ liệu,2024,THPT,A00;A01,22.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480103,Kỹ thuật phần mềm,2024,THPT,A00;A01,24.83,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480103C,Kỹ thuật phần mềm (CTCLC),2024,THPT,A01;D01;D07,22.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480104,Hệ thống thông tin,2024,THPT,A00;A01,23.48,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480104C,Hệ thống thông tin (CTCLC),2024,THPT,A01;D01;D07,22.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480106,Kỹ thuật máy tính (Thiết kế vi mạch bán dẫn),2024,THPT,A00;A01,24.28,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480201,Công nghệ thông tin,2024,THPT,A00;A01,25.35,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480201C,Công nghệ thông tin (CTCLC),2024,THPT,A01;D01;D07,23.7,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480201H,Công nghệ thông tin (Khu Hòa An),2024,THPT,A00;A01,23.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7480202,An toàn thông tin,2024,THPT,A00;A01,23.75,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7510401,Công nghệ kỹ thuật hóa học,2024,THPT,A00;A01;B00;D07,23.55,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7510401C,Công nghệ kỹ thuật hóa học (CTCLC),2024,THPT,A01;B08;D07,21.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7510601,Quản lý công nghiệp,2024,THPT,A00;A01;D01,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7510605,Logistics và Quản lý chuỗi cung ứng,2024,THPT,A00;A01;D01,25.1,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520103,Kỹ thuật cơ khí (Cơ khí chế tạo máy),2024,THPT,A00;A01,23.53,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520114,Kỹ thuật cơ điện tử,2024,THPT,A00;A01,23.63,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520130,Kỹ thuật ô tô,2024,THPT,A00;A01,24.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520201,Kỹ thuật điện,2024,THPT,A00;A01;D07,23.4,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520201C,Kỹ thuật điện (CTCLC),2024,THPT,A01;D01;D07,21.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520207,Kỹ thuật điện tử - viễn thông,2024,THPT,A00;A01,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520212,Kỹ thuật y sinh,2024,THPT,A00;A01;A02;B08,22.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520216,Kỹ thuật điều khiển và tự động hóa,2024,THPT,A00;A01,24.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520216C,Kỹ thuật điều khiển và tự dộng hóa (CTCLC),2024,THPT,A01;D01;D07,22.45,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520309,Kỹ thuật vật liệu,2024,THPT,A00;A01;B00;D07,22.15,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520320,Kỹ thuật môi trường,2024,THPT,A00;A01;B00;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7520401,Vật lý Kỹ thuật,2024,THPT,A00;A01;A02;C01,21.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7540101,Công nghệ thực phẩm,2024,THPT,A00;A01;B00;D07,20.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7540101C,Công nghệ thực phẩm (CTCLC),2024,THPT,A01;B08;D07,20.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7540104,Công nghệ sau thu hoạch,2024,THPT,A00;A01;B00;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7540105,Công nghệ chế biến thủy sản,2024,THPT,A00;A01;B00;D07,16.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7580101,Kiến trúc,2024,THPT,V00;V01;V02;V03,21.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7580105,Quy hoạch vùng và đô thị,2024,THPT,A00;A01;B00;D07,18.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7580201,Kỹ thuật xây dựng,2024,THPT,A00;A01,21.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7580201C,Kỹ thuật xây dựng (CTCLC),2024,THPT,A01;D01;D07,20.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7580202,Kỹ thuật xây dựng công trình thủy,2024,THPT,A00;A01,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7580205,Kỹ thuật xây dựng công trình giao thông,2024,THPT,A00;A01,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7580213,Kỹ thuật cấp thoát nước,2024,THPT,A00;A01;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620103,Khoa học đất (Quản lý đất và công nghệ phân bón),2024,THPT,A00;B00;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620105,Chăn nuôi,2024,THPT,A00;A02;B00;B08,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620109,Nông học,2024,THPT,B00;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620110,"Khoa học cây trồng, 2 chuyên ngành: - Khoa học cây trồng; - Nông nghiệp công nghệ cao.",2024,THPT,A02;B00;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620112,Bảo vệ thực vật,2024,THPT,B00;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620113,Công nghệ rau hoa quả và cảnh quan,2024,THPT,A00;B00;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620114H,Kinh doanh nông nghiệp (Khu Hòa An),2024,THPT,A00;A01;C02;D01,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620115,Kinh tế nông nghiệp,2024,THPT,A00;A01;C02;D01,21.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620115H,Kinh tế nông nghiệp (Khu Hòa An),2024,THPT,A00;A01;C02;D01,18.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620301,Nuôi trồng thủy sản,2024,THPT,A00;B00;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620301T,Nuôi trồng thủy sản (CTTT),2024,THPT,A01;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620302,Bệnh học thủy sản,2024,THPT,A00;B00;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7620305,Quản lý thủy sản,2024,THPT,A00;B00;B08;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7640101,Thú y,2024,THPT,A02;B00;B08;D07,23.3,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7720203,Hóa dược,2024,THPT,A00;B00;C02;D07,24.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7810101,Du lịch,2024,THPT,C00;D01;D14;D15,26.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7810101H,Du lịch (Khu Hòa An),2024,THPT,C00;D01;D14;D15,25.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7810103,Quản trị dịch vụ du lịch và lữ hành,2024,THPT,A00;A01;C02;D01,24.1,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7810103C,Quản trị dịch vụ du lịch và lữ hành (CTCLC),2024,THPT,A01;D01;D07,22.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7850101,Quản lý tài nguyên và môi trường,2024,THPT,A00;A01;B00;D07,18.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7850102,Kinh tế tài nguyên thiên nhiên,2024,THPT,A00;A01;C02;D01,22.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024
+Trường ĐH Cần Thơ,7850103,Quản lý đất đai,2024,THPT,A00;A01;B00;D07,21.7,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=318&method_id=1&year=2024

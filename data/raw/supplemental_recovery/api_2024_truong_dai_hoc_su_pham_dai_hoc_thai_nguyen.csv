@@ -1,0 +1,18 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140101,Giáo dục học,2024,THPT,C14;C19;C20;D66,26.62,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140201,Giáo dục Mầm non,2024,THPT,C00;C19;C20;D66,23.95,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140202,Giáo dục Tiểu học,2024,THPT,D01,25.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140205,Giáo dục Chính trị,2024,THPT,C00;C14;C19;C20,28.31,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140206,Giáo dục Thể chất,2024,THPT,B03;C00;C14;C20,25.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140209,Sư phạm Toán học,2024,THPT,A00;A01;D01,26.37,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140210,Sư phạm Tin học,2024,THPT,A00;A01;D01,24.22,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140211,Sư phạm Vật lý,2024,THPT,A00;A01;D01,26.02,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140212,Sư phạm Hoá học,2024,THPT,A00;B00;D01;D07,26.17,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140213,Sư phạm Sinh học,2024,THPT,B00;B08,25.51,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140217,Sư phạm Ngữ văn,2024,THPT,C00;D01;D14,28.56,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140218,Sư phạm Lịch sử,2024,THPT,C00;C19;D14,28.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140219,Sư phạm Địa lí,2024,THPT,C00;C04;D01;D10,28.43,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140231,Sư phạm Tiếng Anh,2024,THPT,D01;D09;D15,26.87,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140247,Sư phạm Khoa học Tự nhiên,2024,THPT,A00;B00,25.19,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7140249,Sư phạm Lịch sử - Địa lí,2024,THPT,C00;D14;D15,28.27,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024
+Trường ĐH Sư phạm - ĐH Thái Nguyên,7310403,Tâm lý học giáo dục,2024,THPT,B00;C00;C14;C20,27.08,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=295&method_id=1&year=2024

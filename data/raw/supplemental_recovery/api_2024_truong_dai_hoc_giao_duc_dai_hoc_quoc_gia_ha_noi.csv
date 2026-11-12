@@ -1,0 +1,6 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Giáo dục - ĐHQGHN,GD1,Sư phạm Toán và Khoa học Tự nhiên,2024,THPT,A00;A01;B00;D01,26.58,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2024
+Trường ĐH Giáo dục - ĐHQGHN,GD2,"Sư phạm Ngữ văn, Lịch sử, Lịch sử và Địa lý",2024,THPT,D01;C00;D14;D15,28.76,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2024
+Trường ĐH Giáo dục - ĐHQGHN,GD3,Khoa học Giáo dục và Khác,2024,THPT,A00;B00;C00;D01,24.92,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2024
+Trường ĐH Giáo dục - ĐHQGHN,GD4,Giáo dục tiểu học,2024,THPT,A00;B00;C00;D01,28.89,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2024
+Trường ĐH Giáo dục - ĐHQGHN,GD5,Giáo dục mầm non,2024,THPT,A00;B00;C00;D01,27.85,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2024

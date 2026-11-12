@@ -1,0 +1,4 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại Học Thể Dục Thể Thao TPHCM,7729001,Y sinh học thể dục thể thao,2024,THPT,T00;T04;T05;T06,24.0,Historical API 2024; THPT; Điểm thi TN THPT kết hợp với năng khiếu,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=428&method_id=1&year=2024
+Trường Đại Học Thể Dục Thể Thao TPHCM,7810301,Quản lý thể dục thể thao,2024,THPT,T00;T04;T05;T06,24.0,Historical API 2024; THPT; Điểm thi TN THPT kết hợp với năng khiếu,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=428&method_id=1&year=2024
+Trường Đại Học Thể Dục Thể Thao TPHCM,7810302,Huấn luyện thể thao,2024,THPT,T00;T04;T05;T06,24.0,Historical API 2024; THPT; Điểm thi TN THPT kết hợp với năng khiếu,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=428&method_id=1&year=2024

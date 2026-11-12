@@ -1,0 +1,8 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Phụ nữ Việt Nam,7340101 LC,Quản trị kinh doanh (hệ Chất lượng cao),2023,THPT,C00,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2023
+HV Phụ nữ Việt Nam,7310101,Kinh tế (2 chuyên ngành Kinh tế đầu tư và Kinh tế quốc tế),2023,THPT,C00,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2023
+HV Phụ nữ Việt Nam,7310101,Kinh tế (2 chuyên ngành Kinh tế đầu tư và Kinh tế quốc tế),2023,THPT,A00;A01;D01,22.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2023
+HV Phụ nữ Việt Nam,7340101,Quản trị kinh doanh,2023,THPT,A00;A01;D01,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2023
+HV Phụ nữ Việt Nam,7340101,Quản trị kinh doanh,2023,THPT,C00,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2023
+HV Phụ nữ Việt Nam,7340101LK,Quản trị kinh doanh (hệ Liên kết Quốc tế chuyên ngành Kinh doanh và Thương mại quốc tế),2023,THPT,C00,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2023
+HV Phụ nữ Việt Nam,7340101LK,Quản trị kinh doanh (hệ Liên kết Quốc tế chuyên ngành Kinh doanh và Thương mại quốc tế),2023,THPT,A00;A01;D01,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2023

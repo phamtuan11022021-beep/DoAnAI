@@ -1,0 +1,13 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Giáo dục - ĐHQGHN,QHS01,Sư phạm Toán học,2026,THPT,A00; A01; B00; B03; C01; C02; D01,27.55,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS02,Sư phạm Vật lí,2026,THPT,A00; A01; A02; C01,26.72,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS03,Sư phạm Hoá học,2026,THPT,A00; B00; C02; D07,27.16,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS04,Sư phạm Sinh học,2026,THPT,A02; B00; B03; B08,25.55,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS05,Sư phạm Khoa học Tự nhiên,2026,THPT,A00; A02; B00,25.55,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS06,Sư phạm Ngữ văn,2026,THPT,C00; C03; C04; D01; D14; D15,27.19,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS07,Sư phạm Lịch sử,2026,THPT,A07; C00; C03; D09; D14,27.18,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS08,Sư phạm Lịch sử - Địa lý,2026,THPT,A07; C00,25.28,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS09,Giáo dục Mầm non,2026,THPT,A00; C00; C01; C02; C03; C04; D01; D04,25.85,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS10,Giáo dục Tiểu học,2026,THPT,A00; B00; C00; C01; C02; C03; C04; D01; D04,27.18,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS11,Khoa học giáo dục và khác,2026,THPT,A00; A01; B00; C00; C01; C02; C03; C04; D01; D04,19.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026
+Trường ĐH Giáo dục - ĐHQGHN,QHS12,Tâm lý học và tâm lý học giáo dục,2026,THPT,A00; A01; B00; C00; C01; C02; C03; C04; D01; D04,22.25,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2026

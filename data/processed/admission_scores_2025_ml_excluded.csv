@@ -1,0 +1,2 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url,exclude_reason
+Trường ĐH Quốc tế - ĐHQG.HCM,IU01,Ngôn ngữ Anh,2025,PT3,,31.0,,https://thongtintuyensinh.vn/Diem-chuan-trung-tuyen-nam-2025-cua-Truong-Dai-hoc-Quoc-te-DHQGHCM_C237_D21829.htm,cutoff_score ngoài thang THPT-30; giữ ở FINAL nhưng không đưa vào ML

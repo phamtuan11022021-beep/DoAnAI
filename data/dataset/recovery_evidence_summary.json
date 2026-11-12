@@ -1,0 +1,42 @@
+{
+  "source_index": "https://diemthi.tuyensinh247.com/diem-chuan.html",
+  "inventory_school_names": 313,
+  "years": {
+    "2023": {
+      "schools_attempted": 313,
+      "inventory_schools": 313,
+      "rows_fetched": 5231,
+      "rows_added_before_final_normalization": 3139,
+      "supplemental_api_rows": 3139,
+      "evidence_passed": 3139
+    },
+    "2024": {
+      "schools_attempted": 313,
+      "inventory_schools": 313,
+      "rows_fetched": 5803,
+      "rows_added_before_final_normalization": 3458,
+      "supplemental_api_rows": 3458,
+      "evidence_passed": 3458
+    },
+    "2025": {
+      "schools_attempted": 313,
+      "inventory_schools": 313,
+      "rows_fetched": 6550,
+      "rows_added_before_final_normalization": 1776,
+      "supplemental_api_rows": 3045,
+      "evidence_passed": 3045
+    },
+    "2026": {
+      "schools_attempted": 313,
+      "inventory_schools": 313,
+      "rows_fetched": 6913,
+      "rows_added_before_final_normalization": 0,
+      "supplemental_api_rows": 4467,
+      "evidence_passed": 4467
+    }
+  },
+  "school_years_without_dataset_rows": 307,
+  "evidence_failures": 0,
+  "dataset_refresh_required": false,
+  "note": "Inventory is a public secondary-source list, not proof of nationwide completeness. Zero fetched rows means missing acceptable evidence, not no admissions. Added raw rows can decrease after normalization and conflict quarantine."
+}

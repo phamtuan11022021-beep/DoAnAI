@@ -1,0 +1,111 @@
+{
+  "figures": [
+    {
+      "number": 1,
+      "key": "gon_bfd",
+      "title": "Phân rã chức năng UniConnect AI",
+      "width_cm": 16,
+      "height_cm": 13.066666666666666
+    },
+    {
+      "number": 2,
+      "key": "gon_architecture",
+      "title": "Kiến trúc ứng dụng và các lớp dữ liệu",
+      "width_cm": 16,
+      "height_cm": 10.666666666666666
+    },
+    {
+      "number": 3,
+      "key": "gon_activity",
+      "title": "Luồng hoạt động tư vấn và quản trị",
+      "width_cm": 16,
+      "height_cm": 14.933333333333334
+    },
+    {
+      "number": 4,
+      "key": "gon_erd",
+      "title": "Quan hệ nghiệp vụ trọng tâm",
+      "width_cm": 16,
+      "height_cm": 12.4
+    },
+    {
+      "number": 5,
+      "key": "gon_sql",
+      "title": "Lược đồ SQL các bảng tư vấn và tài khoản",
+      "width_cm": 16,
+      "height_cm": 13.466666666666667
+    },
+    {
+      "number": 6,
+      "key": "gon_crawler",
+      "title": "Luồng thu thập và chuẩn hóa dữ liệu",
+      "width_cm": 16,
+      "height_cm": 14.933333333333334
+    },
+    {
+      "number": 7,
+      "key": "gon_ml",
+      "title": "Chia tập theo thời gian và tạo dự đoán",
+      "width_cm": 16,
+      "height_cm": 10.8
+    },
+    {
+      "number": 8,
+      "key": "gon_ui",
+      "title": "Giao diện tư vấn UniConnect AI",
+      "width_cm": 14.5,
+      "height_cm": 10.572916666666666
+    }
+  ],
+  "tables": [
+    {
+      "number": 1,
+      "title": "Người dùng và yêu cầu nghiệp vụ",
+      "rows": 7
+    },
+    {
+      "number": 2,
+      "title": "Quy mô dữ liệu tại mốc báo cáo",
+      "rows": 7
+    },
+    {
+      "number": 3,
+      "title": "Phân bố bản ghi chương trình theo năm",
+      "rows": 4
+    },
+    {
+      "number": 4,
+      "title": "Thiết kế huấn luyện",
+      "rows": 5
+    },
+    {
+      "number": 5,
+      "title": "Kết quả hồi quy",
+      "rows": 5
+    },
+    {
+      "number": 6,
+      "title": "Gán mức tư vấn và kiểm tra điều kiện",
+      "rows": 4
+    },
+    {
+      "number": 7,
+      "title": "Ma trận kết quả",
+      "rows": 9
+    },
+    {
+      "number": 8,
+      "title": "Trường hợp kiểm tra có bằng chứng",
+      "rows": 5
+    },
+    {
+      "number": 9,
+      "title": "Phụ lục A Danh mục bảng MySQL",
+      "rows": 27
+    }
+  ],
+  "total_figures": 8,
+  "total_tables": 9,
+  "sections": 1,
+  "source_words": 12496
+}

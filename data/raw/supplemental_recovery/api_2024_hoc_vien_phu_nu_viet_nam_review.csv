@@ -1,0 +1,9 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Phụ nữ Việt Nam,7310101,Kinh tế,2024,THPT,A00;A01;D01,23.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2024
+HV Phụ nữ Việt Nam,7310101,Kinh tế,2024,THPT,C00,24.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2024
+HV Phụ nữ Việt Nam,7310109,Kinh tế số,2024,THPT,A00;A01;D01,19.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2024
+HV Phụ nữ Việt Nam,7310109,Kinh tế số,2024,THPT,C00,20.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2024
+HV Phụ nữ Việt Nam,7340101,Quản trị kinh doanh,2024,THPT,A00;A01;D01,24.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2024
+HV Phụ nữ Việt Nam,7340101,Quản trị kinh doanh,2024,THPT,C00,25.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2024
+HV Phụ nữ Việt Nam,7340101TA,Quản trị kinh doanh (chương trình đào tạo bằng tiếng Anh),2024,THPT,A00;A01;D01,24.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2024
+HV Phụ nữ Việt Nam,7340101TA,Quản trị kinh doanh (chương trình đào tạo bằng tiếng Anh),2024,THPT,C00,25.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=556&method_id=1&year=2024

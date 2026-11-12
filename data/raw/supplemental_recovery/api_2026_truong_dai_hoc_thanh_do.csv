@@ -1,0 +1,15 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Thành Đô,7140101,Giáo dục học,2026,THPT,A00; A01; C0G; C00; D01; D09,16.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7220201,Ngôn ngữ Anh,2026,THPT,A00; C03; D01; D04; D09; D15,17.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7220204,Ngôn ngữ Trung Quốc,2026,THPT,A00; C03; D01; D04; D09; D15,17.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7310630,Việt Nam học (Hướng dẫn du lịch),2026,THPT,A00; A01; C0G; C00; D01; D09,16.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7340101,Quản trị Kinh doanh,2026,THPT,A00; A01; C03; C00; D01; D09,16.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7340301,Kế toán,2026,THPT,A00; A01; C03; C00; D01; D09,16.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7340406,Quản trị Văn phòng,2026,THPT,A00; A01; C03; C00; D01; D09,16.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7380101,Luật,2026,THPT,A00; A01; C03; C00; D01; D09,20.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7480201,Công nghệ thông tin,2026,THPT,A00; A01; A0C; C03; D01; D07,17.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7510205,Công nghệ kỹ thuật Ô tô,2026,THPT,A00; A01; A0C; C03; D01; D07,17.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7510301,"Công nghệ kỹ thuật Điện, Điện tử",2026,THPT,A00; A01; A0C; C03; D01; D07,17.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7720201,Dược học,2026,THPT,A00; A02; A03; B00; B08; D07,20.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7720301,Điều dưỡng,2026,THPT,A00; A02; A03; B00; B08; D07,18.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026
+Trường ĐH Thành Đô,7810201,Quản trị khách sạn,2026,THPT,A00; A01; C0G; C00; D01; D09,16.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2026

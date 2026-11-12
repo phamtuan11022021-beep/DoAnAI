@@ -1,0 +1,15 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Phạm Văn Đồng,51140201,Giáo dục Mầm non,2024,THPT,M01;M02,24.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7140202,Giáo dục Tiểu học,2024,THPT,A00;A01;C00;D01,25.7,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7140209,Sư phạm Toán học,2024,THPT,A00;A01;D01;D90,24.4,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7140210,Sư phạm Tin học,2024,THPT,A00;A01;D01;D90,22.4,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7140211,Sư phạm Vật lý,2024,THPT,A00;A01;D01;D90,23.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7140217,Sư phạm Ngữ văn,2024,THPT,C00;D78;C19;C20,26.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7140231,Sư phạm Tiếng Anh,2024,THPT,D01;D78;D84;D90,24.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7140247,Sư phạm Khoa học Tự nhiên,2024,THPT,A00;B00;D01;D90,23.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7310105,Kinh tế phát triển,2024,THPT,C04;C20;D01;D10,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7340101,Quản trị kinh doanh,2024,THPT,C04;C20;D01;D10,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7340115,Marketing,2024,THPT,C04;C20;D01;D10,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7480201,Công nghệ Thông tin,2024,THPT,A00;A01;D01;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7510201,Công nghệ kỹ thuật Cơ khí,2024,THPT,A00;A01;D01;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024
+Trường ĐH Phạm Văn Đồng,7520114,Kỹ thuật Cơ - Điện tử,2024,THPT,A00;A01;D01;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=397&method_id=1&year=2024

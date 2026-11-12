@@ -1,0 +1,11 @@
+{
+  "before_rows": 18655,
+  "after_rows": 18718,
+  "new_primary_program_years": 111,
+  "existing_cutoff_values_changed": 0,
+  "uneti_duplicate_rows_collapsed": 46,
+  "program_years_pending_primary_review": 2,
+  "api_metadata_only_refreshes": 4,
+  "full_four_year_programs": 2395,
+  "dataset_sha256": "332f7d078e04a7fc3a34f5ddacf6779d9577d613528052aee0d873a01e2a8ab7"
+}

@@ -1,0 +1,137 @@
+{
+  "title": "Luồng thu thập và chuẩn hóa dữ liệu",
+  "nodes": {
+    "source": {
+      "box": [
+        410,
+        90,
+        1160,
+        190
+      ],
+      "label": "Chọn trường năm và thông báo nguồn",
+      "kind": "process"
+    },
+    "fetch": {
+      "box": [
+        410,
+        230,
+        1160,
+        330
+      ],
+      "label": "Tải HTML PDF hoặc ảnh và lưu bằng chứng",
+      "kind": "process"
+    },
+    "valid": {
+      "box": [
+        410,
+        370,
+        1160,
+        470
+      ],
+      "label": "Xác định đúng trường năm và phương thức?",
+      "kind": "decision"
+    },
+    "parse": {
+      "box": [
+        410,
+        510,
+        1160,
+        610
+      ],
+      "label": "Trích mã ngành tên chương trình điểm và tổ hợp",
+      "kind": "process"
+    },
+    "compatible": {
+      "box": [
+        410,
+        650,
+        1160,
+        750
+      ],
+      "label": "Điểm THPT tương thích và không xung đột?",
+      "kind": "decision"
+    },
+    "clean": {
+      "box": [
+        410,
+        790,
+        1160,
+        890
+      ],
+      "label": "Chuẩn hóa hợp nhất bản trùng có cùng điểm",
+      "kind": "process"
+    },
+    "save": {
+      "box": [
+        410,
+        930,
+        1160,
+        1030
+      ],
+      "label": "Xuất CSV sạch metadata và báo cáo độ phủ",
+      "kind": "end"
+    },
+    "reject": {
+      "box": [
+        20,
+        365,
+        330,
+        475
+      ],
+      "label": "Dừng và rà soát\nnguồn chưa xác minh",
+      "kind": "end"
+    },
+    "other": {
+      "box": [
+        20,
+        640,
+        330,
+        760
+      ],
+      "label": "Lưu riêng theo phương thức\nhoặc cách ly xung đột",
+      "kind": "end"
+    }
+  },
+  "edges": [
+    [
+      "source",
+      "fetch",
+      ""
+    ],
+    [
+      "fetch",
+      "valid",
+      ""
+    ],
+    [
+      "valid",
+      "parse",
+      "Có"
+    ],
+    [
+      "parse",
+      "compatible",
+      ""
+    ],
+    [
+      "compatible",
+      "clean",
+      "Có"
+    ],
+    [
+      "clean",
+      "save",
+      ""
+    ],
+    [
+      "valid",
+      "reject",
+      "Không"
+    ],
+    [
+      "compatible",
+      "other",
+      "Không"
+    ]
+  ]
+}

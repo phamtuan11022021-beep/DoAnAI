@@ -1,0 +1,38 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Ngân hàng,ACT01,Chất lượng cao Kế toán,2025,THPT,A01; D01; D07; D09,21.57,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,ACT02,Kế toán,2025,THPT,A00; A01; D01; D07,24.69,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,ACT03,"Kế toán Sunderland, Anh (Cấp song bằng)",2025,THPT,A00; A01; D01; D07,21.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,ACT04,Kiểm toán,2025,THPT,A00; A01; D01; D07,24.88,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BANK01,Chất lượng cao Ngân hàng,2025,THPT,A01; D01; D07; D09,21.98,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BANK02,Ngân hàng,2025,THPT,A00; A01; D01; D07,24.93,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BANK03,Ngân hàng số,2025,THPT,A00; A01; D01; D07,24.82,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BANK04,"Tài chính – Ngân hàng Sunderland, Anh (Cấp song bằng)",2025,THPT,A00; A01; D01; D07,21.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BANK05,Ngân hàng và Tài chính quốc tế Coventry (Cấp song bằng),2025,THPT,A00; A01; D01; D07,21.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BANK06,Chất lượng cao Ngân hàng và Tài chính quốc tế,2025,THPT,A01; D01; D07; D09,22.94,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BANK07,Chất lượng cao Ngân hàng trung ương và Chính sách công,2025,THPT,A01; D01; D07; D09,21.2,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BUS01,Chất lượng cao Quản trị kinh doanh,2025,THPT,A01; D01; D07; D09,22.1,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BUS02,Quản trị kinh doanh,2025,THPT,A00; A01; D01; D07,24.38,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BUS03,Quản trị du lịch,2025,THPT,A01; D01; D07; D09,23.53,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BUS04,"Quản trị kinh doanh CityU, Hoa Kỳ (Cấp song bằng)",2025,THPT,A00; A01; D01; D07,21.13,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BUS05,"Marketing số (ĐH Coventry, Anh cấp bằng)",2025,THPT,A00; A01; D01; D07,21.44,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BUS06,Chất lượng cao Marketing số,2025,THPT,A01; D01; D07; D09,23.1,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,BUS07,Marketing,2025,THPT,A00; A01; D01; D07,24.72,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,DS01,Khoa học dữ liệu trong kinh tế và kinh doanh,2025,THPT,A00; A01; D01; D07,23.84,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,ECON01,Kinh tế đầu tư,2025,THPT,A01; D01; D07; D09,24.38,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,ECON02,Chất lượng cao Kinh tế đầu tư,2025,THPT,A01; D01; D07; D09,22.13,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,FIN01,Chất lượng cao Tài chính,2025,THPT,A01; D01; D07; D09,21.6,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,FIN02,Tài chính,2025,THPT,A00; A01; D01; D07,25.16,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,FIN03,Công nghệ tài chính,2025,THPT,A00; A01; D01; D07,24.4,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,FIN04,Chất lượng cao Hoạch định và tư vấn tài chính,2025,THPT,A01; D01; D07; D09,21.05,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,FL01,Ngôn ngữ Anh Tài chính - Ngân hàng,2025,THPT,A01; D01; D07; D09,23.41,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,FL02,Chất lượng cao Ngôn ngữ Anh Tài chính - Ngân hàng,2025,THPT,A01; D01; D07; D09,21.82,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,IB01,Kinh doanh quốc tế,2025,THPT,A01; D01; D07; D09,25.25,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,IB02,Logistics và quản lý chuỗi cung ứng,2025,THPT,A01; D01; D07; D09,25.11,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,IB03,Kinh doanh quốc tế Coventry (Cấp song bằng),2025,THPT,A00; A01; D01; D07,21.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,IB04,Chất lượng cao Kinh doanh quốc tế,2025,THPT,A01; D01; D07; D09,23.4,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,IB05,Chất lượng cao Thương mại điện tử,2025,THPT,A01; D01; D07; D09,23.48,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,IT01,Công nghệ thông tin,2025,THPT,A00; A01; D01; D07,23.53,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,LAW01,Luật kinh tế,2025,THPT,C00; C03,26.97,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,LAW01,Luật kinh tế,2025,THPT,D01; D14,24.47,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,MIS01,Hệ thống thông tin quản lý,2025,THPT,A00; A01; D01; D07,24.75,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025
+HV Ngân hàng,MIS02,Chất lượng cao Hệ thống thông tin quản lý,2025,THPT,A01; D01; D07; D09,21.95,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=247&method_id=1&year=2025

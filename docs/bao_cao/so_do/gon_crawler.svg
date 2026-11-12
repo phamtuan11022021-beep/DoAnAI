@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1120" viewBox="0 0 1200 1120"><rect width="100%" height="100%" fill="white"/>
+<text x="600.0" y="38" font-family="Arial" font-size="30" font-weight="700" fill="#172231" text-anchor="middle" dominant-baseline="middle">Luồng thu thập và chuẩn hóa dữ liệu</text>
+<rect x="410" y="90" width="750" height="100" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="785.0" y="140.0" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Chọn trường năm và thông báo nguồn</text>
+<rect x="410" y="230" width="750" height="100" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="785.0" y="280.0" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Tải HTML PDF hoặc ảnh và lưu bằng chứng</text>
+<polyline points="785.0,190 785.0,230" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="785.0,230 778.4755169883315,216.49329346470984 791.5244830116685,216.49329346470984" fill="#455365"/>
+<polygon points="785.0,370 1160,420.0 785.0,470 410,420.0" fill="#fff7e8" stroke="#445367" stroke-width="2"/>
+<text x="785.0" y="402.08" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Xác định đúng trường năm và phương</text>
+<text x="785.0" y="437.92" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">thức?</text>
+<polyline points="785.0,330 785.0,370" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="785.0,370 778.4755169883315,356.49329346470984 791.5244830116685,356.49329346470984" fill="#455365"/>
+<rect x="410" y="510" width="750" height="100" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="785.0" y="560.0" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Trích mã ngành tên chương trình điểm và tổ hợp</text>
+<polyline points="785.0,470 785.0,510" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="785.0,510 778.4755169883315,496.49329346470984 791.5244830116685,496.49329346470984" fill="#455365"/>
+<rect x="765.0" y="477.0" width="40.0" height="25.0" fill="white"/>
+<text x="785.0" y="490.0" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Có</text>
+<polygon points="785.0,650 1160,700.0 785.0,750 410,700.0" fill="#fff7e8" stroke="#445367" stroke-width="2"/>
+<text x="785.0" y="682.08" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Điểm THPT tương thích và không xung</text>
+<text x="785.0" y="717.92" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">đột?</text>
+<polyline points="785.0,610 785.0,650" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="785.0,650 778.4755169883315,636.4932934647098 791.5244830116685,636.4932934647098" fill="#455365"/>
+<rect x="410" y="790" width="750" height="100" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="785.0" y="840.0" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Chuẩn hóa hợp nhất bản trùng có cùng điểm</text>
+<polyline points="785.0,750 785.0,790" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="785.0,790 778.4755169883315,776.4932934647098 791.5244830116685,776.4932934647098" fill="#455365"/>
+<rect x="765.0" y="757.0" width="40.0" height="25.0" fill="white"/>
+<text x="785.0" y="770.0" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Có</text>
+<ellipse cx="785.0" cy="980.0" rx="375.0" ry="50.0" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="785.0" y="980.0" font-family="Arial" font-size="28" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Xuất CSV sạch metadata và báo cáo độ phủ</text>
+<polyline points="785.0,890 785.0,930" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="785.0,930 778.4755169883315,916.4932934647098 791.5244830116685,916.4932934647098" fill="#455365"/>
+<ellipse cx="175.0" cy="420.0" rx="155.0" ry="55.0" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="175.0" y="402.72" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Dừng và rà soát</text>
+<text x="175.0" y="437.28" font-family="Arial" font-size="27" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">nguồn chưa xác minh</text>
+<polyline points="410,420.0 330,420.0" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="330,420.0 343.50670653529016,413.47551698833155 343.50670653529016,426.52448301166845" fill="#455365"/>
+<rect x="326" y="382" width="77" height="30" fill="white"/>
+<text x="365" y="395" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Không</text>
+<ellipse cx="175.0" cy="700.0" rx="155.0" ry="60.0" fill="#f0f3f7" stroke="#445367" stroke-width="2"/>
+<text x="175.0" y="666.72" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Lưu riêng theo phương</text>
+<text x="175.0" y="700.0" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">thức</text>
+<text x="175.0" y="733.28" font-family="Arial" font-size="26" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">hoặc cách ly xung đột</text>
+<polyline points="410,700.0 330,700.0" fill="none" stroke="#455365" stroke-width="3"/>
+<polygon points="330,700.0 343.50670653529016,693.4755169883315 343.50670653529016,706.5244830116685" fill="#455365"/>
+<rect x="326" y="662" width="77" height="30" fill="white"/>
+<text x="365" y="675" font-family="Arial" font-size="23" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Không</text>
+<text x="600.0" y="1092" font-family="Arial" font-size="22" font-weight="400" fill="#172231" text-anchor="middle" dominant-baseline="middle">Điểm phương thức riêng có thể phục vụ tra cứu; không tự đưa vào tập huấn luyện THPT.</text>
+</svg>

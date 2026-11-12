@@ -1,0 +1,6 @@
+<nav class="uc-navigation" aria-label="Các mục quản trị">
+  <span class="uc-nav-caption">QUẢN LÝ HẰNG NGÀY</span>
+  <a href="{% url 'admin:index' %}" {% if admin_is_home %}aria-current="page"{% endif %}>{% include 'admin/uc_icon.html' with icon='overview' %} Tổng quan</a>
+  {% for item in admin_navigation %}{% if not item.advanced %}<a href="{{ item.url }}" {% if item.active %}aria-current="page"{% endif %}>{% include 'admin/uc_icon.html' with icon=item.icon %}{{ item.name }}</a>{% endif %}{% endfor %}
+  {% for item in admin_navigation %}{% if item.advanced %}<details class="uc-advanced" {% if item.active %}open{% endif %}><summary>Cài đặt nâng cao</summary><a href="{{ item.url }}" {% if item.active %}aria-current="page"{% endif %}>{% include 'admin/uc_icon.html' with icon=item.icon %}{{ item.name }}</a></details>{% endif %}{% endfor %}
+</nav>

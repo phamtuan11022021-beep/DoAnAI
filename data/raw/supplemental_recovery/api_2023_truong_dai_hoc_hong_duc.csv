@@ -1,0 +1,24 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Hồng Đức,7140201,GD Mầm non,2023,THPT,M00;M05;M07;M11,25.67,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7140202,GD Tiểu học,2023,THPT,A00;C00;D01;M00,27.63,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7140210,SP Tin học,2023,THPT,A00;A01;D01;D84,22.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7140231,SP Tiếng Anh,2023,THPT,A01;D01;D09;D10,25.98,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7140247,SP Khoa học Tự nhiên,2023,THPT,A00;A02;B00;C01,24.78,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7220201,Ngôn ngữ Anh,2023,THPT,A01;D01;D14;D66,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7310101,Kinh tế,2023,THPT,A00;C04;C14;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7310401,Tâm lý học,2023,THPT,B00;C00;C19;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7320104,Truyền thông đa phương tiện,2023,THPT,D01;C04;A01;C14,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7340101,Quản trị kinh doanh,2023,THPT,A00;C04;C14;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7340201,Tài chính-Ngân hàng,2023,THPT,A00;C04;C14;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7340301,Kế toán,2023,THPT,A00;C04;C14;D01,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7340302,Kiểm toán,2023,THPT,A00;C04;C14;D01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7380101,Luật,2023,THPT,A00;C00;C19;C20,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7380107,Luật Kinh tế,2023,THPT,A00;C00;C19;C20,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7480201,Công nghệ thông tin,2023,THPT,A00;A01;D01;D84,16.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7520201,Kỹ thuật điện,2023,THPT,A00;A01;A02;B00,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7580201,Kỹ thuật xây dựng,2023,THPT,A00;A01;A02;B00,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7620106,Chăn nuôi-Thú y,2023,THPT,A00;B00;C14;C20,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7620110,Khoa học cây trồng,2023,THPT,A00;B00;C14;C20,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7810101,Du lịch,2023,THPT,C00;C19;C20;D66,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7850101,QL tài nguyên và môi trường,2023,THPT,A00;C00;C20;D66,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023
+Trường ĐH Hồng Đức,7850103,Quản lý đất đai,2023,THPT,A00;B00;C14;C20,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=343&method_id=1&year=2023

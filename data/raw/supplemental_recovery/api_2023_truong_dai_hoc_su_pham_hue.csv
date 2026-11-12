@@ -1,0 +1,23 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại Học Sư Phạm Huế,7140201,Giáo dục Mầm non,2023,THPT,M01;M09,22.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140202,Giáo dục Tiểu học,2023,THPT,C00;D01;D08;D10,25.3,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140202TA,Giáo dục tiểu học (đào tạo bằng tiếng Anh),2023,THPT,C00;D01;D08;D10,25.3,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140204,Giáo dục công dân,2023,THPT,C00;C19;C20;D66,25.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140205,Giáo dục Chính trị,2023,THPT,C00;C19;C20;D66,25.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140208,Giáo dục Ọuốc phòng - An ninh,2023,THPT,C00;C19;C20;D66,24.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140209,Sư phạm Toán học,2023,THPT,A00;A01;D07;D90,25.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140209TA,Sư phạm Toán học (đào tạo bằng tiếng Anh),2023,THPT,A00;A01;D07;D90,25.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140210,Sư phạm Tin học,2023,THPT,A00;A01;D01;D90,19.75,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140211,Sư phạm Vật lí,2023,THPT,A00;A01;A02;D90,24.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140212,Sư phạm Hóa học,2023,THPT,A00;B00;D07;D90,24.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140213,Sư phạm Sinh học,2023,THPT,B00;B02;B04;D90,22.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140217,Sư phạm Ngữ văn,2023,THPT,C00;C19;D01;D66,27.35,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140218,Sư phạm Lịch sử,2023,THPT,C00;C19;D14;D78,27.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140219,Sư phạm Địa lí,2023,THPT,C00;C20;D15;D78,26.3,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140221,Sư phạm Âm nhạc,2023,THPT,N00;N01,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140246,Sư phạm Công nghệ,2023,THPT,A00;A02;D90,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140247,Sư phạm Khoa học tự nhiên,2023,THPT,A00;B00;D90,23.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140248,Giáo dục pháp luật,2023,THPT,C00;C19;D20;D66,19.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7140249,Sư phạm Lịch sử - Địa lý,2023,THPT,C00;C19;C20;D78,26.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7310403,Tâm lý học giáo dục,2023,THPT,B00;C00;C20;D01,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023
+Trường Đại Học Sư Phạm Huế,7480104,Hộ thống thông tin,2023,THPT,A00;A01;D01;D90,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2023

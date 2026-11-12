@@ -1,0 +1,13 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Thành Đô,7140101,Giáo dục học,2023,THPT,A00;C00;D01;D14,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7220201,Ngôn ngữ Anh,2023,THPT,D01;D07;D14;D15,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7310630,Việt Nam học,2023,THPT,A00;A01;C00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7340101,Quản trị Kinh doanh,2023,THPT,A00;A01;C00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7340301,Kế toán,2023,THPT,A00;A01;B00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7340406,Quản trị Văn phòng,2023,THPT,A00;A01;C00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7380101,Luật,2023,THPT,A00;A01;C00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7480201,Công nghệ thông tin,2023,THPT,A00;A01;B00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7510205,Công nghệ Kỹ thuật Ô tô,2023,THPT,A00;A01;B00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7510301,"Công nghệ Điện, Điện tử",2023,THPT,A00;A01;B00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7720201,Dược học,2023,THPT,A00;A11;B00;D07,21.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023
+Trường ĐH Thành Đô,7810201,Quản trị Khách sạn,2023,THPT,A00;A01;C00;D01,16.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=29&method_id=1&year=2023

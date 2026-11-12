@@ -1,0 +1,92 @@
+{
+  "title": "Quan hệ nghiệp vụ trọng tâm",
+  "nodes": {
+    "user": {
+      "box": [
+        430,
+        130,
+        770,
+        235
+      ],
+      "label": "Tài khoản",
+      "kind": "process"
+    },
+    "profile": {
+      "box": [
+        20,
+        130,
+        340,
+        235
+      ],
+      "label": "Hồ sơ",
+      "kind": "process"
+    },
+    "session": {
+      "box": [
+        860,
+        130,
+        1180,
+        235
+      ],
+      "label": "Cuộc hội thoại",
+      "kind": "process"
+    },
+    "post": {
+      "box": [
+        430,
+        440,
+        770,
+        545
+      ],
+      "label": "Bài viết",
+      "kind": "process"
+    },
+    "comment": {
+      "box": [
+        20,
+        750,
+        340,
+        855
+      ],
+      "label": "Bình luận",
+      "kind": "process"
+    },
+    "message": {
+      "box": [
+        860,
+        750,
+        1180,
+        855
+      ],
+      "label": "Tin nhắn AI",
+      "kind": "process"
+    }
+  },
+  "edges": [
+    [
+      "user",
+      "profile",
+      "1 / 0..1"
+    ],
+    [
+      "user",
+      "session",
+      "0..1 / 0..N"
+    ],
+    [
+      "user",
+      "post",
+      "1 / 0..N"
+    ],
+    [
+      "post",
+      "comment",
+      "1 / 0..N"
+    ],
+    [
+      "session",
+      "message",
+      "1 / 0..N"
+    ]
+  ]
+}

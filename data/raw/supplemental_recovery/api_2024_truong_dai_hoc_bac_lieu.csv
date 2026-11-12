@@ -1,0 +1,13 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Bạc Liêu,51140201,Cao đẳng giáo dục Mầm non,2024,THPT,M00,20.7,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7140202,Giáo dục tiểu học,2024,THPT,C00;C03;D01;D78,26.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7220101,Tiếng việt và văn hóa Việt Nam,2024,THPT,C00;C03;D01;D78,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7220201,Ngôn ngữ Anh,2024,THPT,D01;D09;D14;D78,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7340101,Quản trị kinh doanh,2024,THPT,A00;A01;D01;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7340201,Tài chính - ngân hàng,2024,THPT,A00;A01;D01;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7340301,Kế toán,2024,THPT,A00;A01;D01;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7440301,Khoa học môi trường,2024,THPT,A00;B00;D07;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7480201,Công nghệ thông tin,2024,THPT,A00;A01;D07;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7620105,Chăn nuôi,2024,THPT,A00;B00;D07;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7620112,Bảo vệ thực vật,2024,THPT,A00;B00;D07;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024
+Trường ĐH Bạc Liêu,7620301,Nuôi trồng thủy sản,2024,THPT,A00;B00;D07;D90,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=306&method_id=1&year=2024

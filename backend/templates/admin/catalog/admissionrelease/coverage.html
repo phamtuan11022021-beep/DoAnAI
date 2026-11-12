@@ -1,0 +1,6 @@
+{% extends 'admin/base_site.html' %}{% block content %}
+<p>Còn {{ total }} cặp trường–năm trong phạm vi đang lọc chưa có dòng THPT đủ điều kiện trong tập huấn luyện. Điều này không có nghĩa trường không tuyển sinh.</p>
+<form method="get"><label>Năm <select name="year"><option value="">Tất cả</option>{% for year in years %}<option value="{{ year }}" {% if selected_year == year %}selected{% endif %}>{{ year }}</option>{% endfor %}</select></label> <button type="submit" class="button">Lọc</button></form>
+<div style="overflow:auto;margin-top:20px"><table><thead><tr><th>Trường</th><th>Năm thiếu dữ liệu</th></tr></thead><tbody>{% for row in page %}<tr><td>{{ row.university_name }}</td><td>{{ row.year }}</td></tr>{% empty %}<tr><td colspan="2">Không có khoảng trống trong phạm vi này.</td></tr>{% endfor %}</tbody></table></div>
+<p>{% if page.has_previous %}<a href="?year={{ selected_year }}&page={{ page.previous_page_number }}">← Trước</a>{% endif %} · Trang {{ page.number }}/{{ page.paginator.num_pages }} · {% if page.has_next %}<a href="?year={{ selected_year }}&page={{ page.next_page_number }}">Tiếp →</a>{% endif %}</p>
+{% endblock %}

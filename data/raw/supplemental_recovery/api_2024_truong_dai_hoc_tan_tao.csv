@@ -1,0 +1,11 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại học Tân Tạo,7220201,Ngôn ngữ Anh,2024,THPT,A01;D01;D07;D08,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7340101,Quản trị kinh doanh,2024,THPT,A00;A01;D01;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7340120,Kinh doanh quốc tế,2024,THPT,A00;A01;D01;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7340201,Tài chính ngân hàng,2024,THPT,A00;A01;D01;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7340301,Kế toán,2024,THPT,A00;A01;D01;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7420201,Công nghệ sinh học,2024,THPT,A02;B00;B03;B08,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7480101,Khoa học máy tính,2024,THPT,A00;A01;D01;D07,15.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7720101,Y khoa (Bác sĩ Đa khoa),2024,THPT,A02;B00;B08,22.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7720301,Điều dưỡng,2024,THPT,A02;B00;B08,19.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024
+Trường Đại học Tân Tạo,7720601,Kỹ thuật xét nghiệm y học,2024,THPT,A02;B00;B08,19.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=463&method_id=1&year=2024

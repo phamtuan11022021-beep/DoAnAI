@@ -1,0 +1,43 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+backend/staticfiles/
+backend/media/
+backups/
+tmp/
+frontend/node_modules/.vite/
+# Local databases, private exports and desktop temporary files
+*.sqlite3
+*.sqlite3-*
+*.db
+*.sql.gz
+*.pem
+*.key
+~$*
+*.log
+# Internal cleanup inventories contain local machine paths
+docs/CLEANUP*.json
+# The submitted report is Baocaodoan.pdf at the repository root
+docs/bao_cao/*.docx
+docs/bao_cao/*.pdf
+# Large OCR/PDF source caches stay on the data workstation
+data/raw/documents/
+data/raw/primary_recovery_2023/
+data/raw/primary_recovery_2024/
+data/raw/primary_recovery_2026/
+# Downloaded third-party HTML containing credential-shaped configuration
+data/raw/completion_20261106/additional_2025/hict_2025.html
+data/raw/completion_20261106/hict_identity/hict_identity_2025.html
+data/raw/supplemental_recovery/5e08314047175ef3.html

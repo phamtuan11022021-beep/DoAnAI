@@ -1,0 +1,5 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Kỹ thuật Mật mã,7480201KMA,Công nghệ thông tin,2023,THPT,A00;A01;D90,26.2,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=245&method_id=1&year=2023
+HV Kỹ thuật Mật mã,7480202KMA,An toàn thông tin,2023,THPT,A00;A01;D90,25.6,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=245&method_id=1&year=2023
+HV Kỹ thuật Mật mã,7480202KMP,An toàn thông tin,2023,THPT,A00;A01;D90,25.0,Historical API 2023; THPT; Phân hiệu tại TPHCM,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=245&method_id=1&year=2023
+HV Kỹ thuật Mật mã,7520207,Kỹ thuật điện tử -viễn thông,2023,THPT,A00;A01;D90,25.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=245&method_id=1&year=2023

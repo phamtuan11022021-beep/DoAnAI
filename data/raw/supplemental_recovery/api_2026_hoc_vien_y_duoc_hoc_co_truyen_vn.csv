@@ -1,0 +1,4 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+HV Y Dược học Cổ truyền VN,7720101,Y khoa,2026,THPT,B00; B03; A02; D08; X14,24.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=259&method_id=1&year=2026
+HV Y Dược học Cổ truyền VN,7720115,Y học cổ truyền,2026,THPT,B00; B03; A02; D08; D35; X14,22.3,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=259&method_id=1&year=2026
+HV Y Dược học Cổ truyền VN,7720201,Dược học,2026,THPT,A00; B00; D07; C02; X10,22.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=259&method_id=1&year=2026

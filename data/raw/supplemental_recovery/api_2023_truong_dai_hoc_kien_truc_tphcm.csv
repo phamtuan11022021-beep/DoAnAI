@@ -1,0 +1,20 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Kiến trúc TPHCM,7210110,Mỹ thuật đô thị,2023,THPT,V00;V01;V02,23.45,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7210402,Thiết kế công nghiệp,2023,THPT,H01;H02,24.57,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7210403,Thiết kế đồ họa,2023,THPT,H01;H06,25.69,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7210404,Thiết kế thời trang,2023,THPT,H01;H06,24.7,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580101,Kiến trúc,2023,THPT,V00;V01;V02,24.64,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580101CT,Kiến trúc (Cần Thơ),2023,THPT,V00;V01;V02,22.19,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580101DL,Kiến trúc (Đà Lạt),2023,THPT,V00;V01;V02,21.94,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580102,Kiến trúc cảnh quan,2023,THPT,V00;V01;V02,23.95,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580105,Quy hoạch vùng và đô thị,2023,THPT,V00;V01;V02,23.54,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580105CLC,Quy hoạch vùng và đô thị (CLC),2023,THPT,V00;V01;V02,22.37,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580108,Thiết kế nội thất,2023,THPT,V00;V01;V02,24.61,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580108CT,Thiết kế nội thất (Cần Thơ),2023,THPT,V00;V01;V02,18.73,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580199,Thiết kế đô thị (CT tiên tiến),2023,THPT,V00;V01;V02,20.96,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580201,Kỹ thuật xây dựng,2023,THPT,A00;A01,20.95,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580201CLC,Kỹ thuật xây dựng (CLC),2023,THPT,A00;A01,21.1,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580201CT,Kỹ thuật xây dựng (Cần Thơ),2023,THPT,A00;A01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580201DL,Kỹ thuật xây dựng (Đà Lạt),2023,THPT,A00;A01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580210,Kỹ thuật cơ sở hạ tầng,2023,THPT,A00;A01,15.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023
+Trường ĐH Kiến trúc TPHCM,7580302,Quản lý xây dựng,2023,THPT,A00;A01,21.2,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=361&method_id=1&year=2023

@@ -1,0 +1,26 @@
+{
+  "primary_candidates": 330,
+  "cmc_published_methods_separate": 20,
+  "years": {
+    "2023": {
+      "candidates": 55,
+      "new_rows": 0,
+      "rejected": 0
+    },
+    "2024": {
+      "candidates": 60,
+      "new_rows": 0,
+      "rejected": 0
+    },
+    "2025": {
+      "candidates": 162,
+      "new_rows": 58,
+      "rejected": 0
+    },
+    "2026": {
+      "candidates": 53,
+      "new_rows": 53,
+      "rejected": 0
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường Đại Học Sư Phạm Huế,7140202,Giáo dục Tiểu học,2026,THPT,B03; C03; C04; D01 ,25.1,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140204,Giáo dục Công dân,2026,THPT,X01; X70; X74; X78 ,22.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140205,Giáo dục Chính trị,2026,THPT,X01; X70; X74; X78 ,22.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140208,Giáo dục Quốc phòng - An ninh,2026,THPT,X01; X70; X74; X78 ,20.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140209,Sư phạm Toán học,2026,THPT,A00; A01 ,25.65,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140210,Sư phạm Tin học,2026,THPT,A00; C01; D01; X02,23.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140211,Sư phạm Vật lý,2026,THPT,A00; A01; X06; X07 ,25.4,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140212,Sư phạm Hóa học,2026,THPT,A00; B00; D07 ,24.06,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140213,Sư phạm Sinh học,2026,THPT,A02; B00; B03; B08 ,22.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140217,Sư phạm Ngữ văn,2026,THPT,C00; C03; D14; X70 ,25.73,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140218,Sư phạm Lịch sử,2026,THPT,C00; D14; X70 ,25.86,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140219,Sư phạm Địa lý,2026,THPT,C00; C04; D15; X74,24.94,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140246,Sư phạm Công nghệ,2026,THPT,A00; A01; X06; X07,20.5,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140247,Sư phạm Khoa học tự nhiên,2026,THPT,A00; B00; C02; D07 ,24.43,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140248,Giáo dục pháp luật,2026,THPT,X01; X70; X74; X78 ,21.0,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7140249,Sư phạm Lịch sử - Địa lý,2026,THPT,C00; D14; X70,24.88,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7310403,Tâm lý học giáo dục,2026,THPT,B00; C00; C20; D01; X01; X70; X74 ,24.11,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7480104,Hệ thống thông tin,2026,THPT,C01; C02; D01; X02 ,21.27,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7520117,Kỹ thuật công nghiệp,2026,THPT,A00; A01; X06; X07,24.2,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026
+Trường Đại Học Sư Phạm Huế,7520401,Vật lý kỹ thuật,2026,THPT,A00; A01; X06; X07,21.71,Historical API 2026; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=409&method_id=1&year=2026

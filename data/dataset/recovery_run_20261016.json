@@ -1,0 +1,22 @@
+{
+  "coverage": {
+    "program_year_rows": 6354,
+    "schools": 145,
+    "programs": 3828,
+    "programs_all_4_years": 92,
+    "programs_at_least_2_years": 1806,
+    "rows_by_year": {
+      "2023": 1610,
+      "2024": 1564,
+      "2025": 2545,
+      "2026": 635
+    },
+    "note": "No observations means missing evidence, not zero cutoff or no admission."
+  },
+  "common_unchanged_2026_targets": 424,
+  "old_gradient_boosting_common_mae": 1.960839740312804,
+  "new_selected_baseline_common_mae": 1.7009492924528302,
+  "openai_live_test": "not run: OPENAI_API_KEY unavailable",
+  "supplemental_2025_rows": 1175,
+  "supplemental_2026_rows": 0
+}

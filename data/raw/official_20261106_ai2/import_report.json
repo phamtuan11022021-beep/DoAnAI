@@ -1,0 +1,11 @@
+{
+  "uet_primary_confirmed": 2,
+  "new_training_rows": 0,
+  "ttu_published_pt100_rows_separate": 21,
+  "excluded_sources": {
+    "thanhdong_2025": "Redirected homepage; notice identity not confirmed",
+    "agu_2026": "HTTP error; no usable primary evidence"
+  },
+  "huit_2026": "44 published codes already present; no missing code added",
+  "ttu_training_exclusion": "Official image has no program codes. Do not infer identity from older years."
+}

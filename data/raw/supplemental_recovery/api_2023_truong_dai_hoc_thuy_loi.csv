@@ -1,0 +1,40 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Thủy lợi,TLA101,Kỹ thuật xây dựng công trình thủy,2023,THPT,A00;A01;D01;D07,18.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA102,Kỹ thuật tài nguyên nước,2023,THPT,A00;A01;D01;D07,18.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA103,Tài nguyên nước và môi trường (Thủy văn học),2023,THPT,A00;A01;D01;D07,19.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA104,Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng),2023,THPT,A00;A01;D01;D07,21.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA105,"Nhóm ngành Kỹ thuật Cơ khí (Gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy)",2023,THPT,A00;A01;D01;D07,23.04,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA106,Công nghệ thông tin,2023,THPT,A00;A01;D01;D07,25.89,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA107,Kỹ thuật cấp thoát nước,2023,THPT,A00;A01;D01;D07,18.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA109,Kỹ thuật môi trường,2023,THPT,A00;A01;B00;D01,20.05,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA110,Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng),2023,THPT,A00;A01;D01;D07,20.85,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA111,Công nghệ kỹ thuật xây dựng,2023,THPT,A00;A01;D01;D07,22.45,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA112,Kỹ thuật điện,2023,THPT,A00;A01;D01;D07,23.35,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA113,Kỹ thuật xây dựng công trình giao thông,2023,THPT,A00;A01;D01;D07,19.2,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA114,Quản lý xây dựng,2023,THPT,A00;A01;D01;D07,22.1,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA116,Hệ thống thông tin,2023,THPT,A00;A01;D01;D07,24.31,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA117,Kỹ thuật phần mềm,2023,THPT,A00;A01;D01;D07,24.68,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA118,Kỹ thuật hóa học,2023,THPT,A00;B00;D07,20.15,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA119,Công nghệ sinh học,2023,THPT,A00;A02;B00;D08,20.95,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA120,Kỹ thuật cơ điện tử,2023,THPT,A00;A01;D01;D07,24.31,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA121,Kỹ thuật điều khiển và tự động hóa,2023,THPT,A00;A01;D01;D07,25.41,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA123,Kỹ thuật ô tô,2023,THPT,A00;A01;D01;D07,24.3,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA124,Kỹ thuật điện tử - viễn thông,2023,THPT,A00;A01;D01;D07,24.39,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA126,Trí tuệ nhân tạo và khoa học dữ liệu,2023,THPT,A00;A01;D01;D07,23.9,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA127,An ninh mạng,2023,THPT,A00;A01;D01;D07,24.21,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA128,Kỹ thuật Robot và Điều khiển thông minh,2023,THPT,A00;A01;D01;D07,23.72,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA201,Kỹ thuật xây dựng (Chương trình tiên tiến học bằng tiếng Anh),2023,THPT,A00;A01;D01;D07,21.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA203,Ngôn ngữ Anh,2023,THPT,A01;D01;D07;D08,23.24,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA204,Ngôn ngữ Trung Quốc,2023,THPT,A01;D01;D07;D04,24.45,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA301,Luật,2023,THPT,A00;A01;C00;D01,23.72,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA302,Luật kinh tế,2023,THPT,A00;A01;C00;D01,23.47,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA401,Kinh tế,2023,THPT,A00;A01;D01;D07,24.2,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA402,Quản trị kinh doanh,2023,THPT,A00;A01;D01;D07,24.55,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA403,Kế toán,2023,THPT,A00;A01;D01;D07,24.91,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA404,Kinh tế xây dựng,2023,THPT,A00;A01;D01;D07,23.25,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA405,Thương mại điện tử,2023,THPT,A00;A01;D01;D07,25.0,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA406,Quản trị dịch vụ du lịch vá lữ hành,2023,THPT,A00;A01;D01;D07,22.75,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA407,Logistics và quán lý chuỗi cung ứng,2023,THPT,A00;A01;D01;D07,25.01,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA408,Tài chính - Ngân hàng,2023,THPT,A00;A01;D01;D07,24.73,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA409,Kiểm toán,2023,THPT,A00;A01;D01;D07,23.91,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023
+Trường ĐH Thủy lợi,TLA410,Kinh tế số,2023,THPT,A00;A01;D01;D07,24.49,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=421&method_id=1&year=2023

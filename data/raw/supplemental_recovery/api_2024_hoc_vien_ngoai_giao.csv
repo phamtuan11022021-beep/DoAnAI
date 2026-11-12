@@ -1,0 +1,30 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Học Viện Ngoại Giao,HQT01,Quan hệ quốc tế,2024,THPT,A01;D01;D07,26.76,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT01,Quan hệ quốc tế,2024,THPT,D03;D04;D06,25.76,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT01,Quan hệ quốc tế,2024,THPT,C00,28.76,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT02,Ngôn ngữ Anh,2024,THPT,A01;D01;D07,35.38,Historical API 2024; THPT; Tiếng Anh hệ số 2,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT03,Kinh tế quốc tế,2024,THPT,A01;D01;D07,26.47,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT03,Kinh tế quốc tế,2024,THPT,D03;D04;D06,25.47,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT03,Kinh tế quốc tế,2024,THPT,A00,25.47,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT04,Luật quốc tế,2024,THPT,D03;D04;D06,25.55,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT04,Luật quốc tế,2024,THPT,C00,28.55,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT04,Luật quốc tế,2024,THPT,A01;D01;D07,26.55,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT05,Truyền thông quốc tế,2024,THPT,A01;D01;D07,27.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT05,Truyền thông quốc tế,2024,THPT,D03;D04;D06,26.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT05,Truyền thông quốc tế,2024,THPT,C00,29.05,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT06,Kinh doanh quốc tế,2024,THPT,A01;D01;D07,26.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT06,Kinh doanh quốc tế,2024,THPT,D03;D04;D06,25.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT06,Kinh doanh quốc tế,2024,THPT,A00,25.6,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT07,Luật thương mại quốc tế,2024,THPT,A01;D01;D07,26.37,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT07,Luật thương mại quốc tế,2024,THPT,D03;D04;D06,25.37,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT07,Luật thương mại quốc tế,2024,THPT,C00,28.37,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-01,Hàn Quốc học,2024,THPT,A01;D01;D07,26.83,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-01,Hàn Quốc học,2024,THPT,C00,28.83,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-02,Hoa Kỳ học,2024,THPT,A01;D01;D07,26.55,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-02,Hoa Kỳ học,2024,THPT,C00,28.55,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-03,Nhật Bản học,2024,THPT,D06,25.73,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-03,Nhật Bản học,2024,THPT,C00,28.73,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-03,Nhật Bản học,2024,THPT,A01;D01;D07,26.73,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-04,Trung Quốc học,2024,THPT,A01;D01;D07,27.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-04,Trung Quốc học,2024,THPT,D04,26.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024
+Học Viện Ngoại Giao,HQT08-04,Trung Quốc học,2024,THPT,C00,29.2,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=246&method_id=1&year=2024

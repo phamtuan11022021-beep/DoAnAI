@@ -1,0 +1,161 @@
+{
+  "mode": "live",
+  "provider": {
+    "chat_provider": "gemini",
+    "chat_model": "gemini-3.1-flash-lite"
+  },
+  "passed": 4,
+  "total": 4,
+  "limitation": "Four targeted source checks, not a comprehensive or human-reviewed evaluation.",
+  "cases": [
+    {
+      "id": "ttu_it_2026",
+      "question": "Điểm chuẩn ngành Công nghệ thông tin Đại học Tân Tạo năm 2026 là bao nhiêu?",
+      "expected_code": "7480201",
+      "expected_score": 15.0,
+      "evidence_correct": true,
+      "wrong_years_present": false,
+      "score_mentioned": true,
+      "passed": true,
+      "seconds": 1.91,
+      "answer": "Với ngành Công nghệ thông tin tại Trường Đại học Tân Tạo, điểm chuẩn xét tuyển theo phương thức kết quả thi THPT năm 2026 là 15.0 điểm.\n\nMức điểm này áp dụng cho các tổ hợp môn: A00, A01, D01, X07, X25, X26, X27 và X56. Đây là số liệu chính thức được ghi nhận từ thông báo của nhà trường. \n\nBạn đã có định hướng cụ thể về thứ tự các nguyện vọng muốn đăng ký hay đang cần tham khảo thêm các trường khác có mức điểm tương đương không? Nếu có, hãy chia sẻ thêm để mình hỗ trợ bạn phân tích kỹ hơn nhé!",
+      "cards": [
+        {
+          "kind": "history",
+          "university_name": "Trường ĐH Tân Tạo",
+          "major_code": "7480201",
+          "major_name": "Công nghệ thông tin",
+          "history": {
+            "2026": {
+              "cutoff_score": 15.0,
+              "eligible_combinations": "A00|A01|D01|X07|X25|X26|X27|X56",
+              "source_urls": "https://ttu.edu.vn/truong-dai-hoc-tan-tao-cong-bo-diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2026/"
+            }
+          },
+          "requested_years": [
+            2026
+          ]
+        }
+      ],
+      "diagnostics": {
+        "chat_provider": "gemini",
+        "chat_model": "gemini-3.1-flash-lite",
+        "answer_mode": "llm",
+        "route_mode": "local"
+      },
+      "lookup_query": "Điểm chuẩn ngành Công nghệ thông tin Đại học Tân Tạo năm  là bao nhiêu? năm 2026"
+    },
+    {
+      "id": "uet_physics_2026",
+      "question": "Điểm chuẩn ngành Vật lý kỹ thuật Đại học Công nghệ - ĐHQGHN năm 2026 là bao nhiêu?",
+      "expected_code": "CN3",
+      "expected_score": 25.41,
+      "evidence_correct": true,
+      "wrong_years_present": false,
+      "score_mentioned": true,
+      "passed": true,
+      "seconds": 1.83,
+      "answer": "Điểm chuẩn ngành Vật lý kỹ thuật tại Trường Đại học Công nghệ - ĐHQGHN năm 2026 là **25.41 điểm**.\n\nMức điểm này áp dụng cho các tổ hợp xét tuyển A00, A01 và X06. Bạn có đang nhắm tới ngành này làm nguyện vọng ưu tiên không, hay muốn tìm hiểu thêm các ngành khác cùng khối để có thêm phương án dự phòng?",
+      "cards": [
+        {
+          "kind": "history",
+          "university_name": "Trường ĐH Công nghệ - ĐHQGHN",
+          "major_code": "CN3",
+          "major_name": "Vật lý kỹ thuật",
+          "history": {
+            "2026": {
+              "cutoff_score": 25.41,
+              "eligible_combinations": "A00|A01|X06",
+              "source_urls": "https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=311&method_id=1&year=2026"
+            }
+          },
+          "requested_years": [
+            2026
+          ]
+        }
+      ],
+      "diagnostics": {
+        "chat_provider": "gemini",
+        "chat_model": "gemini-3.1-flash-lite",
+        "answer_mode": "llm",
+        "route_mode": "local"
+      },
+      "lookup_query": "Điểm chuẩn ngành Vật lý kỹ thuật Đại học Công nghệ - ĐHQGHN năm  là bao nhiêu? năm 2026"
+    },
+    {
+      "id": "uet_mechanics_2026",
+      "question": "Điểm chuẩn ngành Cơ kỹ thuật Đại học Công nghệ - ĐHQGHN năm 2026 là bao nhiêu?",
+      "expected_code": "CN4",
+      "expected_score": 26.13,
+      "evidence_correct": true,
+      "wrong_years_present": false,
+      "score_mentioned": true,
+      "passed": true,
+      "seconds": 2.12,
+      "answer": "Điểm chuẩn ngành Cơ kỹ thuật tại Trường Đại học Công nghệ - ĐHQGHN năm 2026 là 26.13 điểm.\n\nMức điểm này áp dụng cho các tổ hợp xét tuyển A00, A01 và X06. Bạn đang quan tâm đến ngành này để đăng ký cho mùa tuyển sinh sắp tới hay muốn tìm hiểu thêm các ngành khác có mức điểm tương đương tại trường không? Nếu có, hãy chia sẻ thêm để mình hỗ trợ bạn kỹ hơn nhé!",
+      "cards": [
+        {
+          "kind": "history",
+          "university_name": "Trường ĐH Công nghệ - ĐHQGHN",
+          "major_code": "CN4",
+          "major_name": "Cơ kỹ thuật",
+          "history": {
+            "2026": {
+              "cutoff_score": 26.13,
+              "eligible_combinations": "A00|A01|X06",
+              "source_urls": "https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=311&method_id=1&year=2026"
+            }
+          },
+          "requested_years": [
+            2026
+          ]
+        }
+      ],
+      "diagnostics": {
+        "chat_provider": "gemini",
+        "chat_model": "gemini-3.1-flash-lite",
+        "answer_mode": "llm",
+        "route_mode": "local"
+      },
+      "lookup_query": "Điểm chuẩn ngành Cơ kỹ thuật Đại học Công nghệ - ĐHQGHN năm  là bao nhiêu? năm 2026"
+    },
+    {
+      "id": "cmc_it_2026",
+      "question": "Điểm chuẩn ngành Công nghệ thông tin Đại học CMC năm 2026 là bao nhiêu?",
+      "expected_code": "IT",
+      "expected_score": 18.98,
+      "evidence_correct": true,
+      "wrong_years_present": false,
+      "score_mentioned": true,
+      "passed": true,
+      "seconds": 2.06,
+      "answer": "Chào bạn, đối với ngành Công nghệ thông tin của Trường Đại học CMC, mức điểm chuẩn chính thức năm 2026 là **18.98 điểm**.\n\nĐây là mức điểm được công bố theo phương thức xét tuyển dựa trên kết quả thi THPT (thang điểm 30). Lưu ý rằng vì đây là phương thức đặc thù do nhà trường công bố riêng, dữ liệu này không dùng để so sánh trực tiếp với các ngưỡng điểm THPT thông thường khác. Bạn có thể tham khảo thêm chi tiết tại nguồn chính thức của trường [tại đây](https://cmcu.edu.vn/diem-chuan-trung-tuyen-theo-cac-phuong-thuc-xet-tuyen-cua-truong-dai-hoc-cmc-nam-2026/).\n\nBạn đã có kế hoạch sắp xếp nguyện vọng cho ngành này chưa, hay bạn đang tìm hiểu thêm các trường khác có cùng lĩnh vực? Nếu có thêm thông tin về tổ hợp môn hoặc các nguyện vọng khác, mình sẽ hỗ trợ bạn chi tiết hơn nhé.",
+      "cards": [
+        {
+          "kind": "official_method",
+          "scope": "ĐIỂM CÔNG BỐ THEO PHƯƠNG THỨC",
+          "university_key": "dai hoc cmc",
+          "university_name": "Trường ĐH CMC",
+          "school_code": "CMC",
+          "city": "",
+          "major_code": "IT",
+          "major_name": "Công nghệ Thông tin",
+          "year": 2026,
+          "cutoff_score": 18.98,
+          "admission_method": "THPT - cột thang 30 do trường công bố; không dùng train THPT thuần",
+          "comparable_thpt": false,
+          "source_url": "https://cmcu.edu.vn/diem-chuan-trung-tuyen-theo-cac-phuong-thuc-xet-tuyen-cua-truong-dai-hoc-cmc-nam-2026/",
+          "evidence_path": "data\\raw\\official_20261106\\cmc_2026.jpg",
+          "program_listing_name": ""
+        }
+      ],
+      "diagnostics": {
+        "chat_provider": "gemini",
+        "chat_model": "gemini-3.1-flash-lite",
+        "answer_mode": "llm",
+        "route_mode": "local"
+      },
+      "lookup_query": "Điểm chuẩn ngành Công nghệ thông tin Đại học CMC năm  là bao nhiêu? năm 2026"
+    }
+  ]
+}

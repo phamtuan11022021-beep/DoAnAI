@@ -1,0 +1,29 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Thủ Đô Hà Nội,7140114,Quản lý giáo dục,2024,THPT,D78;D14;D01;C00,26.03,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7140201,Giáo dục Mầm non,2024,THPT,D96;D90;D72;D01,24.45,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7140202,Giáo dục Tiểu học,2024,THPT,D96;D78;D72;D01,26.26,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7140204,Giáo dục Công dân,2024,THPT,D84;D66;D78;D96,25.99,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7140206,Giáo dục Thể chất,2024,THPT,T09;T10;T05;T08,24.0,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7140209,Sư phạm Toán học,2024,THPT,A01;D07;D90;D01,26.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7140211,Sư phạm Vật lý,2024,THPT,A01;D07;D90;D11,25.65,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7140217,Sư phạm Ngữ văn,2024,THPT,D14;D15;D78;D01,26.58,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7140218,Sư phạm Lịch sử,2024,THPT,D14;D09;D78;D96,26.18,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7220201,Ngôn ngữ Anh,2024,THPT,D14;D15;D78;D01,26.1,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7220204,Ngôn ngữ Trung Quốc,2024,THPT,D14;D15;D78;D01,26.25,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7229030,Văn học,2024,THPT,D78;D14;D01;C00,27.08,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7229040,Văn hóa học,2024,THPT,C00;C20;D01;D14,25.75,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7310201,Chính trị học,2024,THPT,C00;D78;D66;D01,24.65,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7310401,Tâm lý học,2024,THPT,D96;D14;D01;C00,26.63,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7310630,Việt Nam học,2024,THPT,C00;D96;A00;D01,26.36,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7340101,Quản trị kinh doanh,2024,THPT,C00;D96;A00;D01,26.62,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7340201,Tài chính - Ngân hàng,2024,THPT,A00;A01;D01;D96,24.49,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7340403,Quản lý công,2024,THPT,C00;D96;A00;D01,23.47,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7380101,Luật,2024,THPT,C00;D78;D66;D01,26.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7460112,Toán ứng dụng,2024,THPT,A01;A00;D07;D01,24.68,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7480201,Công nghệ thông tin,2024,THPT,A01;A00;D07;D01,23.65,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7510406,Công nghệ kỹ thuật môi trường,2024,THPT,A01;A00;D07;D01,18.9,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7510605,Logistics và quản lý chuỗi cung ứng,2024,THPT,C00;D96;A00;D01,26.86,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7760101,Công tác xã hội,2024,THPT,D78;D14;D01;C00,24.87,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7810103,Quản trị dịch vụ du lịch và lữ hành,2024,THPT,D15;D78;D14;D01,24.88,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7810201,Quản trị khách sạn,2024,THPT,D15;D78;D14;D01,24.8,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024
+Trường ĐH Thủ Đô Hà Nội,7850201,Bảo hộ lao động,2024,THPT,A00;A01;D01;D07,26.5,Historical API 2024; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=126&method_id=1&year=2024

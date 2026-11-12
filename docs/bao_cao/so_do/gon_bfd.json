@@ -1,0 +1,16 @@
+{
+  "title": "Phân rã chức năng UniConnect AI",
+  "nodes": {
+    "root": {
+      "box": [
+        350,
+        90,
+        850,
+        175
+      ],
+      "label": "UNICONNECT AI",
+      "kind": "process"
+    }
+  },
+  "edges": []
+}

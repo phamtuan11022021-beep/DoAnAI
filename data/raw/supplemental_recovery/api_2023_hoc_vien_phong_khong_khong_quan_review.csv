@@ -1,0 +1,3 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Học Viện Phòng Không – Không Quân,7860226,"Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",2023,THPT,A00;A01,22.45,Historical API 2023; THPT; TS nam miền Bắc,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=252&method_id=1&year=2023
+Học Viện Phòng Không – Không Quân,7860226,"Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử",2023,THPT,A00;A01,22.0,Historical API 2023; THPT; TS nam miền Nam,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=252&method_id=1&year=2023

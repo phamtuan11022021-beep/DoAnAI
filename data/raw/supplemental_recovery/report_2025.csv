@@ -1,0 +1,175 @@
+﻿university_name,year,fetched,added,rejected,reason
+HV Chính sách và Phát triển,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+HV Hành chính Quốc gia,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.54)
+HV Kỹ thuật Mật mã,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+HV Ngân hàng,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+HV Nông nghiệp Việt Nam,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+HV Thanh Thiếu niên VN,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.49)
+Học viện Cán bộ TP.HCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.42)
+Học viện Hành chính QG - PH TPHCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.22)
+Trường ĐH Bà Rịa - Vũng Tàu,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH Bách khoa - ĐH Đà Nẵng,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH Bách khoa Hà Nội,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH Bình Dương,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH Bạc Liêu,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH CMC,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH CN Thông tin - ĐHQG.HCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.46)
+Trường ĐH Công Thương TPHCM,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH Công nghiệp Dệt May HN,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.26)
+Trường ĐH Công nghiệp Quảng Ninh,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH Công nghiệp TPHCM,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+Trường ĐH Công nghiệp Vinh,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+HV Chính sách và Phát triển,2025,0,0,0,Tuyensinh247: không có section Điểm thi THPT năm 2025
+HV Chính sách và Phát triển,2025,11,7,4,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+HV Hành chính Quốc gia,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.54)
+HV Kỹ thuật Mật mã,2025,4,4,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+HV Ngân hàng,2025,37,35,2,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+HV Nông nghiệp Việt Nam,2025,19,19,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+HV Thanh Thiếu niên VN,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.49)
+Học viện Cán bộ TP.HCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.42)
+Học viện Hành chính QG - PH TPHCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.22)
+Trường ĐH Bà Rịa - Vũng Tàu,2025,94,94,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Bách khoa - ĐH Đà Nẵng,2025,39,39,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Bách khoa Hà Nội,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Bình Dương,2025,18,18,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Bạc Liêu,2025,11,11,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH CMC,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH CN Thông tin - ĐHQG.HCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.46)
+Trường ĐH Công Thương TPHCM,2025,39,39,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công nghiệp Dệt May HN,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.26)
+Trường ĐH Công nghiệp Quảng Ninh,2025,11,11,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công nghiệp TPHCM,2025,66,54,12,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công nghiệp Vinh,2025,4,4,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công nghiệp Việt - Hung,2025,13,13,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công nghiệp Việt Trì,2025,13,13,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công nghiệp và Thương mại,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.71)
+Trường ĐH Công nghệ - ĐHQGHN,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Công nghệ TPHCM,2025,61,61,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công đoàn,2025,17,17,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Cần Thơ,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Cửu Long,2025,38,38,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Duy Tân,2025,0,0,0,Tuyensinh247: map mã ngành chỉ đạt 68% (50/73 dòng THPT-30 hợp lệ); ví dụ: Ngành Thiết kế đồ họa - Chương trình Việt - Nhật (0.73)
+Trường ĐH Giao thông vận tải TPHCM,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Giáo dục - ĐHQGHN,2025,11,11,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hoa Lư,2025,9,9,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hà Nội,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hà Tĩnh,2025,19,17,2,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hòa Bình,2025,21,21,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hạ Long,2025,25,25,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH KH XH & NV - ĐHQG.HCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.20)
+Trường ĐH KH XH và NV - ĐHQGHN,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.27)
+Trường ĐH KH tự nhiên - ĐHQG.HCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.44)
+Trường ĐH Kinh tế - Luật - ĐHQG.HCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.44)
+Trường ĐH Kinh tế - Tài chính TPHCM,2025,67,5,62,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kinh tế Quốc dân,2025,89,73,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kinh tế TPHCM,2025,0,0,0,Ambiguous source school IDs: 2
+"Trường ĐH Kinh tế và QTKD, ĐHTN",2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.55)
+Trường ĐH Kỹ thuật Y tế Hải Dương,2025,5,5,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+"Trường ĐH Kỹ thuật công nghiệp, ĐHTN",2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.52)
+Trường ĐH Lâm nghiệp,2025,28,28,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Mở TPHCM,2025,82,20,62,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Mỹ thuật Công nghiệp,2025,0,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Nam Cần Thơ,2025,45,43,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Ngoại ngữ - Tin học TPHCM,2025,23,23,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Ngoại thương,2025,0,0,0,Tuyensinh247: trường bị khóa REVIEW vì cơ sở/thang điểm không đồng nhất với dataset THPT-30
+Trường ĐH Ngoại thương – Cơ sở 2,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Nguyễn Tất Thành,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Ngân hàng TPHCM,2025,25,25,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Nha Trang,2025,28,28,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Nông Lâm - ĐH Thái Nguyên,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Nông Lâm TPHCM,2025,49,49,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Phú Yên,2025,12,12,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Quang Trung,2025,8,8,0,
+Trường ĐH Quốc tế Sài Gòn,2025,14,14,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Sư phạm - ĐH Thái Nguyên,2025,57,0,57,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Thành Đô,2025,14,14,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Thăng Long,2025,46,1,45,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Thủ Đô Hà Nội,2025,41,21,20,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Tây Đô,2025,25,25,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Tôn Đức Thắng,2025,0,0,0,Tuyensinh247: trường bị khóa REVIEW vì cơ sở/thang điểm không đồng nhất với dataset THPT-30
+Trường ĐH VHTT và Du lịch Thanh Hóa,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.51)
+Trường ĐH Việt Đức,2025,11,11,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Văn Hiến,2025,44,40,4,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Văn hóa TPHCM,2025,14,14,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y Dược - ĐH Thái Nguyên,2025,9,9,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y Dược Cần Thơ,2025,12,12,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y Dược TPHCM,2025,16,16,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y Dược Thái Bình,2025,6,6,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y Hà Nội,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Điều dưỡng Nam Định,2025,3,3,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Điện lực,2025,32,32,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Đông Á,2025,0,0,0,Ambiguous source school IDs: 2
+Trường Đại học Phenikaa,2025,64,64,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Quốc tế - ĐHQG.HCM,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.26)
+Trường ĐH Luật - ĐHQGHN,2025,4,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Sư phạm Hà Nội,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Y tế Công cộng,2025,6,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y khoa Phạm Ngọc Thạch,2025,12,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH KH Sức khỏe - ĐHQGHCM,2025,0,0,0,"ERROR: ""None of [Index(['university_name', 'major_code', 'major_name', 'year',\n       'admission_method_codes', 'combination', 'cutoff_score',\n       'admission_note', 'source_url'],\n      dtype='str')] are in the [columns]"""
+HV Chính sách và Phát triển,2025,11,0,4,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Tài nguyên và MT Hà Nội,2025,24,2,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Tài nguyên và Môi trường,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.79)
+Trường ĐH KH Tự nhiên - ĐHQGHN,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Tiền Giang,2025,16,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Đồng Nai,2025,9,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+HV Phụ nữ Việt Nam,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Phạm Văn Đồng,2025,14,2,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kiến trúc Đà Nẵng,2025,16,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kỹ thuật Y Dược Đà Nẵng,2025,9,3,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hải Dương,2025,31,2,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Tài chính - Marketing,2025,22,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công nghệ GTVT,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.54)
+HV Quản lý giáo dục,2025,7,1,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+HV Y Dược học Cổ truyền VN,2025,3,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường Y Dược - ĐH Đà Nẵng,2025,7,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH An Giang,2025,78,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Công nghiệp Hà Nội,2025,62,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Dược Hà Nội,2025,4,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Dầu khí VN,2025,3,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hoa Sen,2025,31,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hùng Vương,2025,22,1,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Hải Phòng,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Hồng Đức,2025,62,0,3,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Khoa học và CN Hà Nội,2025,20,3,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Khánh Hòa,2025,17,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kinh tế - Công nghệ TN,2025,23,1,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kinh tế - ĐHQGHN,2025,6,1,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kinh tế Kỹ thuật Bình Dương,2025,18,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kinh tế Kỹ thuật CN,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.69)
+Trường ĐH Kiên Giang,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Kiến trúc HN,2025,18,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kiến trúc TPHCM,2025,19,8,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Kỹ thuật CN Cần Thơ,2025,22,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Lao động xã hội,2025,18,7,4,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Luật Hà Nội,2025,16,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Luật TPHCM,2025,40,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Ngoại ngữ - ĐHQGHN,2025,15,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Quy Nhơn,2025,56,3,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Quảng Bình,2025,123,4,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Quảng Nam,2025,32,0,4,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH SP Kỹ thuật Nam Định,2025,16,1,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Sao Đỏ,2025,15,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Sài Gòn,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Sư phạm Hà Nội 2,2025,25,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Sư phạm Kỹ thuật Vinh,2025,14,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Sư phạm Kỹ thuật Vĩnh Long,2025,27,27,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Sư phạm TPHCM,2025,155,0,3,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Thái Bình,2025,10,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Thủ Dầu Một,2025,40,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Thủy lợi,2025,43,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Trà Vinh,2025,47,2,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Tài chính - Kế toán,2025,0,0,0,Tuyensinh247: REJECT page identity: title/H1 không khớp trường index; parsed='Trường Đại học Tài Chính - Marketing - Phân hiệu Quảng Ngãi'
+Trường ĐH Tài chính - QTKD,2025,0,0,0,Tuyensinh247: không match chắc chắn trường (score=0.38)
+Trường ĐH Tây Bắc,2025,25,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Tây Nguyên,2025,37,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Xây dựng Hà Nội,2025,43,1,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Xây dựng Miền Trung,2025,15,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y Dược - ĐHQGHN,2025,12,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y khoa Tokyo Việt Nam,2025,4,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Y khoa Vinh,2025,5,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Đồng Tháp,2025,0,0,0,Ambiguous source school IDs: 2
+ĐẠI HỌC BÁCH KHOA HÀ NỘI,2025,0,0,0,Ambiguous source school IDs: 2
+ĐẠI HỌC KINH TẾ QUỐC DÂN,2025,0,0,0,Ambiguous source school IDs: 2
+Trường ĐH Duy Tân,2025,72,60,7,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Đông Á,2025,53,42,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"
+Trường ĐH Bách khoa - ĐH Đà Nẵng,2025,38,0,0,"Public historical endpoint; explicit year=2025, mark_type=1; unconverted scores"

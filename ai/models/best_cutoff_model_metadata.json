@@ -1,0 +1,31 @@
+{
+  "evaluation_design": "select on validation 2025 after training 2024; refit 2024-2025; test once on 2026",
+  "deployment_target": 2027,
+  "best_ml_model": "RandomForest",
+  "best_overall_method": "Baseline_LastScore",
+  "train_rows_2024_2025": 7453,
+  "test_rows_2026": 3776,
+  "refit_rows_2024_2026": 11229,
+  "predicted_programs_2027": 7517,
+  "features": [
+    "target_year",
+    "history_count",
+    "first_year",
+    "last_year",
+    "gap_years",
+    "history_span",
+    "last_score",
+    "prev2_score",
+    "mean_score",
+    "min_score",
+    "max_score",
+    "std_score",
+    "trend_per_year",
+    "last_delta_per_year",
+    "last_combination_count",
+    "last_combination_known",
+    "university_key",
+    "major_group"
+  ],
+  "model_file": "E:\\năm 4\\DoAn-AI\\DOAN-AI\\ai\\models\\best_cutoff_model.joblib"
+}

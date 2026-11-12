@@ -1,0 +1,6 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Học viện cán bộ TPHCM,7310201,Chính trị học,2023,THPT,C00;C03;C04;C14,21.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=580&method_id=1&year=2023
+Học viện cán bộ TPHCM,7310202,Xây dựng Đảng & CQNN,2023,THPT,C00;C03;C04;C14,22.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=580&method_id=1&year=2023
+Học viện cán bộ TPHCM,7310205,Quản lý nhà nước,2023,THPT,A00;A01;C00;D01,22.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=580&method_id=1&year=2023
+Học viện cán bộ TPHCM,7380101,Luật,2023,THPT,A00;A01;C00;D01,23.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=580&method_id=1&year=2023
+Học viện cán bộ TPHCM,7760101,Công tác xã hội,2023,THPT,C00;C14;D01;D14,21.5,Historical API 2023; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=580&method_id=1&year=2023

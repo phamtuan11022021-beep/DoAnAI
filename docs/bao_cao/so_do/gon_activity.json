@@ -1,0 +1,112 @@
+{
+  "title": "Luồng hoạt động tư vấn và quản trị",
+  "nodes": {
+    "start": {
+      "box": [
+        400,
+        95,
+        800,
+        180
+      ],
+      "label": "Mở ứng dụng",
+      "kind": "start"
+    },
+    "choice": {
+      "box": [
+        400,
+        270,
+        800,
+        360
+      ],
+      "label": "Chọn chức năng",
+      "kind": "process"
+    },
+    "lookup": {
+      "box": [
+        25,
+        465,
+        545,
+        580
+      ],
+      "label": "Tra cứu hoặc tư vấn\nNhập hồ sơ và điều kiện",
+      "kind": "process"
+    },
+    "admin": {
+      "box": [
+        655,
+        465,
+        1175,
+        580
+      ],
+      "label": "Đăng nhập quản trị\nKiểm tra quyền thao tác",
+      "kind": "process"
+    },
+    "check": {
+      "box": [
+        25,
+        680,
+        545,
+        795
+      ],
+      "label": "Kiểm tra đầu vào\nvà bằng chứng dữ liệu",
+      "kind": "process"
+    },
+    "publish": {
+      "box": [
+        655,
+        680,
+        1175,
+        795
+      ],
+      "label": "Nhập và đối chiếu CSV\nCông bố hoặc thu hồi",
+      "kind": "process"
+    },
+    "end": {
+      "box": [
+        310,
+        955,
+        890,
+        1045
+      ],
+      "label": "Hiển thị kết quả hoặc lỗi có lý do",
+      "kind": "end"
+    }
+  },
+  "edges": [
+    [
+      "start",
+      "choice",
+      ""
+    ],
+    [
+      "choice",
+      "lookup",
+      ""
+    ],
+    [
+      "choice",
+      "admin",
+      ""
+    ],
+    [
+      "lookup",
+      "check",
+      ""
+    ],
+    [
+      "admin",
+      "publish",
+      ""
+    ],
+    [
+      "check",
+      "end",
+      ""
+    ],
+    [
+      "publish",
+      "end",
+      ""
+    ]
+  ]
+}

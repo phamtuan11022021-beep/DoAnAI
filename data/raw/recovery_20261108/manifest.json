@@ -1,0 +1,116 @@
+[
+  {
+    "id": "tueba_2025",
+    "url": "https://tuyensinh.tueba.edu.vn/bai-viet/Thong-Bao-Diem-Trung-Tuyen-Dai-Hoc-Chinh-Quy-Nam-2025-Dot-1-111.html",
+    "assets": [
+      {
+        "url": "https://tuyensinh.tueba.edu.vn//uploads/2024/1226 Thông báo điểm trúng tuyển ĐHCQ 2025-1063548774.pdf",
+        "path": "data\\raw\\recovery_20261108\\tueba_2025_0.pdf",
+        "sha256": "705955d6b529c829550e627d611267a6c17bcc3a58163778d2c8f0f2d360cd1e"
+      }
+    ],
+    "path": "data\\raw\\recovery_20261108\\tueba_2025.html",
+    "sha256": "be0e5c99412c9bcd5026773423bf9415b6722dbedf4d156f1aff49ea62a9eaf2",
+    "status": 200,
+    "title": "Thông tin đào tạo-tuyển sinh-Trường Đại học Kinh tế và Quản trị kinh doanh-Thái Nguyên"
+  },
+  {
+    "id": "tueba_2026",
+    "url": "https://tuyensinh.tueba.edu.vn/bai-viet/Thong-Bao-Diem-Chuan-Trung-Tuyen-Dai-Hoc-Chinh-Quy-Dot-1-Nam-2026-151.html",
+    "assets": [],
+    "path": "data\\raw\\recovery_20261108\\tueba_2026.html",
+    "sha256": "48cee0d41ad03aa2a5e76fd1961fe1ea8dd8f32311d6491e765b3b8d58200dfc",
+    "status": 200,
+    "title": "Thông tin đào tạo-tuyển sinh-Trường Đại học Kinh tế và Quản trị kinh doanh-Thái Nguyên"
+  },
+  {
+    "id": "ufba_2025",
+    "url": "https://media.ufba.edu.vn/Media/2_TH1064/FolderFunc/202508/Documents/ds-trung-tuyen-dot-1-in-qd-1-20250822090452-e.pdf",
+    "assets": [],
+    "error": "ConnectionError"
+  },
+  {
+    "id": "vuted_2025",
+    "url": "https://vuted.edu.vn/Resources/Document/2025/8/2025-qd-diem-tt-dh-d1.pdf",
+    "assets": [],
+    "path": "data\\raw\\recovery_20261108\\vuted_2025.pdf",
+    "sha256": "578aa96d14a7cafe0d1cf97c8b4f4f5b2e438ed5cef3edb17ad0a73c21c05c4a",
+    "status": 200
+  },
+  {
+    "id": "tueba_2026_scores",
+    "url": "https://tuyensinh.tueba.edu.vn//uploads/2024/ảnh%204-1104673735.png",
+    "assets": [],
+    "path": "data\\raw\\recovery_20261108\\tueba_2026_scores.png",
+    "sha256": "44e97d9d8664adf5e22b1b4ef6b7b48f5cd0101fd6b47671ef2ab27e749c541f",
+    "status": 200
+  },
+  {
+    "id": "vuted_index",
+    "url": "https://vuted.edu.vn/thong-bao-17",
+    "assets": [
+      {
+        "url": "https://vuted.edu.vn/Resources/Images/Advertisment/2025/9/dh-t_141.png",
+        "path": "data\\raw\\recovery_20261108\\vuted_index_0.png",
+        "sha256": "0d1b11cf7be3cf46e415a48545f21a23ae2d3ee808d0a1cc01e1ee1fb6d51bf2"
+      }
+    ],
+    "path": "data\\raw\\recovery_20261108\\vuted_index.html",
+    "sha256": "8b6aaa0076cd1f5b03f61235234c11627c2f8dfd7171fd73caf01cdbe35b997a",
+    "status": 200,
+    "title": "Thông báo - vuted.edu.vn"
+  },
+  {
+    "id": "vuted_2026",
+    "url": "https://vuted.edu.vn/tin-tuc-17/cong-bo-diem-chuan-trung-tuyen-dai-hoc-chinh-quy-nam-2026-dot-3753",
+    "assets": [
+      {
+        "url": "https://vuted.edu.vn/Resources/Document/2026/8/2026-skv_d1_qd_diem-chuan-trung-tuyen.pdf",
+        "path": "data\\raw\\recovery_20261108\\vuted_2026_0.pdf",
+        "sha256": "e4229c2f49878061cd023b3a693a0fd0dbd0865d4b15b59692cdf8f83ee2eb2d"
+      },
+      {
+        "url": "https://vuted.edu.vn/Resources/Images/Advertisment/2025/9/dh-t_141.png",
+        "path": "data\\raw\\recovery_20261108\\vuted_2026_1.png",
+        "sha256": "0d1b11cf7be3cf46e415a48545f21a23ae2d3ee808d0a1cc01e1ee1fb6d51bf2"
+      },
+      {
+        "url": "https://vuted.edu.vn/Resources/Images/News/-1/2026/8/untitled-1_433.png",
+        "path": "data\\raw\\recovery_20261108\\vuted_2026_2.png",
+        "sha256": "843b3d359852671568c59fb5f279fac74e1c73a70f6297e0266fd0e07894bcd9"
+      }
+    ],
+    "path": "data\\raw\\recovery_20261108\\vuted_2026.html",
+    "sha256": "e09a179e09de7f10676952eb1899080d9186065309b58c85f839607660d002fc",
+    "status": 200,
+    "title": "Công bố điểm chuẩn trúng tuyển đại học chính quy năm 2026 - Đợt 1 | Thông báo"
+  },
+  {
+    "id": "uit_2025",
+    "url": "https://tuyensinh.uit.edu.vn/node/4147",
+    "assets": [
+      {
+        "url": "https://tuyensinh.uit.edu.vn/sites/default/files/banner2026.png",
+        "path": "data\\raw\\recovery_20261108\\uit_2025_0.png",
+        "sha256": "1db9fa645736b3532d86dcbf1e00f0f55ce1efe39817b3bd0b7b2a41f90e74f8"
+      },
+      {
+        "url": "https://tuyensinh.uit.edu.vn/sites/default/files/uploads/images/202508/trung_hoc_pho_thong_1.png",
+        "path": "data\\raw\\recovery_20261108\\uit_2025_1.png",
+        "sha256": "a2850dcb05ae41749b5673bf2787b77772c799ed77591b24b256e69cd2f94e2d"
+      }
+    ],
+    "path": "data\\raw\\recovery_20261108\\uit_2025.html",
+    "sha256": "a989270c02732394195125db905f50a8ddeef223332bb1b1283502d50da33fde",
+    "status": 200,
+    "title": "[2025] Thông báo điểm trúng tuyển theo phương thức Xét kết quả thi tốt nghiệp THPT năm 2025"
+  },
+  {
+    "id": "uit_history",
+    "url": "https://tuyensinh.uit.edu.vn/sites/default/files/uploads/images/202601/diem_chuan_uit_2021-2025.png",
+    "assets": [],
+    "path": "data\\raw\\recovery_20261108\\uit_history.png",
+    "sha256": "40ab92989201bc4c5fc6cb941d11d8a10dafd3006cecc8aa19e3a565a4091cbd",
+    "status": 200
+  }
+]

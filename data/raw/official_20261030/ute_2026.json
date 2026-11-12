@@ -1,0 +1,671 @@
+{
+  "source_url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx",
+  "resolved_url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx",
+  "sha256": "73208caefd0d931b6be8a0316671e85e7abb8dab7260c1166b291f0b3802451d",
+  "images": [
+    "https://ute.udn.vn/Images/loading.gif",
+    "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx",
+    "https://ute.udn.vn/Upload/NAM%202026/Thang%208/19082026dontansinhvien/0.JPG",
+    "https://ute.udn.vn/Upload/NAM%202026/Thang%208/19082026dontansinhvien/1.JPG",
+    "https://ute.udn.vn/Upload/NAM%202026/Thang%208/19082026dontansinhvien/2.JPG",
+    "https://ute.udn.vn/Upload/NAM%202026/Thang%208/19082026dontansinhvien/3.JPG",
+    "https://ute.udn.vn/Upload/NAM%202026/Thang%208/19082026dontansinhvien/4.JPG",
+    "https://ute.udn.vn/Upload/NAM%202026/Thang%208/19082026dontansinhvien/6.JPG",
+    "https://ute.udn.vn/Upload/NAM%202026/Thang%208/19082026dontansinhvien/kqts2026.jpg",
+    "https://ute.udn.vn/Upload/TinTuc/Slide29102026hoinghicovanhoctap.jpg",
+    "https://ute.udn.vn/Upload/TinTuc/slide28102026baodanang.jpg",
+    "https://ute.udn.vn/Upload/TinTuc/slide28102026dangvien.png",
+    "https://ute.udn.vn/Upload/TinTuc/slide28102026daotaosp.jpg",
+    "https://ute.udn.vn/Upload/TinTuc/slide28102026toadam.jpg",
+    "https://ute.udn.vn/Upload/TinTuc/slide28102026toadamgiuabienthongtin.jpg",
+    "https://ute.udn.vn/Upload/TinTuc/slide28102026trithucso.png",
+    "https://ute.udn.vn/Upload/TinTuc/slide29102026hoithao.jpg",
+    "https://ute.udn.vn/Upload/TinTuc/slide29102026unghotruyvetgiangvien.png",
+    "https://ute.udn.vn/images/banner-ute-4.jpg",
+    "https://ute.udn.vn/images/header-ute1.png",
+    "https://ute.udn.vn/images/logo-truong-250.png",
+    "https://ute.udn.vn/images/newnew.gif"
+  ],
+  "links": [
+    {
+      "text": "UTE",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Lịch tuần",
+      "url": "https://ute.udn.vn/LichTuan/4674/Tuan-12-tu-ngay-2610-den-01112026.aspx"
+    },
+    {
+      "text": "Điều hành tác nghiệp",
+      "url": "http://ioffice.ute.udn.vn"
+    },
+    {
+      "text": "Thông tin công khai",
+      "url": "https://ute.udn.vn/Ba-Cong-Khai.aspx"
+    },
+    {
+      "text": "Thư viện",
+      "url": "http://daotao.ute.udn.vn/cSearch.asp"
+    },
+    {
+      "text": "Hệ thống ISO",
+      "url": "http://ute.udn.vn/chuyentrang/1064/default.aspx"
+    },
+    {
+      "text": "Hệ thống ĐÀO TẠO",
+      "url": "https://qldt.ute.udn.vn"
+    },
+    {
+      "text": "ĐÁNH GIÁ VIÊN CHỨC",
+      "url": "https://staff.ute.udn.vn/HomeAdmin.aspx"
+    },
+    {
+      "text": "Liên hệ",
+      "url": "https://ute.udn.vn/Lien-He.aspx"
+    },
+    {
+      "text": "EN",
+      "url": "http://en.ute.udn.vn"
+    },
+    {
+      "text": "TRANG CHỦ",
+      "url": "https://ute.udn.vn/"
+    },
+    {
+      "text": "GIỚI\r\n                                THIỆU",
+      "url": "https://ute.udn.vn/GioiThieu/1/Thong-diep-cua-Hieu-truong.aspx"
+    },
+    {
+      "text": "TIN TỨC - SỰ KIỆN",
+      "url": "https://ute.udn.vn/Tin-Tuc.aspx"
+    },
+    {
+      "text": "THÔNG BÁO",
+      "url": "https://ute.udn.vn/Thong-Bao.aspx"
+    },
+    {
+      "text": "CÁC ĐƠN VỊ",
+      "url": "https://ute.udn.vn/Cac-Don-Vi.aspx"
+    },
+    {
+      "text": "ĐÀO TẠO",
+      "url": "http://daotao.ute.udn.vn"
+    },
+    {
+      "text": "KHOA HỌC CÔNG NGHỆ",
+      "url": "https://ute.udn.vn/KhoaHoc/1/Tin-khoa-hoc-cong-nghe_7.aspx"
+    },
+    {
+      "text": "HỢP TÁC QUỐC TẾ",
+      "url": "https://ute.udn.vn/KhoaHoc/2/Chuong-trinhbr--Lien-ket--Hop-tac_4.aspx"
+    },
+    {
+      "text": "SỔ TAY SINH VIÊN",
+      "url": "http://sotaysinhvien.ute.udn.vn/"
+    },
+    {
+      "text": "Tuyên truyền PBPL",
+      "url": "https://ttpbgdpl.ute.udn.vn/default.html"
+    },
+    {
+      "text": "Lịch tuần",
+      "url": "https://ute.udn.vn/LichTuan/4674/Tuan-12-tu-ngay-2610-den-01112026.aspx"
+    },
+    {
+      "text": "Điều hành tác nghiệp",
+      "url": "http://ioffice.ute.udn.vn"
+    },
+    {
+      "text": "Thông tin công khai",
+      "url": "https://ute.udn.vn/Ba-Cong-Khai.aspx"
+    },
+    {
+      "text": "Thư viện",
+      "url": "http://lib.ute.udn.vn/primo_library/libweb/action/search.do?vid=lsk"
+    },
+    {
+      "text": "Hệ thống ISO",
+      "url": "http://ute.udn.vn/chuyentrang/1064/default.aspx"
+    },
+    {
+      "text": "Hệ thống ĐÀO TẠO",
+      "url": "https://qldt.ute.udn.vn"
+    },
+    {
+      "text": "đánh giá VIÊN CHỨC",
+      "url": "https://staff.ute.udn.vn/HomeAdmin.aspx"
+    },
+    {
+      "text": "Liên hệ",
+      "url": "https://ute.udn.vn/Lien-He.aspx"
+    },
+    {
+      "text": "ENGLISH",
+      "url": "http://en.ute.udn.vn"
+    },
+    {
+      "text": "Trường ĐH Sư phạm Kỹ thuật",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/"
+    },
+    {
+      "text": "GIỚI THIỆU",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Thông điệp của Hiệu trưởng",
+      "url": "https://ute.udn.vn/GioiThieu/1/Thong-diep-cua-Hieu-truong.aspx"
+    },
+    {
+      "text": "Lịch sử phát triển",
+      "url": "https://ute.udn.vn/GioiThieu/2/Lich-su-phat-trien.aspx"
+    },
+    {
+      "text": "Sứ mạng - Tầm nhìn - Giá trị cốt lõi",
+      "url": "https://ute.udn.vn/GioiThieu/3/Su-mang--Tam-nhin--Gia-tri-cot-loi.aspx"
+    },
+    {
+      "text": "Cơ cấu tổ chức",
+      "url": "https://ute.udn.vn/GioiThieu/4/Co-cau-to-chuc.aspx"
+    },
+    {
+      "text": "Hội đồng Khoa học & Đào tạo",
+      "url": "https://ute.udn.vn/GioiThieu/5/Hoi-dong-Khoa-hoc--Dao-tao.aspx"
+    },
+    {
+      "text": "Tổng quan các chuyên ngành",
+      "url": "https://ute.udn.vn/GioiThieu/7/Tong-quan-cac-chuyen-nganh.aspx"
+    },
+    {
+      "text": "Nhận diện Logo",
+      "url": "https://ute.udn.vn/GioiThieu/8/Nhan-dien-Logo.aspx"
+    },
+    {
+      "text": "Chiến lược phát triển ĐHSPKT",
+      "url": "https://ute.udn.vn/GioiThieu/9/Chien-luoc-phat-trien-DHSPKT.aspx"
+    },
+    {
+      "text": "Bộ nhận diện học hiệu",
+      "url": "https://ute.udn.vn/GioiThieu/10/Bo-nhan-dien-hoc-hieu.aspx"
+    },
+    {
+      "text": "TIN TỨC - SỰ KIỆN",
+      "url": "https://ute.udn.vn/Tin-Tuc.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "Tin của các Phòng",
+      "url": "https://ute.udn.vn/LoaiTinTuc/2/Tin-cua-cac-Phong.aspx"
+    },
+    {
+      "text": "Tin của các Khoa",
+      "url": "https://ute.udn.vn/LoaiTinTuc/3/Tin-cua-cac-Khoa.aspx"
+    },
+    {
+      "text": "Tin của các Hội, đoàn thể",
+      "url": "https://ute.udn.vn/LoaiTinTuc/4/Tin-cua-cac-Hoi-doan-the.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "CSGDĐH ủng hộ truy vết giảng viên theo mã số thuế, kiến nghị cơ quan quản lý tăng kiểm tra đột xuất",
+      "url": "https://ute.udn.vn/TinTuc/10318/1/CSGDDH-ung-ho-truy-vet-giang-vien-theo-ma-so-thue-kien-nghi-co-quan-quan-ly-tang-kiem-tra-dot-xuat.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "UD-UTE: Định hướng nhiệm vụ, nâng cao hiệu quả công tác cố vấn học tập, chủ nhiệm lớp năm học 2026-2027",
+      "url": "https://ute.udn.vn/TinTuc/10319/1/UDUTE-Dinh-huong-nhiem-vu-nang-cao-hieu-qua-cong-tac-co-van-hoc-tap-chu-nhiem-lop-nam-hoc-20262027.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin của các Khoa",
+      "url": "https://ute.udn.vn/LoaiTinTuc/3/Tin-cua-cac-Khoa.aspx"
+    },
+    {
+      "text": "Khoa Cơ khí tổ chức Hội thảo “Robot FAIRINO tương lai tự động hóa”",
+      "url": "https://ute.udn.vn/TinTuc/10320/3/Khoa-Co-khi-to-chuc-Hoi-thao-%E2%80%9CRobot-FAIRINO-tuong-lai-tu-dong-hoa%E2%80%9D.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "Trường Đại học Sư phạm Kỹ thuật trang bị kỹ năng chọn lọc thông tin cho sinh viên",
+      "url": "https://ute.udn.vn/TinTuc/10312/1/Truong-Dai-hoc-Su-pham-Ky-thuat-trang-bi-ky-nang-chon-loc-thong-tin-cho-sinh-vien.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "Đào tạo sư phạm trước yêu cầu mới",
+      "url": "https://ute.udn.vn/TinTuc/10313/1/Dao-tao-su-pham-truoc-yeu-cau-moi.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "UD-UTE: Tọa đàm “Sinh viên giữa biển thông tin, nên đọc gì để hiểu, chọn gì để tiếp nhận và nói gì để chia sẻ”",
+      "url": "https://ute.udn.vn/TinTuc/10314/1/UDUTE-Toa-dam-%E2%80%9CSinh-vien-giua-bien-thong-tin-nen-doc-gi-de-hieu-chon-gi-de-tiep-nhan-va-noi-gi-de-chia-se%E2%80%9D.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "Đưa tri thức số lên đỉnh Ngọc Linh",
+      "url": "https://ute.udn.vn/TinTuc/10315/1/Dua-tri-thuc-so-len-dinh-Ngoc-Linh.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "Toạ đàm nâng cao năng lực tiếp cận, chia sẻ thông tin cho sinh viên",
+      "url": "https://ute.udn.vn/TinTuc/10316/1/Toa-dam-nang-cao-nang-luc-tiep-can-chia-se-thong-tin-cho-sinh-vien.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "Nâng cao chất lượng phát triển đảng viên",
+      "url": "https://ute.udn.vn/TinTuc/10317/1/Nang-cao-chat-luong-phat-trien-dang-vien.aspx"
+    },
+    {
+      "text": "THÔNG BÁO",
+      "url": "https://ute.udn.vn/Thong-Bao.aspx"
+    },
+    {
+      "text": "CÁC ĐƠN VỊ",
+      "url": "https://ute.udn.vn/Cac-Don-Vi.aspx"
+    },
+    {
+      "text": "Ban Giám hiệu",
+      "url": "https://ute.udn.vn/LoaiBoPhan/1/Ban-Giam-hieu.aspx"
+    },
+    {
+      "text": "Phòng Tổ chức - Hành chính",
+      "url": "https://ute.udn.vn/LoaiBoPhan/2/Phong-To-chuc--Hanh-chinh.aspx"
+    },
+    {
+      "text": "Phòng Đào tạo",
+      "url": "https://ute.udn.vn/LoaiBoPhan/3/Phong-Dao-tao.aspx"
+    },
+    {
+      "text": "Phòng Công tác Sinh viên",
+      "url": "https://ute.udn.vn/LoaiBoPhan/4/Phong-Cong-tac-Sinh-vien.aspx"
+    },
+    {
+      "text": "Phòng QLKH và HTQT",
+      "url": "https://ute.udn.vn/LoaiBoPhan/5/Phong-QLKH-va-HTQT.aspx"
+    },
+    {
+      "text": "Phòng Kế hoạch - Tài chính",
+      "url": "https://ute.udn.vn/LoaiBoPhan/10/Phong-Ke-hoach--Tai-chinh.aspx"
+    },
+    {
+      "text": "Phòng Khảo thí và Đảm bảo chất lượng giáo dục",
+      "url": "https://ktdbcl.ute.udn.vn/default.html"
+    },
+    {
+      "text": "Phòng Cơ sở vật chất",
+      "url": "https://ute.udn.vn/LoaiBoPhan/23/Phong-Co-so-vat-chat.aspx"
+    },
+    {
+      "text": "Khoa Cơ khí",
+      "url": "https://khoacokhi.ute.udn.vn/default.html"
+    },
+    {
+      "text": "Khoa Điện - Điện tử",
+      "url": "http://feee.ute.udn.vn"
+    },
+    {
+      "text": "Khoa Kỹ thuật Xây dựng",
+      "url": "http://khoaktxd.ute.udn.vn"
+    },
+    {
+      "text": "Khoa Công nghệ Hóa học - Môi trường",
+      "url": "https://chemical.ute.udn.vn/"
+    },
+    {
+      "text": "Khoa Sư phạm Công nghiệp",
+      "url": "https://spcn.ute.udn.vn/"
+    },
+    {
+      "text": "Khoa công nghệ số",
+      "url": "https://fdt.ute.udn.vn/"
+    },
+    {
+      "text": "Phòng Pháp chế",
+      "url": "https://ttpc.ute.udn.vn/default.html"
+    },
+    {
+      "text": "Trung tâm Học liệu và Truyền thông",
+      "url": "https://ute.udn.vn/LoaiBoPhan/12/Trung-tam-Hoc-lieu-va-Truyen-thong.aspx"
+    },
+    {
+      "text": "Đảng ủy",
+      "url": "https://ute.udn.vn/LoaiBoPhan/13/Dang-uy.aspx"
+    },
+    {
+      "text": "Công đoàn",
+      "url": "https://ute.udn.vn/LoaiBoPhan/22/Cong-doan.aspx"
+    },
+    {
+      "text": "Đoàn Thanh niên - Hội SV",
+      "url": "https://doanthanhnien.ute.udn.vn"
+    },
+    {
+      "text": "TRUNG TÂM TIN HỌC",
+      "url": "https://ute.udn.vn/LoaiBoPhan/15/TRUNG-TAM-TIN-HOC.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/LoaiBoPhan/33/nbsp.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/LoaiBoPhan/31/nbsp.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/LoaiBoPhan/18/nbsp.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/LoaiBoPhan/19/nbsp.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/LoaiBoPhan/20/nbsp.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/LoaiBoPhan/17/nbsp.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ute.udn.vn/LoaiBoPhan/16/nbsp.aspx"
+    },
+    {
+      "text": "",
+      "url": "https://ttpbgdpl.ute.udn.vn/default.html"
+    },
+    {
+      "text": "ĐÀO TẠO",
+      "url": "http://daotao.ute.udn.vn"
+    },
+    {
+      "text": "KHOA HỌC CÔNG NGHỆ",
+      "url": "https://ute.udn.vn/KhoaHoc/1/Tin-khoa-hoc-cong-nghe_7.aspx"
+    },
+    {
+      "text": "HỢP TÁC QUỐC TẾ",
+      "url": "https://ute.udn.vn/KHCNHTQT/73/2/Gioi-thieu-hoat-dong-Hop-tac-Quoc-te.aspx"
+    },
+    {
+      "text": "SỔ TAY SV",
+      "url": "http://Sotaysinhvien.ute.udn.vn"
+    },
+    {
+      "text": "Tuyên truyền PBPL",
+      "url": "https://ttpbgdpl.ute.udn.vn/default.html"
+    },
+    {
+      "text": "Trang chủ",
+      "url": "https://ute.udn.vn/"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/LoaiTinTuc/1/Tin-tuc-chung.aspx"
+    },
+    {
+      "text": "Tin Đại học Sư phạm Kỹ thuật",
+      "url": "https://ute.udn.vn/SubTinTuc/1/Tin-Dai-hoc-Su-pham-Ky-thuat.aspx"
+    },
+    {
+      "text": "Báo Giáo dục và Thời đại",
+      "url": "https://giaoducthoidai.vn/tan-sinh-vien-chon-nganh-hoc-theo-co-hoi-viec-lam-post788845.html?gidzl=q2N036PQ_rtHFCK8RaF_Kz4ppG9u6l46o6BALYvCeWQVFSnT8KQcMi0xom4YGgHGaMxC0JQ7I0jYPLZ-Nm"
+    },
+    {
+      "text": "Báo Đại biểu Nhân dân",
+      "url": "https://daibieunhandan.vn/truong-dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang-don-tan-sinh-vien-10427922.html?gidzl=wCGjTqCcr6RftIXpIp_KQEdI8NfTPji-y8CcBWimY3wdt20b13gCOlZQ9ta7FevegOyWUJQQrSqYG2JLP0"
+    },
+    {
+      "text": "Báo Công an thành phố Đà Nẵng",
+      "url": "https://cadn.com.vn/truong-dai-hoc-su-pham-ky-thuat-da-nang-don-1950-tan-sinh-vien-khoa-2026-nhap-hoc-post346748.html?gidzl=sVLe2QcIPGBOx6qDeOjb3DZZQG2tqcTUmR9kLE64D5wMxMXVxeum0idhRmFjYZ88cBve0pP1K3augf1a00"
+    },
+    {
+      "text": "UD-UTE: Định hướng nhiệm vụ, nâng cao hiệu quả công tác cố vấn học tập, chủ nhiệm lớp năm học 2026-2027",
+      "url": "https://ute.udn.vn/TinTuc/10319/1/UDUTE-Dinh-huong-nhiem-vu-nang-cao-hieu-qua-cong-tac-co-van-hoc-tap-chu-nhiem-lop-nam-hoc-20262027.aspx"
+    },
+    {
+      "text": "UD-UTE: Tọa đàm “Sinh viên giữa biển thông tin, nên đọc gì để hiểu, chọn gì để tiếp nhận và nói gì để chia sẻ”",
+      "url": "https://ute.udn.vn/TinTuc/10314/1/UDUTE-Toa-dam-%E2%80%9CSinh-vien-giua-bien-thong-tin-nen-doc-gi-de-hieu-chon-gi-de-tiep-nhan-va-noi-gi-de-chia-se%E2%80%9D.aspx"
+    },
+    {
+      "text": "Trường ĐH Sư phạm Kỹ thuật - ĐH Đà Nẵng sơ kết công tác ứng dụng AI trong xây dựng và phát triển hệ thống video bài giảng số",
+      "url": "https://ute.udn.vn/TinTuc/10307/1/Truong-DH-Su-pham-Ky-thuat--DH-Da-Nang-so-ket-cong-tac-ung-dung-AI-trong-xay-dung-va-phat-trien-he-thong-video-bai-giang-so.aspx"
+    },
+    {
+      "text": "Sở Khoa học và Công nghệ thành phố Đà Nẵng làm việc với Trường ĐH Sư phạm Kỹ thuật - ĐH Đà Nẵng về việc triển khai các nhiệm vụ khoa học công nghệ",
+      "url": "https://ute.udn.vn/TinTuc/10306/1/So-Khoa-hoc-va-Cong-nghe-thanh-pho-Da-Nang-lam-viec-voi-Truong-DH-Su-pham-Ky-thuat--DH-Da-Nang-ve-viec-trien-khai-cac-nhiem-vu-khoa-hoc-cong-nghe.aspx"
+    },
+    {
+      "text": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng giới thiệu Bản tin định kỳ - Newsletter số 03 năm 2026",
+      "url": "https://ute.udn.vn/TinTuc/10301/1/Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang-gioi-thieu-Ban-tin-dinh-ky--Newsletter-so-03-nam-2026.aspx"
+    },
+    {
+      "text": "2",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','2')"
+    },
+    {
+      "text": "3",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','3')"
+    },
+    {
+      "text": "4",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','4')"
+    },
+    {
+      "text": "5",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','5')"
+    },
+    {
+      "text": "6",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','6')"
+    },
+    {
+      "text": "7",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','7')"
+    },
+    {
+      "text": "8",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','8')"
+    },
+    {
+      "text": "9",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','9')"
+    },
+    {
+      "text": "10",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','10')"
+    },
+    {
+      "text": "40",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','40')"
+    },
+    {
+      "text": "90",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','90')"
+    },
+    {
+      "text": "130",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','130')"
+    },
+    {
+      "text": "180",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','180')"
+    },
+    {
+      "text": "220",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','220')"
+    },
+    {
+      "text": "260",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','260')"
+    },
+    {
+      "text": "Tiến",
+      "url": "javascript:__doPostBack('ctl00$ContentPlaceHolder1$Pager1','2')"
+    },
+    {
+      "text": "Tin tức chung",
+      "url": "https://ute.udn.vn/TinTuc/10231/1/Ron-rang-Ngay-hoi-don-tan-sinh-vien-khoa-2026-tai-Truong-Dai-hoc-Su-pham-Ky-thuat--Dai-hoc-Da-Nang.aspx#profile"
+    },
+    {
+      "text": "Tin Đại học Sư phạm Kỹ thuật",
+      "url": "https://ute.udn.vn/SubTinTuc/1/Tin-Dai-hoc-Su-pham-Ky-thuat.aspx"
+    },
+    {
+      "text": "Tin Đại học Đà Nẵng",
+      "url": "https://ute.udn.vn/SubTinTuc/2/Tin-Dai-hoc-Da-Nang.aspx"
+    },
+    {
+      "text": "Tin ngành giáo dục",
+      "url": "https://ute.udn.vn/SubTinTuc/3/Tin-nganh-giao-duc.aspx"
+    },
+    {
+      "text": "Chương trình đào tạo",
+      "url": "http://daotao.ute.udn.vn/"
+    },
+    {
+      "text": "Quy chế, quy định",
+      "url": "http://daotao.ute.udn.vn/"
+    },
+    {
+      "text": "Wesite đào tạo",
+      "url": "http://daotao.ute.udn.vn/"
+    },
+    {
+      "text": "Wesite tuyển sinh",
+      "url": "https://tuyensinh.ute.udn.vn/default.html"
+    },
+    {
+      "text": "Tài nguyên số",
+      "url": "http://data.ute.udn.vn:8080/jspui/"
+    },
+    {
+      "text": "Website Thư viện",
+      "url": "http://lib.ute.udn.vn/"
+    },
+    {
+      "text": "e-learning",
+      "url": "http://lms.ute.udn.vn/"
+    },
+    {
+      "text": "Học bổng - Việc làm",
+      "url": "http://cace.ute.udn.vn/"
+    },
+    {
+      "text": "Quy chế tổ chức và hoạt động",
+      "url": "https://ute.udn.vn/upload/TCHC/Qui che to chuc va hoat dong DHSPKT.pdf"
+    },
+    {
+      "text": "Quy chế bổ nhiệm",
+      "url": "https://ute.udn.vn/upload/TCHC/589.pdf"
+    },
+    {
+      "text": "Quy định cấp xét học bổng",
+      "url": "https://ute.udn.vn/upload/CTSV/809QDDHSPKT.pdf"
+    },
+    {
+      "text": "Quy chế chi tiêu nội bộ",
+      "url": "https://ute.udn.vn/BoPhan/1420/10/Quy-che-chi-tieu-noi-bo-cua-Truong-Dai-hoc-Su-pham-Ky-thuat.aspx"
+    },
+    {
+      "text": "Quy chế dân chủ",
+      "url": "https://ute.udn.vn/upload/TCHC/12DCCS.pdf"
+    },
+    {
+      "text": "DANH MỤC VỊ TRÍ VIỆC LÀM",
+      "url": "https://ute.udn.vn/upload/TCHC/vtvl2023.pdf"
+    },
+    {
+      "text": "CHIẾN LƯỢC PHÁT TRIỂN NGUỒN NHÂN LỰC",
+      "url": "https://ute.udn.vn/upload/TCHC/nguonnhanluc2022.pdf"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/tuyensinhdhspkt/"
+    },
+    {
+      "text": "Wikipedia",
+      "url": "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_S%C6%B0_ph%E1%BA%A1m_K%E1%BB%B9_thu%E1%BA%ADt,_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%C3%A0_N%E1%BA%B5ng"
+    },
+    {
+      "text": "Youtube",
+      "url": "https://www.youtube.com/mediauteudn"
+    },
+    {
+      "text": "Liên hệ",
+      "url": "https://ute.udn.vn/Lien-He.aspx"
+    },
+    {
+      "text": "Trường Đại học Sư phạm Kỹ thuật",
+      "url": "https://ute.udn.vn/"
+    },
+    {
+      "text": "Thiết kế bởi Trường ĐHSPKT",
+      "url": "https://www.facebook.com/tuyensinhdhspkt"
+    }
+  ]
+}

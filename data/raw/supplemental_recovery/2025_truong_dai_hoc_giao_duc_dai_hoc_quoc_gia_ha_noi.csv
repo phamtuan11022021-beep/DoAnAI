@@ -1,0 +1,12 @@
+﻿university_name,major_code,major_name,year,admission_method_codes,combination,cutoff_score,admission_note,source_url
+Trường ĐH Giáo dục - ĐHQGHN,QHS01,Sư phạm Toán học,2025,THPT,A00;B00;B03;C01;C02;D01,28.57,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS02,Sư phạm Vật lí,2025,THPT,A00;A01;A02;C01,28.0,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS03,Sư phạm Hoá học,2025,THPT,A00;B00;C02;D07,27.74,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS04,Sư phạm Sinh học,2025,THPT,A02;B00;B03;B08,25.37,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS05,Sư phạm Khoa học Tự nhiên,2025,THPT,A00;A02;B00,25.58,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS06,Sư phạm Ngữ văn,2025,THPT,C00;C03;C04;D01;D14;D15,28.45,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS07,Sư phạm Lịch sử,2025,THPT,A07;C00;C03;D09;D14,28.99,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS08,Sư phạm Lịch sử - Địa lý,2025,THPT,A07;C00,29.84,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS09,Giáo dục Mầm non,2025,THPT,A00;B00;C00;D01;C14,27.8,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS10,Giáo dục Tiểu học,2025,THPT,A00;B00;C00;D01;C14,28.6,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
+Trường ĐH Giáo dục - ĐHQGHN,QHS11,Khoa học giáo dục và khác,2025,THPT,A00;A01;B00;C00;D01;C14,25.57,Historical API 2025; THPT; ,https://diemthi.tuyensinh247.com/api/common/cutoff-score?school_id=533&method_id=1&year=2025
