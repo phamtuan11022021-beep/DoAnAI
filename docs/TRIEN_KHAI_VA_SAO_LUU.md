@@ -133,6 +133,15 @@ Kho mã có `Dockerfile` đóng gói Vue và Django cùng một dịch vụ, cù
 khai báo rõ `plan: free`. Đây là cấu hình triển khai; việc có các file này không có
 nghĩa dịch vụ đã được tạo hoặc kiểm tra trên Internet.
 
+**Bản đã triển khai ngày 13/11/2026:** <https://uniconnect-ai.onrender.com>.
+Đã kiểm tra trang chủ và assets, `/api/health/`, đăng nhập bằng form chung,
+quản trị, danh sách trường, recommendation và chat tra cứu; đủ 27 bảng trên TiDB.
+Đã kiểm tra đăng xuất chặn admin, POST thiếu CSRF bị từ chối, `.env` trả 404.
+Tài khoản quản trị bản cloud có tên `admin`; mật khẩu ngẫu nhiên lưu riêng trong
+`.env.cloud.admin` trên máy chủ dự án, không đưa lên GitHub. Tài khoản trên máy
+và tài khoản cloud là hai bản độc lập. Chưa cấu hình API key AI ngoài hoặc SMTP
+trên Render; chat hiện dùng tra cứu nội bộ, khôi phục mật khẩu qua email chưa bật.
+
 1. Tạo TiDB **Starter / MySQL Compatible**, chọn Singapore và giữ **Monthly Spending
    Limit = 0 USD**. Không thêm thẻ hoặc bật trả phí. Trong SQL Editor tạo một database
    trống riêng: `CREATE DATABASE uniconnect_ai CHARACTER SET utf8mb4;`.

@@ -349,16 +349,20 @@ kiểm thử riêng trên MySQL của môi trường triển khai.
 <a id="trien-khai"></a>
 ## 11. Triển khai và giới hạn
 
-Đã có `config.production`, worker WSGI và mẫu Nginx; chưa có bằng chứng nghiệm
-thu hosting/tên miền HTTPS công khai. Không dùng Vite dev server làm production.
-Cần cấu hình secret, domain, HTTPS, SMTP, quota, logging và sao lưu trên máy chủ.
+**Web demo:** [https://uniconnect-ai.onrender.com](https://uniconnect-ai.onrender.com)
+— Render Free, TiDB Cloud Starter tại Singapore, hạn mức database 0 USD/tháng.
+Ngày 13/11/2026 đã kiểm tra HTTPS, trang chủ/assets, health check, đăng nhập,
+trang quản trị, danh sách trường, gợi ý theo điểm và chat tra cứu trên web thật.
+Database cloud có 27 bảng, được khởi tạo bằng migrations; tài khoản và dữ liệu
+cá nhân trên máy không tự sao chép lên cloud. Chat hiện dùng tra cứu dữ liệu nội
+bộ, chưa cấu hình API key Gemini/OpenAI trên hosting. SMTP cũng chưa được bật.
 
 Đã bổ sung `Dockerfile`, `render.yaml` cho **Render Free + TiDB Cloud Starter**:
 build Vue cùng Django, phục vụ static bằng WhiteNoise và kết nối TiDB qua TLS.
 Giữ hạn mức TiDB **0 USD/tháng**; đặt mật khẩu/API key trong Render Environment.
 Hướng dẫn nằm trong [Triển khai và sao lưu](docs/TRIEN_KHAI_VA_SAO_LUU.md#render-free-và-tidb-cloud-starter).
 Ảnh tải lên đĩa Render Free có thể mất sau restart/deploy; cần kho ảnh ngoài để
-lưu bền vững. Chỉ xác nhận web công khai sau khi kiểm tra URL HTTPS thực tế.
+lưu bền vững. Gói Free có thể ngủ khi ít truy cập, lần mở đầu cần chờ khởi động.
 
 Hệ thống chưa có đánh giá hội thoại độc lập diện rộng, khảo sát khả dụng hoặc
 thử tải. RIASEC là bộ câu hỏi nội bộ phục vụ định hướng, chưa được kiểm định
