@@ -127,6 +127,48 @@ và `data/dataset/`. Cài `requirements-web.txt`; huấn luyện/OCR chạy riê
 hoặc trọng số `.joblib` lên máy chỉ phục vụ CSV. Bản sao lưu phục vụ tái lập vẫn
 cần giữ dữ liệu nguồn và mô hình theo mục sao lưu bên dưới.
 
+## Render Free và TiDB Cloud Starter
+
+Kho mã có `Dockerfile` đóng gói Vue và Django cùng một dịch vụ, cùng `render.yaml`
+khai báo rõ `plan: free`. Đây là cấu hình triển khai; việc có các file này không có
+nghĩa dịch vụ đã được tạo hoặc kiểm tra trên Internet.
+
+1. Tạo TiDB **Starter / MySQL Compatible**, chọn Singapore và giữ **Monthly Spending
+   Limit = 0 USD**. Không thêm thẻ hoặc bật trả phí. Trong SQL Editor tạo một database
+   trống riêng: `CREATE DATABASE uniconnect_ai CHARACTER SET utf8mb4;`.
+2. Tạo Web Service Docker trên Render từ kho GitHub, chọn **Free**, Singapore,
+   health check `/api/health/`. Có thể dùng Blueprint `render.yaml`.
+3. Điền `MYSQL_HOST`, `MYSQL_PORT=4000`, `MYSQL_DATABASE=uniconnect_ai`, `MYSQL_USER`,
+   `MYSQL_PASSWORD` lấy từ TiDB vào **Render Environment**. `DB_ENGINE=tidb` sử dụng
+   dialect `django-tidb` 5.2 và TLS `VERIFY_IDENTITY`; không tắt xác minh chứng chỉ.
+4. `DJANGO_SECRET_KEY` phải là chuỗi ngẫu nhiên riêng, ít nhất 50 ký tự; Blueprint
+   tự sinh. `config.cloud` lấy hostname `.onrender.com` từ Render cho host/CSRF.
+   Với tên miền riêng, khai báo `DJANGO_ALLOWED_HOSTS` và
+   `DJANGO_CSRF_TRUSTED_ORIGINS=https://TEN_MIEN` tương ứng.
+5. Tiến trình khởi động chạy migration và tạo nhóm quyền trước khi nghe cổng
+   `$PORT`. Database cloud ban đầu trống; không tự sao chép người dùng, mật khẩu,
+   hội thoại hoặc dữ liệu cá nhân từ MySQL trên máy. Tạo quản trị viên trên cloud
+   bằng `python backend/manage.py createsuperuser` trong môi trường kết nối đúng DB.
+6. Muốn chat qua Gemini, đặt `CHAT_PROVIDER=gemini` và `GEMINI_API_KEY` trên Render;
+   thiếu API key hoặc hết quota sẽ dùng trả lời tra cứu nội bộ. Không chạy Ollama
+   hoặc huấn luyện mô hình trên gói web miễn phí.
+
+Vue được build trong image; WhiteNoise phục vụ trang chủ, assets và CSS admin;
+API vẫn ở `/api/`. Image chứa CSV và metadata phục vụ suy luận, không chứa `.env`,
+database cục bộ, media cá nhân, dữ liệu OCR hay trọng số huấn luyện `.joblib`.
+
+**Giới hạn bản demo miễn phí:** Render có thể ngủ khi không có truy cập, lần mở
+đầu cần chờ khởi động. Đĩa container là tạm thời: ảnh đại diện/ảnh bài viết tải lên
+có thể mất sau restart hoặc deploy, dù bản ghi tài khoản/bài viết vẫn nằm trong
+TiDB. Cần tích hợp kho ảnh ngoài trước khi dùng lâu dài với người dùng thật.
+Hết quota TiDB với hạn mức 0 USD thì kết nối bị giới hạn, không tự tăng chi phí.
+Phải kiểm tra `/`, `/admin/`, đăng ký/đăng nhập, `/api/health/`, tra cứu và chat
+trên URL HTTPS thực tế trước khi xác nhận triển khai thành công.
+
+Tài liệu nền tảng: [Render Free](https://render.com/docs/free),
+[Render Django](https://render.com/docs/deploy-django),
+[TiDB tiers](https://docs.pingcap.com/tidbcloud/select-cluster-tier/).
+
 ## Email khôi phục mật khẩu
 
 Điền `EMAIL_HOST`, `EMAIL_PORT`, `EMAIL_HOST_USER`, `EMAIL_HOST_PASSWORD`,

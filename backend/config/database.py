@@ -13,8 +13,8 @@ def database_config(base_dir: Path, env=None):
             'ENGINE': 'django.db.backends.sqlite3',
             'NAME': env.get('SQLITE_PATH') or base_dir / 'db.sqlite3',
         }
-    if engine != 'mysql':
-        raise ImproperlyConfigured('DB_ENGINE must be mysql or sqlite.')
+    if engine not in {'mysql', 'tidb'}:
+        raise ImproperlyConfigured('DB_ENGINE must be mysql, tidb or sqlite.')
     if not env.get('MYSQL_DATABASE') or not env.get('MYSQL_USER'):
         raise ImproperlyConfigured('Set MYSQL_DATABASE and MYSQL_USER before selecting MySQL.')
     options = {
@@ -25,8 +25,14 @@ def database_config(base_dir: Path, env=None):
     }
     if env.get('MYSQL_SSL_CA'):
         options['ssl'] = {'ca': env['MYSQL_SSL_CA']}
+    if engine == 'tidb':
+        # TiDB needs its Django dialect and verified TLS on cloud connections.
+        import certifi
+        options['ssl'] = {'ca': env.get('MYSQL_SSL_CA') or certifi.where()}
+        options['ssl_mode'] = 'VERIFY_IDENTITY'
+        options['isolation_level'] = 'repeatable read'
     return {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django_tidb' if engine == 'tidb' else 'django.db.backends.mysql',
         'NAME': env['MYSQL_DATABASE'],
         'USER': env['MYSQL_USER'],
         'PASSWORD': env.get('MYSQL_PASSWORD', ''),

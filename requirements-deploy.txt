@@ -1,0 +1,4 @@
+-r requirements-web.txt
+django-tidb~=5.2.0
+certifi>=2024.8.30
+whitenoise>=6.12,<7

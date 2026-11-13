@@ -353,6 +353,13 @@ kiểm thử riêng trên MySQL của môi trường triển khai.
 thu hosting/tên miền HTTPS công khai. Không dùng Vite dev server làm production.
 Cần cấu hình secret, domain, HTTPS, SMTP, quota, logging và sao lưu trên máy chủ.
 
+Đã bổ sung `Dockerfile`, `render.yaml` cho **Render Free + TiDB Cloud Starter**:
+build Vue cùng Django, phục vụ static bằng WhiteNoise và kết nối TiDB qua TLS.
+Giữ hạn mức TiDB **0 USD/tháng**; đặt mật khẩu/API key trong Render Environment.
+Hướng dẫn nằm trong [Triển khai và sao lưu](docs/TRIEN_KHAI_VA_SAO_LUU.md#render-free-và-tidb-cloud-starter).
+Ảnh tải lên đĩa Render Free có thể mất sau restart/deploy; cần kho ảnh ngoài để
+lưu bền vững. Chỉ xác nhận web công khai sau khi kiểm tra URL HTTPS thực tế.
+
 Hệ thống chưa có đánh giá hội thoại độc lập diện rộng, khảo sát khả dụng hoặc
 thử tải. RIASEC là bộ câu hỏi nội bộ phục vụ định hướng, chưa được kiểm định
 tâm lý như công cụ chuẩn hóa. Dự đoán 2027 chưa được kiểm chứng bằng điểm thực tế.
